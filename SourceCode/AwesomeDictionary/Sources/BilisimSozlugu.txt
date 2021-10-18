@@ -1,0 +1,3508 @@
+﻿ 12-hour clock _ 12 saatlik zaman biçimi 
+ 12-hour time format _ 12 saatlik zaman biçimi 
+ 24-hour clock _ 24 saatlik zaman biçimi 
+ 24-hour time format _ 24 saatlik zaman biçimi 
+ 9-pin printer _ 9 iğneli yazıcı 
+ abbreviate _ kısaltmak 
+ abnormal end, abnormal termination _ olağandışı son 
+ abort _ durdurmak 
+ abort sequence _ durdurma dizisi 
+ absolute _ salt 
+ absolute address _ salt adres 
+ absolute device _ salt aygıt 
+ absolute loader _ salt yükleyici 
+ abstract _ özet 
+ abstract _ soyut 
+ abstract syntax tree _ soyut sözdizim ağacı 
+ accelerate _ hızlandırmak 
+ acceleration _ ivme 
+ accept _ onaylamak 
+ accesibility _ erişilirlik 
+ accesible _ erişilir 
+ access _ erişmek 
+ access _ erişim 
+ access method _ erişim yöntemi 
+ accessory _ donatı 
+ access time _ erişim süresi 
+ accumulate _ biriktirmek 
+ accumulator _ birikeç 
+ accumulator-bus _ birikeç yolu 
+ accuracy _ doğruluk 
+ acknowledge _ alındılamak 
+ acknowledge character _ alındı damgası 
+ acknowledgement _ alındı 
+ acoustic _ yankılanım (ad) 
+ acoustic _ yankılanımlı (s) 
+ acoustic coupler _ yankılanımlı bağlayıcı 
+ acronym _ kısaad 
+ action bar _ menü çubuğu 
+ activate _ etkinleştirmek 
+ active _ etkin 
+ activity _ etkinlik 
+ activity counter _ işleklik sayacı 
+ activity ratio _ işleklik oranı 
+ actuator _ erişim düzeneği 
+ adapt _ uyarlamak 
+ adapter _ bağdaştırıcı 
+ added value _ katma değer 
+ addend _ toplanan 
+ address _ adres 
+ address bus _ adres yolu 
+ address conversion _ adres dönüştürme 
+ addressee _ alıcı 
+ address translation _ adres dönüştürme 
+ adhoc (query) _ anlık (sorgu) 
+ adjacent _ bitişik 
+ adjust _ ayarlamak 
+ administratori manager _ yönetici 
+ adopt _ edinmek 
+ advance _ ilerlemek 
+ advanced _ gelişmiş 
+ advanced _ ileri 
+ advantage _ yarar kazanımı 
+ after-image _ değişiklik sonrası kopya 
+ agent _ aracı 
+ aggregate _ kümelemek 
+ aid _ yardım 
+ alarm _ uyarı 
+ alarm clock _ çalar saat 
+ alert _ uyarmak 
+ alert (n) _ uyarı 
+ algorithm _ algoritma 
+ algorithm _ Harzemli Yolu 
+ alias _ arma 
+ alias _ öteki ad 
+ align _ hizalamak 
+ all _ tümü 
+ all authority _ tam yetki 
+ all caps _ tümü büyük harf 
+ allocatable resource _ ayrılabilir kaynak 
+ allocate _ ayırmak 
+ allocation unit _ yerleşim birimi 
+ all-points addressable _ tüm noktaları adreslenir 
+ all rights reserved _ tüm hakları saklıdır 
+ alphabet _ abece 
+ alphabetic _ abecesel 
+ alphanumeric _ abecesayısal 
+ alter _ değiştirmek 
+ alternate, alternative _ öteki 
+ alternate character set _ öteki karakter seti 
+ alternate code page _ öteki kod sayfası 
+ alternate collating sequence _ öteki birleştirme sırası 
+ alternate current, alternating current _ dalgalı akım 
+ alternate track _ yedek iz 
+ alternating _ dalgalı 
+ alternative _ seçenek 
+ alternative _ öteki 
+ Alt Gr key _ Alt Gr tuşu 
+ Alt key _ Alt tuşu 
+ AM (12 saatlik zaman biçimi) _ ÖÖ (Öğleden Önce) 
+ American National Standards Institute _ Amerikan Ulusal Standartlar Enstitüsü 
+ ampersand _ ve imi 
+ amplifier _ yükselteç 
+ amplitude _ genlik 
+ analog _ örneksel 
+ analog-to-digital converter(ADC) _ örnekselden sayısala dönüştürücü 
+ analogy _ örnekseme 
+ analysis _ çözümleme 
+ analyzer _ çözümleyici 
+ anchor point _ demir atma noktası 
+ animate _ canlandırmak 
+ animation _ canlandırma 
+ annotation _ ek açıklama 
+ answerback _ karşılık vermek 
+ anticipatory buffering _ önceden ara belleğe alma 
+ anticipatory paging _ önceden sayfalama 
+ anticlockwise, counter clockwise _ saat yönünün tersi 
+ antistatic _ durağan olmayan 
+ antonyms _ karşıt anlamlılar 
+ aperture _ açıklık 
+ apostrophe _ kesme imi 
+ appear _ görünmek 
+ append _ sona eklemek 
+ appendix _ ek 
+ application _ uygulama 
+ application enabling _ uygulama altyapısı sağlama 
+ application program _ uygulama programı 
+ application requester _ uygulama istemcisi 
+ application server _ uygulama sunucusu 
+ application software _ uygulama yazılımı 
+ apply _ uygulamak 
+ approve _ onaylamak 
+ approximate _ yaklaşık 
+ Arabic numbers _ Arap sayıları 
+ arbitrary _ isteğe bağlı 
+ arc _ yay 
+ architecture _ mimari 
+ archive _ belgelik 
+ area _ alan 
+ area chart _ alan çizgesi 
+ argument _ bağımsız değişken 
+ arithmetic _ aritmetik 
+ arrange _ düzenlemek 
+ array _ dizi 
+ arrival sequence access path _ geliş sıralı erişim yolu 
+ arrow _ ok 
+ arrow head _ ok ucu 
+ arrow key _ ok tuşu 
+ article _ yazı 
+ artificial _ yapay 
+ artificial intelligence _ yapay anlayış 
+ artwork _ çizim 
+ ascender _ harfin üst çıkıntısı 
+ ascending _ artan 
+ ascending order _ artan sıra 
+ ascent _ harfin üst çıkıntısı 
+ aspect ratio _ en boy oranı 
+ assembler _ çevirici 
+ assembly _ çevirme 
+ assembly language _ çevirici dili 
+ assign _ atamak 
+ assignment (n) _ atama 
+ assignment statement _ atama deyimi 
+ assistance _ yardım 
+ assocation _ birlik 
+ associate _ ilişkilendirmek 
+ association _ ilişki 
+ associative memory _ çağrışımlı bellek 
+ assume _ varsaymak 
+ assumption _ varsayım 
+ assurance _ güvence 
+ asterisk _ yıldız imi 
+ asymmetric _ bakışımsız 
+ asynchronous _ zamanuyumsuz 
+ attach (hardware) _ bağlamak 
+ attachment _ ek 
+ attachment (hardware) _ bağlantı 
+ attach (software) _ iliştirmek 
+ attended operation _ gözetimli işletim 
+ attention _ uyarı 
+ attention _ dikkat 
+ attenuation _ zayıflama 
+ attribute _ öznitelik 
+ audible _ sesli 
+ audio _ ses 
+ audio _ işitsel 
+ audio tape _ ses şeridi 
+ audit _ denetlemek 
+ audit trail _ denetleme izi 
+ authenticate _ doğrulamak 
+ authentication _ kimlik denetimi 
+ authority _ yetke 
+ authorization _ yetki 
+ authorize _ yetkilendirmek 
+ authorized _ yetkili 
+ auto adjust _ özdevimli ayar 
+ auto answer _ özdevimli yanıt 
+ auto, automatic, automatically _ özdevimli 
+ auto call _ özdevimli çağırma 
+ autocorrelation _ öz ilinti 
+ auto-dim _ özdevimli görüntü karartma 
+ auto-dim interval _ karartma için bekleme süresi 
+ auto-feed _ özdevimli besleme 
+ auto link _ özdevimli bağ/bağlantı 
+ auto logon _ özdevimli bağlantı 
+ automata _ özdevinir 
+ automated teller machine _ özdevimli vezne 
+ automatic Startup _ özdevimli başlama 
+ automation _ özdevinim 
+ autosave _ özdevimli kaydetme 
+ autosave frequency _ özdevimli kaydetme sıklığı 
+ auto select _ özdevimli seçme 
+ auto Update _ özdevimli güncellemek 
+ auxiliary _ yardımcı 
+ auxiliary storage _ yardımcı bellek 
+ availability _ kullanılırlık 
+ available _ kullanılır 
+ average _ ortalama 
+ axis _ eksen 
+ axis translation line _ eksen kaydırma çizgisi 
+ babble _ parazit 
+ background _ artalan 
+ background job _ artalan işi 
+ backlighted, backlit _ arkadan aydınlatmalı 
+ backlog _ birikim 
+ backout _ geri çekmek 
+ backslash _ ters eğik çizgi 
+ back space _ geriletmek 
+ backspace key _ geri tuşu 
+ backtab _ geri sekme 
+ back tracking _ gerileme 
+ backup _ yedek 
+ back up _ yedeklemek 
+ backup _ yedeklemek 
+ back up copy _ yedek kopya 
+ back up frequency _ yedekleme sıklığı 
+ backward _ geriye 
+ backwards compatibility _ geriye uyumluluk 
+ badge _ kimlik kartı 
+ bad sector _ bozuk kesim 
+ balance _ kalan 
+ balance _ dengelemek 
+ band _ bant 
+ band printer _ kuşak yazıcı 
+ bandwidth _ bant genişliği 
+ bank _ sıra 
+ bank select _ sıra seçimi 
+ banner _ büyük başlık 
+ bar _ çubuk 
+ bar) _ çizge 
+ bar chart _ çubuk çizim 
+ barcode _ çubukkod 
+ bar code slot reader _ yuvalı çubukkod okuyucu 
+ bar code wand _ çubukkod okuma kalemi 
+ base _ taban 
+ base address _ taban adresi 
+ baseband _ ana bant 
+ baseline _ taban çizgisi 
+ base register _ taban yazmacı 
+ basic _ temel 
+ batch _ toplu 
+ batch file _ toplu iş 
+ batch file _ toplu iş kütüğü 
+ batch file _ toplu kütük 
+ batch job _ toplu iş 
+ batch processing _ toplu işlem 
+ battery _ akü 
+ battery _ pil 
+ battery pack _ pil takımı 
+ baud _ baud 
+ baud rate _ baud hızı 
+ beam _ ışın 
+ beep _ bip 
+ before-image _ değişiklik öncesi kopya 
+ Beginner s All-purpose Symbolic Instruction Code _ BASIC (programlama dili) 
+ bell _ zil 
+ belt _ kuşak 
+ benchmark _ karşılaştırmalı değerlendirme 
+ benchmark test _ karşılaştırmalı değerlendirme deneyi 
+ best fit _ uygun 
+ bias _ sapmak 
+ bias _ yanlılık 
+ bibliography _ kaynakça 
+ bidirectional _ iki yönlü 
+ bin _ sele 
+ binary _ ikili 
+ binary code _ ikili kod 
+ binary-coded decimal _ ikili kodlanmış onlu 
+ binary digit _ ikili sayı 
+ binary file _ ikili kütük 
+ binary search _ bölerek arama 
+ bind _ bağlamak 
+ binding margins _ cilt payı boşluğu 
+ bin feed _ seleden besleme 
+ bionics _ dirimkurgu 
+ bipolar _ iki kutuplu 
+ bistable _ iki durumlu 
+ bit _ ikil 
+ bit map _ ikil eşlemi 
+ bitmapped _ ikil eşlemli 
+ bits per character _ ikil/karakter 
+ bits per second _ ikil/saniye 
+ black-and-white _ ak kara 
+ blank _ boş 
+ blank _ boşluk 
+ blank character _ boşluk karakteri 
+ blanket _ örtü 
+ blink _ yanıp sönme 
+ block copy _ öbek kopyalama 
+ block delete _ öbek silme 
+ block, group _ öbek 
+ block move _ öbek taşıma 
+ block selection _ öbek seçimi 
+ board _ çevrim kartı 
+ body _ gövde 
+ boilerplate text _ ortak metin 
+ bold _ kalın 
+ bold _ koyu 
+ boldface _ kalın 
+ bookmark _ yer imi 
+ bookmarked area _ yer imli alan 
+ Boolean _ Boole 
+ Boolean algebra _ Boole cebri 
+ Boolean character _ Boole damgası 
+ Boolean instructions _ Boole komutları 
+ Boolean operator _ Boole işleci 
+ boot _ önyüklemek 
+ bootstrap _ önyükleme 
+ border _ sınır 
+ bottom _ alt 
+ bottom margin _ alt kenar boşluğu 
+ bottom-up parsing _ aşağıdan yukarıya ayrıştırma 
+ bottom-up programming _ aşağıdan yukarıya programlama 
+ bounce _ yansıma 
+ boundary _ sınır 
+ boundary condition _ sınır koşulu 
+ boundary value _ sınır değer 
+ box _ kutu 
+ boxed paragraph _ kutulanmış paragraf 
+ brace _ kaşlı ayraç 
+ bracket _ köşeli ayraç 
+ branch _ dallanmak 
+ branch _ şube 
+ branching _ dallanma 
+ break _ kesmek 
+ breakdown _ aksaklık 
+ breakdown _ döküm 
+ break-even point _ başabaş noktası 
+ breaking link _ bağlantı kesme 
+ breakpoint _ kesme noktası 
+ bridge _ köprü 
+ brightness _ parlaklık 
+ bring to front _ öne getirmek 
+ broadband, wideband _ geniş bant 
+ broadcast _ yayımlamak 
+ broken word _ bölünmüş sözcük 
+ browse _ göz atmak 
+ brush _ fırça 
+ bubble board _ kabarcık bellek kartı 
+ bubble memory _ kabarcık bellek 
+ bubble sort _ elemeli sıralama 
+ bucket _ kova 
+ buffer _ arabellek 
+ buffering _ arabelleğe alma 
+ buffer (proje yönetimi) _ yedek zaman aralığı 
+ bug _ YANLIŞ 
+ built-in _ yerleşik 
+ bulk _ yığın 
+ bulk storage _ yığın bellek 
+ bullet _ madde imi 
+ bulleted list _ madde imli liste 
+ bulleted paragraph _ madde imli paragraf 
+ Bulletin Board Services _ Duyuru Tahtası Hizmetleri 
+ burned-in image _ izi kalan görüntü 
+ burn-in _ yazmak 
+ burst _ kağıt ayırmak 
+ burster _ kağıt ayırıcı 
+ burst mode _ tekil kip 
+ bus _ yol 
+ business case _ olurluk incelemesi 
+ bus mouse _ seri (dizisel) bağlantılı fare 
+ busy _ kullanımda 
+ button, pushbutton _ düğme 
+ by default, default _ varsayılan 
+ bypass _ atlamak 
+ byte _ sekiz ikil 
+ cabinet _ dolap 
+ cable _ kablo 
+ cache buffer _ ön arabellek 
+ cache, memory cache _ önbellek 
+ caching _ önbelleğe alma 
+ calculate _ hesaplamak 
+ calculator _ hesap makinesi 
+ calendar _ takvim 
+ calibrate _ ayarlamak 
+ call _ çağırmak 
+ call _ çağrı 
+ callback _ geri çağırmak 
+ cancel _ vazgeç 
+ cancel button _ vazgeç düğmesi 
+ capability _ yetenek 
+ capacity _ sığa 
+ capital _ büyük harf 
+ capitalization _ büyük harfe çevirme 
+ capitalized letter _ büyüğe çevrilmiş harf 
+ capital letter _ büyük harf 
+ caps lock _ büyük harf kilidi 
+ caption _ başlık 
+ capture _ yakalamak 
+ carbon copy _ bilgi için 
+ carbon copy list _ bilgilendirilecekler listesi 
+ card _ kart 
+ cardinal number _ sayal sayı 
+ caret _ düzeltme imi 
+ carriage return _ satırbaşı 
+ carrier _ taşıyıcı 
+ carrier return _ yeni satırbaşı 
+ carry _ elde 
+ cartridge _ kutucuk 
+ cartridge tape unit _ kutucuk teyp birimi 
+ cascade _ basamaklamak 
+ CASE _ Computer Aided Systems Engineering 
+ case conversion _ büyük küçük harf dönüşümü 
+ case sensitive _ büyük ve küçük harfe duyarlı 
+ case study _ örnek olay incelemesi 
+ cash _ nakit 
+ cash register _ yazar kasa 
+ cassette _ kaset 
+ catalog _ katalog 
+ category _ ulam 
+ cathode ray tube _ katot ışınlı tüp 
+ CD burner _ CD yazıcı 
+ CD-ROM _ CD-ROM 
+ CD-ROM driver _ CD-ROM sürücü 
+ CD-ROM-Player _ CD-ROM-Okuyucu 
+ cell _ göze 
+ cell protection _ göze koruması 
+ cell range _ göze erimi 
+ center _ merkez 
+ center alignment _ ortalama 
+ centimeters _ santimetre 
+ central _ merkezi 
+ central processing unit _ ana işlem birimi 
+ certificate, certification _ onay belgesi 
+ chained file _ zincirleme kütük 
+ chained list _ zincirleme liste 
+ chaining _ zincirleme 
+ change _ değiştirmek 
+ channel _ kanal 
+ channel-attached _ kanala bağlı 
+ chapter _ bölüm 
+ Chapter Heading _ Bölüm Başlığı 
+ chapter heading _ bölüm başlığı 
+ character _ damga 
+ characteristic, feature _ özellik 
+ character recognition _ karakter tanıma 
+ character set _ karakter kümesi 
+ characters per inch _ karakter/inç 
+ character string _ damga dizgisi 
+ chart (pie _ çizge 
+ check _ denetim 
+ check _ sağlama 
+ check bit _ sağlama biti 
+ check box _ onay kutusu 
+ check digit _ sağlama sayısı 
+ check mark _ onay imi 
+ checkpoint _ denetim noktası 
+ checkpoint/restart procedure _ denetim noktası/yeniden başlatma yorda 
+ checksum _ sağlama toplamı 
+ child _ alt 
+ chip _ yonga 
+ choice _ seçim 
+ choose _ seçmek 
+ cipher _ şifrelemek 
+ circle _ çember 
+ circle _ dönge 
+ circuit _ çevrim 
+ circuit switching _ çevrim anahtarlama 
+ circular reference _ çevrimsel gönderme 
+ clamp _ kıskaç 
+ classification _ sınıflama 
+ classify _ sınıflamak 
+ clause _ yantümce 
+ clear _ temizlemek 
+ clearance _ yetki 
+ clear session _ şifresiz oturum 
+ click _ tıklatmak 
+ client _ istemci 
+ client/server _ istemci/sunucu 
+ client/server application _ istemci/sunucu uygulaması 
+ clip _ kırpma 
+ clipart _ kırpıntı çizge 
+ clipboard _ pano 
+ clock _ saat 
+ clocking _ saatle denetim 
+ clock pulse, clock signal _ saat vurumu 
+ clock rate _ saat vurum sıklığı 
+ clockwise _ saat yönü 
+ close _ kapatmak 
+ close box _ kapatma kutusu 
+ closed cycle control system _ kapalı çevrimli denetim sistemi 
+ closed loop _ kapalı döngü 
+ closedown _ kapanış 
+ closed routine _ kapalı yordam 
+ closing parenthesis _ sağ ayraç 
+ cluster _ küme 
+ coated _ kaplanmış 
+ coaxial _ eşeksenli 
+ code _ kod 
+ code page _ kod sayfası 
+ code page switching _ kod sayfası değiştirme 
+ code point _ kod noktası 
+ coefficient _ katsayı 
+ coil _ sargı 
+ coincidence _ çakışma 
+ cold start _ soğuk başlatma 
+ collapse(to) _ daraltmak 
+ collate _ harmanlamak 
+ collating sequence _ harmanlama sırası 
+ collision _ çarpışma 
+ collision detection _ çarpışma algılaması 
+ colon alignment _ iki noktaya göre hizalama 
+ color _ renk 
+ color graphics _ renkli grafik 
+ color graphics adapter _ Renkli Grafik Bağdaştırıcı 
+ color map _ renk eşlemi 
+ color palette _ renk paleti 
+ color wheel _ renk tekeri 
+ column _ dikeç 
+ column boundaries _ dikeç sınırları 
+ column break _ dikeç sonu 
+ column heading _ dikeç başlığı 
+ column marker _ dikeç imi 
+ column width _ dikeç genişliği 
+ combination _ birleşim 
+ combination box _ birleşik giriş kutusu 
+ combination key _ birleşik tuş 
+ combine _ birleştirmek 
+ comma _ virgül 
+ comma alignment _ virgüle göre hizalama 
+ comma delimited _ virgülle sınırlanmış 
+ command _ komut 
+ command check _ komut hatası 
+ command file _ komut kütüğü 
+ command interpreter _ komut yorumlayıcı 
+ command key _ komut tuşu 
+ command language _ komut dili 
+ command line _ komut satırı 
+ command menu _ komut menüsü 
+ command prompt _ komut istemi 
+ command sequence _ komut dizisi 
+ comment _ açıklama 
+ commit _ üstlenmek 
+ common (adj) _ ortak 
+ common area, common field _ ortak alan 
+ Common Programming Interface _ Ortak Programlama Arabirimi 
+ Common User Access _ Ortak Kullanıcı Erişimi 
+ communication _ iletişim 
+ communications manager _ iletişim yöneticisi 
+ communications port _ iletişim kapısı 
+ communucation line _ iletişim hattı 
+ communucation link _ iletişim bağlantısı 
+ communucation network _ iletişim ağı 
+ compact computer _ tek parça bilgisayar 
+ compact disc _ yoğun disk 
+ compaction _ sıkıştırma 
+ compact list _ aralıksız liste 
+ compact system _ küçük boyutlu sistem 
+ comparative sort _ karşılaştırmalı sıralama 
+ comparator _ karşılaştırıcı 
+ compare _ karşılaştırmak 
+ compatibility _ uyumluluk 
+ compatible _ uyumlu 
+ compilation _ derleme 
+ compile _ derlemek 
+ compiler _ derleyici 
+ compiler generator _ derleyici üreteci 
+ complement _ tümleyici 
+ complex _ karmaşık 
+ complex number _ karmaşık sayı 
+ component _ bileşen 
+ composite _ birleşik 
+ composite key _ birleşik anahtar 
+ compound _ bileşik 
+ Compound Document Architecture _ Bileşik Belge Mimarisi 
+ compress _ sıkıştırmak 
+ compressed file _ sıkıştırılmış kütük 
+ compressed text _ sıkıştırılmış metin 
+ compression _ sıkıştırma 
+ compromise _ uzlaşma 
+ computational linguistics _ bilişimsel dilbilim 
+ compute _ hesaplamak 
+ computer _ bilgisayar 
+ Computer Aided Design _ Bilgisayar Destekli Tasarım (BDT) 
+ Computer Aided Education _ Bilgisayar Destekli Eğitim (BDE) 
+ Computer Aided Engineering _ Bilgisayar Destekli Mühendislik (BDM) 
+ Computer Aided Manufacturing _ Bilgisayar Destekli Üretim (BDÜ) 
+ computer center _ bilgisayar merkezi 
+ computer conferencing _ bilgisayar aracılığıyla toplantı 
+ computer crime _ bilgisayar suçu 
+ Computer Integrated Manufacturing _ Bilgisayarla Tümleşik Üretim (BTÜ) 
+ computerize _ bilgisayara uyarlamak 
+ computerized numerical control _ bilgisayarlı sayısal denetim 
+ computerized office _ bilgisayarlı ofis 
+ computer science _ bilgisayar bilimi 
+ concatenate _ bitiştirmek 
+ concatenated field _ bitiştirilmiş alan 
+ conceptual _ kavramsal 
+ concrete _ somut 
+ concurrent _ koşutzamanlı 
+ condense _ yoğunlaştırmak 
+ condensed print, compressed print _ sıkıştırılmış yazdırma 
+ condition _ koşul 
+ conditional instruction _ koşullu yönerge 
+ conditional transfer _ koşullu aktarma 
+ conduit _ kablo borusu 
+ confidential _ gizli 
+ configuration _ yapılanış 
+ configurator _ konfigürasyon tanımlayıcı 
+ configure _ yapılandırmak 
+ confirm _ doğrulamak 
+ conflict _ çelişmek 
+ congestion _ tıkanıklık 
+ conjunction _ birleşme 
+ connect _ bağlamak 
+ connection _ bağlantı 
+ connectivity _ bağlanırlık 
+ connector _ bağlayıcı 
+ consecutive _ ardışık 
+ consistency _ tutarlılık 
+ console _ işletmen uçbirimi 
+ constant _ değişmez 
+ constrain _ kısıtlamak 
+ constraint _ kısıt 
+ contact _ değmek 
+ container _ kap 
+ content _ içerik 
+ contention _ çekişme 
+ contents _ içindekiler 
+ context _ bağlam 
+ context-free _ bağlam duyarsız 
+ context sensitive _ bağlama duyarlı 
+ contextual help _ bağlamsal yardım 
+ contiguous _ bitişik 
+ continuation _ sürdürme 
+ continuation character _ sürdürme karakteri 
+ continue _ sürdürmek 
+ continuous _ sürekli 
+ continuous feed _ sürekli besleme 
+ continuous paper _ sürekli kağıt 
+ contractor _ yüklenici 
+ contrast _ karşıtlık 
+ contrast control _ karşıtlık ayarı 
+ control _ denetlemek 
+ control ball _ imleç denetim topu 
+ control character _ denetim karakteri 
+ control codes _ denetim kodları 
+ controller _ denetleyici 
+ control menu _ denetim menüsü 
+ control panel _ denetim masası 
+ convention _ kural 
+ conventional _ geleneksel 
+ convergence _ yakınsama 
+ conversational _ etkileşimli 
+ conversion _ dönüştürme 
+ convert _ dönüştürmek 
+ converter _ dönüştürücü 
+ convex _ dışbükey 
+ cooperative processing _ işbirlikli işlem 
+ coordinate _ eşgüdüm sağlamak 
+ coordinate _ konaç 
+ coordination _ eşgüdüm 
+ coordinator _ eşgüdümcü 
+ coprocessor _ yardımcı işlemci 
+ copy _ kopyalamak 
+ copy protection _ kopya koruması 
+ copyright _ telif hakkı 
+ cord _ kablo 
+ core (memory) _ çekirdek 
+ corequisite _ yankoşul 
+ co-resident _ birlikte yerleşik 
+ corner _ köşe 
+ correct _ DOĞRU 
+ correction _ düzeltme 
+ corrective maintenance _ onarım 
+ correlation _ ilinti 
+ correspondence _ yazışma 
+ corresponding _ ilişkin 
+ corruption _ bozulma 
+ cost-effective _ uygun maliyetli 
+ count _ saymak 
+ counter _ sayaç 
+ country _ ülke 
+ coupler _ bağlaştırıcı 
+ coupling _ bağlaşım 
+ cover page _ kapak sayfası 
+ create _ yaratmak 
+ criteria _ ölçüt 
+ critical _ kritik 
+ critical path _ kritik yol 
+ Critical Path Method (CPM) _ kritik yol yöntemi 
+ crop marks _ kırpma imleri 
+ cropping _ kırpma 
+ cross-domain _ etki alanları arası 
+ crosshair cursor, hair cross cursor _ ince artı imleci 
+ cross reference _ çapraz başvuru 
+ crosstalk _ yanses 
+ cryptanalist _ şifre çözümleyici 
+ cryptographic _ şifrelemeyle ilgili 
+ cryptography _ şifreleme 
+ CUA architecture _ CUA mimarisi 
+ cumulative _ birikimli 
+ cumulative error _ birikimli hata 
+ currency _ para birimi 
+ currency symbol _ para birimi simgesi 
+ current _ akım 
+ current _ yürürlükteki 
+ current date _ günün tarihi 
+ current directory _ yürürlükteki dizin 
+ current document _ yürürlükteki belge 
+ current drive _ yürürlükteki sürücü 
+ current library _ yürürlükteki kitaplık 
+ current release _ son yayım 
+ current time _ şu anki saat 
+ cursor _ imleç 
+ cursor control keys _ imleç denetim tuşları 
+ cursor movement key _ imleç yön tuşu 
+ curve _ eğri 
+ customer _ müşteri 
+ customer setup _ müşterice kurulan 
+ customizable _ uyarlanır (isteğe) 
+ customize _ uyarlamak (isteğe) 
+ custom, private, special _ özel 
+ cut _ kesmek 
+ cut and paste _ kesmek ve yapıştırmak 
+ cut form _ yaprak 
+ cut off _ kesmek 
+ cut sheet _ yaprak 
+ cut sheet feeder _ yaprak besleyici 
+ cybernetics _ güdümbilim 
+ cycle _ dönüş 
+ cycle stealing _ dönüş çalma 
+ cycle time _ dönüş süresi 
+ cyclic _ dönüşsel 
+ cyclic redundancy check _ dönüşsel artıklık denetimi 
+ cylinder _ silindir 
+ daily (adj.) _ günlük 
+ daisy-chain _ papatya dizimi 
+ daisy wheel printer _ papatya çarklı yazıcı 
+ damage _ zarar vermek 
+ dash _ çizgi 
+ dashed line _ kesikli çizgi 
+ data _ veri 
+ data access _ veri erişimi 
+ data bank _ veri bankası 
+ database _ veritabanı 
+ data base, database (DB) _ veri tabanı 
+ database integrity _ veritabanı bütünlüğü 
+ database management system(DSMS) _ veri tabanı yönetim sistemi (VTYS) 
+ data bus _ veri yolu 
+ data collection terminal _ veri toplama uçbirimi 
+ data communucation _ veri iletişim 
+ datacommunucations _ veri iletişimi 
+ data communucations equipment(DCE) _ veri iletişim donatımı 
+ data dictionary _ veri sözlüğü 
+ data dispenser _ veri dağıtıcısı 
+ data document _ veri belgesi 
+ data entry _ veri girişi 
+ data file _ veri kütüğü 
+ Data-flip-flop _ veri yazbozu 
+ data fork _ veri çatalı 
+ data integrity _ veri bütünlüğü 
+ data interchange format _ veri değişim biçimi 
+ data link _ veri bağlantısı 
+ data management _ veri yönetimi 
+ data model _ veri modeli 
+ data processing _ bilgi işlem 
+ data processing center _ bilgi işlem merkezi 
+ data protection _ veri koruma 
+ data rate _ veri hızı 
+ data receiver _ veri alıcı 
+ data record _ veri tutanağı 
+ data reduction _ veri azaltma 
+ data reference _ veri gönderisi 
+ data reference line _ veri taban çizgisi 
+ data repository _ veri havuzu 
+ data security _ veri güvenliği 
+ data set _ kütük 
+ datasheet _ veri sayfası 
+ data signalling rate _ veri iletişim hızı 
+ data sink _ veri biriktirici 
+ data source _ veri kaynağı 
+ data storage density _ veri saklama yoğunluğu 
+ data storage unit _ veri saklama birimi 
+ data structure _ veri yapısı 
+ data tablet _ veri tableti 
+ data text, datatext _ veri metni 
+ data/text merge _ veri/metin birleştirme 
+ data transcription _ veri çevriyazımı 
+ data transfer _ veri aktarımı 
+ data transfer rate _ veri aktarım hızı 
+ data transmission _ veri iletimi 
+ data type _ veri türü 
+ date _ tarih 
+ date format _ tarih biçimi 
+ day _ gün 
+ deactivate _ etkinliğini kaldırmak 
+ deadline _ son gün 
+ deadlock _ kilitlenme 
+ deallocate _ serbest bırakmak 
+ debug _ yanlış ayıklamak 
+ debugger _ yanlış ayıklayıcı 
+ debugging _ yanlış ayıklama 
+ decentralized _ dağıtılmış 
+ decimal _ ondalık 
+ decimal _ onlu 
+ decimal aligned _ ondalık ayırıcı hizalı 
+ decimal alignment _ ondalık ayırıcıya göre hizalama 
+ decimal character _ ondalık karakter 
+ decimal place _ ondalık basamak 
+ decimal point _ ondalık ayırıcı 
+ decimal tabs _ ondalık sekmeler 
+ decimal tabstop _ ondalık sekme durakları 
+ decimal value _ ondalık değer 
+ decipher _ şifre çözmek 
+ decision _ karar 
+ decisional database _ karar veri tabanı 
+ deck _ deste 
+ declaratives _ bildirim deyimleri 
+ declare _ bildirmek 
+ decode _ kod çözmek 
+ decompile _ kaynak koda dönüştürme 
+ decompress _ sıkıştırılmışı açmak 
+ decrease (to) _ azaltmak 
+ decrement _ azaltmak 
+ decrement _ azalma miktarı 
+ decrypt _ şifre çözmek 
+ dedicate _ adamak 
+ dedicated _ adanmış 
+ default value _ varsayılan değer 
+ defer _ ertelemek 
+ define _ tanımlamak 
+ definite _ kesin 
+ definition _ tanım 
+ definition _ tanımlama 
+ deflection _ yön saptırma 
+ deflector _ saptırıcı (yön) 
+ defragment _ birleştirmek, bütünle(ş)mek 
+ degradation _ bozulma 
+ degree _ derece 
+ delay _ geciktirmek 
+ delay time _ gecikme süresi 
+ delegate _ yetki aktarmak 
+ delete _ silmek 
+ Delete key _ Sil tuşu 
+ deletion mark _ silme imi 
+ delimiter _ sınırlayıcı 
+ delivery _ teslim 
+ Del key _ Sil tuşu 
+ demand _ istem 
+ demand multiplexing _ istem çoklama 
+ demand paging _ sayfalı görüntü bellek yönetimi 
+ demodulate _ kip çözmek 
+ demodulator _ kip çözücü 
+ demonstration _ gösteri 
+ demote (to) _ indirgemek 
+ demount _ bağlantıyı kaldırma 
+ denominator (re: fractions) _ payda 
+ density _ yoğunluk 
+ dependent _ bağımlı 
+ derivation _ türetme 
+ descender _ harfin alt çıkıntısı 
+ descending _ azalan 
+ descending order _ azalan sıra 
+ descent _ harfin alt çıkıntısı 
+ description _ betimleme 
+ deselect _ seçimi kaldırmak 
+ deselect all _ tüm seçimleri kaldırmak 
+ design _ tasarım 
+ design _ tasarlamak 
+ designation _ belirtme 
+ desk _ masa 
+ desk accessory _ masa donatısı 
+ desktop _ masaüstü 
+ desktop manager _ masaüstü yöneticisi 
+ desktop pattern _ masaüstü deseni 
+ desktop publishing _ masaüstü yayıncılık 
+ destination _ varış 
+ destination address _ varış adresi 
+ destructive _ yıkıcı 
+ destructive read _ silici okuma 
+ detache _ ayırmak 
+ detail _ ayrıntı 
+ detail report _ ayrıntı raporu 
+ detectable _ algılanır 
+ determinant _ belirteç 
+ develop _ geliştirmek 
+ developer _ geliştirici 
+ development tool _ geliştirme aracı 
+ device _ aygıt 
+ device driver _ aygıt sürücü 
+ device independent _ aygıttan bağımsız 
+ device token _ aygıt simgesi 
+ diacritical mark _ vurgu imi 
+ diagnose _ tanılamak 
+ diagnosis _ tanı 
+ diagnostic message _ tanı iletisi 
+ diagonal _ köşegen 
+ diagram _ çizge 
+ dial _ çevirmek 
+ dialed line _ çevirmeli hat 
+ dialog box _ iletişim kutusu 
+ dial tone _ çevir sesi 
+ dial-up terminal _ çevirmeli uçbirim 
+ dictionary _ sözlük 
+ digit _ sayı 
+ digit _ basamak 
+ digital _ sayısal 
+ digitize _ sayısallaştırmak 
+ digitizer _ sayısallaştırıcı 
+ dim _ soluk 
+ dimension _ boyut 
+ dimmed _ soluk 
+ dimmer switch _ karartma ayarlı anahtar 
+ diode _ diyot 
+ direct _ doğrudan 
+ direct access _ doğrudan erişim 
+ direct access storage device _ doğrudan erişimli saklama aygıtı 
+ direct address _ doğrudan adres 
+ direct address _ dolaysız adres 
+ direct current _ doğru akım 
+ direction _ yön 
+ direction keys _ yön tuşları 
+ direct memory access (DMA) _ doğrudan bellek erişimi 
+ directory _ dizin 
+ directory listing _ dizin içerik listesi 
+ directory location _ dizin yeri 
+ directory tree _ dizin ağacı 
+ direct slot _ doğrudan yuva 
+ disable _ seçilemez kılmak 
+ disabled _ seçilemez kılınmış 
+ disadvantage _ yarar yitimi 
+ disappear _ yok olmak 
+ disassemble _ tersine çevirme 
+ disaster _ olağanüstü durum 
+ disaster _ yıkım 
+ disaster recovery _ yıkım onarımı 
+ discard _ atmak 
+ discipline _ öğreti 
+ disconnect _ bağlantıyı kesmek 
+ discontinious _ süreksiz 
+ discrete _ ayrık 
+ discrimination _ ayrım 
+ disk _ disk 
+ disk array _ disk dizisi 
+ disk drive _ disk sürücü 
+ disk error _ disk hatası 
+ diskette-only system _ yalnız disketli sistem 
+ disk full _ disk dolu 
+ disk mirroring, DASD mirroring _ disk ikizleme 
+ disk operating system _ disk işletim sistemi 
+ disk pack _ değişir disk paketi 
+ disk space _ disk alanı 
+ disk stripping _ disklere bölüştürme 
+ disk unit _ disk birimi 
+ disk volume _ disk birimi 
+ dispatch _ dağıtmak 
+ dispersant _ seyreltici 
+ displace _ yerini değiştirmek 
+ displacement _ uzaklık 
+ display _ görüntülemek 
+ display adaptor _ görüntü (birimi) sürücüsü 
+ display as printed _ yazıldığı gibi görüntüle 
+ display card _ görüntü (birimi) kartı 
+ display driver _ görüntü (birimi) sürücüsü 
+ display memory _ görüntü (birimi) belleği 
+ display monitor _ görüntü birimi 
+ display point _ görüntü öğesi 
+ display screen _ Görüntü ekranı 
+ display station _ görüntü (birimi) işistasyonu 
+ display (unit) _ görüntü birimi 
+ display workstation _ görüntü (birimi) işistasyonu 
+ disposition _ kütük işleme durumu 
+ distance _ uzaklık 
+ distortation _ çarpıklık 
+ distribute _ dağıtmak 
+ distributed _ dağıtımlı 
+ distributed data base _ dağıtımlı veri tabanı 
+ distributed data processing _ dağıtımlı bilgi işlem 
+ distributed processing _ dağıtımlı işlem 
+ distributed system _ dağıtımlı sistem 
+ distribution list _ dağıtım listesi 
+ distributor _ dağıtıcı 
+ dither _ titremek 
+ divide _ bölmek 
+ dividend _ bölünen 
+ division _ bölme işlemi 
+ division line (re: fractions) _ kesir çizgisi 
+ Division Mark _ Bölüm imi 
+ division (math) _ bölüm 
+ divisor _ bölen 
+ document _ belge 
+ document _ belgelemek 
+ documentation _ belgeleme 
+ Document Contents Architecture _ Belge İçerik Mimarisi 
+ document dictionary _ belge sözlüğü 
+ document format _ belge biçimi 
+ Document Interchange Architecture _ Belge Değiştokuş Mimarisi 
+ document library _ belge kitaplığı 
+ document management _ belge yönetimi 
+ document mode _ belge kipi 
+ document name _ belge adı 
+ document of understanding(DOU) _ ortak anlayış belgesi 
+ document retrieval _ belge erişim 
+ document template _ belge örneği 
+ document window _ belge penceresi 
+ domain _ etki alanı 
+ domain _ tanım kümesi 
+ done _ bitti 
+ DOS prompt _ DOS komut istemi 
+ dot _ nokta 
+ dot pitch _ nokta uzaklığı 
+ dots per inch _ inç başına nokta sayısı 
+ dotted line _ noktalı çizgi 
+ dotted underline _ noktalı altçizgi 
+ double _ çift 
+ double-byte character set(DBCS) _ çift sekizli karakter kümesi 
+ double click _ çift tıklatma 
+ double close quote _ çift kapama tırnağı 
+ double-density disk _ çift yoğunluklu disk 
+ double open quote _ çift açma tırnağı 
+ double precision _ çift duyarlıklı 
+ double sided diskette _ çift yüzlü disket 
+ double-sided pages _ çift yüzlü sayfalar 
+ double-sided printing _ çift yüzlü baskı 
+ double space _ çift aralık (satır aralığı) 
+ double-spacing _ çift aralık bırakma 
+ double underline _ çift altçizgi 
+ doubleword _ çiftsözcük 
+ down _ aşağı 
+ down _ bozuk 
+ down arrow _ aşağı ok 
+ downline _ uca doğru 
+ download _ yüklemek 
+ downloadable fonts _ yüklenir yazıyüzleri 
+ downsizing _ küçültme 
+ downstream _ aşağı akım 
+ downstream load _ yüklemek (aşağı) 
+ down time _ bozuk kalma süresi 
+ draft _ taslak 
+ draft mode _ taslak kipi 
+ draft printing _ taslak baskı 
+ draft quality _ taslak niteliği 
+ drag _ sürüklemek 
+ drag and drop _ sürükle-bırak 
+ drag and drop _ sürükleyip bırakmak 
+ drag select _ sürükleyerek seçmek 
+ drawer _ çekmece 
+ drawing _ çizim 
+ drawing character _ çizim karakteri 
+ drawing ruler _ çizim cetveli 
+ draw (to) _ çizmek 
+ drift _ sapma 
+ drive _ sürmek 
+ drive designator, drive designator _ sürücü göstergesi 
+ drive letter _ sürücü adı 
+ driver, drive _ sürücü 
+ drop _ bırakmak (fare) 
+ drop _ iptal etmek 
+ drop-down _ açılan 
+ drop-down list _ açılan liste 
+ drop-down menu _ açılan menü 
+ drop embed _ katmayı iptal et 
+ drop Messages _ iletileri iptal et 
+ drop point _ bırakılan nokta 
+ dual _ çift 
+ dual floppy system _ çift disket sürücülü sistem 
+ dual processor _ çift işlemci 
+ due date _ son tarih 
+ dumb terminal _ programlanmaz uçbirim 
+ dummy _ kukla 
+ dummy device _ kukla aygıt 
+ dummy variable _ kukla değişken 
+ dump _ dökmek 
+ duplex _ çift yönlü 
+ duplicate _ çoğaltmak 
+ duplication _ çoğaltma 
+ duplicator _ çoğaltıcı 
+ duration _ süre 
+ dynamic _ devingen 
+ dynamic address translation _ devingen adres dönüştürme 
+ Dynamic Data Exchange _ Devingen Veri Alışverişi 
+ dynamic linking _ devingen bağlantı 
+ Dynamic Link Library _ Devingen Bağlı Kitaplık 
+ dynamic priority _ devingen öncelik 
+ dynamic programming _ devingen programlama 
+ dynamic resource allocation _ devingen kaynak ayırma 
+ dynamic storage allocation _ devingen bellek ayırma 
+ echo _ yankı 
+ edge _ kenar 
+ edit _ düzenlemek 
+ edition _ basım 
+ editor _ düzenleyici 
+ effective _ etkin 
+ effective _ geçerli olan 
+ efficiency _ verimlilik 
+ eject _ çıkartmak 
+ elapsed time _ geçen süre 
+ Electronic Cash Register _ Elektronik Yazarkasa 
+ electronic mail _ elektronik posta 
+ element _ öğe 
+ eligible _ seçilebilir 
+ ellipsis _ üç nokta 
+ embed _ gömmek 
+ embedded object _ gömülü nesne 
+ em-dash _ uzun çizgi 
+ emergency _ ivedi durum 
+ emission _ yayma 
+ emit _ yaymak 
+ emphasize _ vurgulamak 
+ empty _ boş 
+ emulate _ öykünmek 
+ emulation _ öykünüm 
+ emulation program _ öykünüm programı 
+ emulator _ öykünücü 
+ enable _ seçilir kılmak 
+ enabled _ seçilir kılınmış 
+ encapsulation _ sarma 
+ enclose _ kapsamak 
+ enclosure _ kapsam 
+ encode _ kodlamak 
+ encrypt _ şifrelemek 
+ end _ bitirmek 
+ en-dash _ orta çizgi 
+ End key _ Son tuşu 
+ end user _ son kullanıcı 
+ energy _ enerji 
+ engineering change _ teknik değişiklik 
+ enhance _ geliştirmek 
+ enhanced _ geliştirilmiş 
+ Enhanced Graphics Adapter _ Gelişmiş Çizge Bağdaştırıcı 
+ enhanced keyboard _ geliştirilmiş klavye 
+ enhanced mode _ geliştirilmiş kip 
+ enlarge _ büyütmek 
+ enqueue _ kuyruğa koymak 
+ enter _ girmek 
+ Enter key _ Gir tuşu 
+ enterprise _ kuruluş 
+ enterprise _ şirket 
+ entity _ varlık 
+ entry _ giriş 
+ entry point _ giriş noktası 
+ envelope _ zarf 
+ envelope _ zarflamak 
+ envelope creation _ zarf hazırlama 
+ envelope feeder _ zarf besleyici 
+ environment _ çevre 
+ environment variable _ çevre değişkeni 
+ epilogue _ sonsöz 
+ equalization _ eşitleme 
+ equal sign _ eşit imi 
+ equation _ denklem 
+ equation editor _ denklem düzenleyici 
+ equipment _ donatım 
+ equivalent _ eşdeğer 
+ erasable programmable read-only memory _ silinir programlanır salt oku bellek 
+ erase _ silmek 
+ eraser _ silgi 
+ ergonomics _ ergonomi 
+ error _ hata 
+ error handling _ yanlışları işleme 
+ error log _ hata günlüğü 
+ error Message _ hata iletisi 
+ error recovery _ hatadan kurtulma 
+ escape _ kaçmak 
+ escape sequence _ kaçış tuşu dizisi 
+ escaping key _ kaçış tuşu 
+ Esc key _ Esc tuşu 
+ Ethernet _ Ethernet 
+ even _ çift 
+ even number _ çift sayı 
+ event _ olay 
+ event driven _ olaya dayalı 
+ everyone _ herkes 
+ evoke _ çağırmak 
+ exception _ kural dışı durum 
+ exception handling _ kural dışı durum işleme 
+ exception message _ kural dışı durum iletisi 
+ exchange (noun) _ değişim 
+ exchange (verb) _ değişmek 
+ exclude _ dışlamak 
+ exclusive or _ dışlayan ya da 
+ executable _ yürütülür 
+ execute _ yürütmek 
+ execution time _ yürütme zamanı 
+ executive information system _ üstyönetim bilişim sistemi 
+ exercise _ alıştırma 
+ existing _ varolan 
+ exit _ çıkmak 
+ expand _ genişletmek 
+ expanded _ genişletilmiş 
+ expanded memory _ genişletilmiş bellek 
+ expansion board, expansion card _ genişletme kartı 
+ expansion gate feature _ genişletme geçiti aksamı 
+ expansion slot _ genişletme yuvası 
+ expert system _ uzman sistem 
+ expiration date _ son kullanma tarihi 
+ explicit _ belirtilmiş 
+ exploded pie _ ayrılmış dilim 
+ exponent _ üst 
+ exponential _ üstel 
+ export (noun) _ dışarı aktarım 
+ export (verb) _ dışarı aktarmak 
+ expression _ anlatım 
+ expression(mat) _ deyim 
+ extend _ genişletmek 
+ extend _ uzatmak 
+ extended characters _ ek damgalar 
+ extended character set _ genişletilmiş damga kümesi 
+ extended keyboard _ genişletilmiş klavye 
+ extended memory _ uzatılmış bellek 
+ extension _ uzantı (dosya adları) 
+ extension cord _ uzatma kablosu 
+ extension (telephone) _ iç hat 
+ external _ dış 
+ externally described data _ dışarda tanımlanan veri 
+ externally described file _ dışarda tanımlanan kütük 
+ external modem _ dış modem 
+ external storage _ dış saklama birimi 
+ extract _ seçip çıkartmak 
+ extreme _ uçdeğer 
+ facility _ olanak 
+ factor _ katsayı 
+ factor _ çarpan 
+ factor _ etmen 
+ fail _ başarısız olmak 
+ failure _ bozukluk 
+ FALSE _ YANLIŞ 
+ fast path key _ kestirme yol tuşu 
+ fatal error _ onulmaz yanlış 
+ fault _ aksaklık 
+ fault tolerant _ aksaklığa dayanıklı 
+ fax _ faks göndermek 
+ faximile _ faks 
+ feasibility _ olurluk 
+ feasibility study _ olurluk incelemesi 
+ feature code _ parça kodu 
+ feed _ besleme 
+ feedback _ geribildirim 
+ fetch _ getirmek 
+ fiber optic _ optik lif 
+ field _ alan 
+ field installable _ yerinde kurulur 
+ figure _ şekil 
+ figure caption _ şekil açıklaması 
+ file _ kütük 
+ fill _ doldurma 
+ fill character _ doldurma karakteri 
+ fill pattern _ doldurma deseni 
+ filter _ süzgeç 
+ filter _ süzmek 
+ final _ son 
+ find _ bulma 
+ find and replace _ bul ve değiştir 
+ firmware _ bellenim 
+ fit _ uymak 
+ fit to page _ sayfaya sığdır 
+ fix _ düzeltmek 
+ fixed _ değişmez 
+ fixed disk _ sabit disk 
+ fixed point _ sabit noktalı 
+ fixed spaced font _ değişmez aralıklı yazıyüzü 
+ fix level _ düzeltme düzeyi 
+ flag (noun) _ bayrak 
+ flag (verb) _ bayrak kaldırma 
+ flash _ yanıp sönmek 
+ flexible _ esnek 
+ flexible disk, floppy, floppy disk, diskette _ disket 
+ flicker _ titrek ışıltı 
+ flip _ çevirme 
+ flip-flop _ ikidurumlu 
+ floating _ kayan 
+ floating-point _ kayan noktalı 
+ floppy disk drive _ disket sürücü 
+ flow _ akış 
+ flow _ akmak 
+ flow chart _ akış çizimi 
+ fluid _ akışkan 
+ flush _ yaslamak 
+ flush (buffer etc.) _ temizlemek 
+ flush left _ sola yaslamak 
+ flush Right _ sağa yaslamak 
+ folder _ kap 
+ folio _ yaprak 
+ font _ yazıyüzü 
+ foot _ ayak 
+ footer _ sayfa altlığı 
+ footing _ altlık 
+ footnote _ dipnot 
+ footprint _ kapladığı alan 
+ force _ zorlamak 
+ force start _ zorlamalı başlatma 
+ forecast _ kestirim 
+ forecast _ kestirmek 
+ foreground _ önalan 
+ form _ biçim 
+ form _ form 
+ format _ biçim 
+ format _ biçimlemek 
+ form feed _ form besleme 
+ formula _ ilinti 
+ forward _ iletmek 
+ forward _ ileri(ye) 
+ fraction _ üleşke 
+ fragment _ parçalanmak 
+ frame _ çerçeve 
+ frame _ kare (film karesi) 
+ free _ boş 
+ freehand _ serbest el 
+ free memory _ boş bellek 
+ freeze(to) _ dondurmak 
+ frequency _ sıklık 
+ friction _ sürtünme 
+ front end _ ön uç 
+ full _ dolu 
+ full _ tüm 
+ full duplex _ çift yönlü 
+ full path _ tüm yol 
+ full pathname _ tüm yol adı 
+ full resolution _ tüm çözünürlük 
+ full screen _ tüm ekran 
+ full screen editing _ tüm ekranda düzenleme 
+ fullword _ tümsözcük 
+ function _ işlev 
+ functional _ işlevsel 
+ function key _ işlev tuşu 
+ fuse _ sigorta 
+ gallery _ sergi 
+ gap _ aralık 
+ gap analysis _ ayrım çözümleme 
+ garbage _ anlamsız veri 
+ gate _ geçit 
+ gateway _ ağ geçidi 
+ gather _ toplamak 
+ general _ genel 
+ generate _ üretmek 
+ generation _ kuşak 
+ generator _ üreteç 
+ generic _ soysal 
+ generic search _ soysal arama 
+ get _ almak 
+ global _ genel 
+ glossary _ terimler sözlüğü 
+ go-ahead _ ilerlemek 
+ go to _ git 
+ grab(to) _ kavramak 
+ gradation _ geçişme, dereceleme 
+ grade _ derece 
+ grammar _ dil bilgisi 
+ graph _ çizge 
+ graphic _ çizge 
+ graphic _ çizgesel 
+ graphical _ çizgesel 
+ graphics _ çizgeleme 
+ gray level _ gri düzeyi 
+ gray scale _ gri ölçeği 
+ grid _ ızgara 
+ gridlines _ ızgara çizgileri 
+ grounding _ topraklama 
+ guest _ konuk 
+ guidance _ yol gösterme 
+ guide _ kılavuz 
+ guideline _ yönerge 
+ gutter _ cilt payı 
+ half-duplex _ yarı çift yönlü 
+ halfword _ yarımsözcük 
+ halt _ durmak 
+ handle _ tanıtıcı (değer) 
+ handler _ işleyici 
+ handling _ işleme 
+ handshake _ anlaşma 
+ handwriting support _ elyazısı desteği 
+ hanging indent _ asılı girinti 
+ hard card _ disk kartı 
+ hard copy _ basılı kopya 
+ hard disk _ disk 
+ hard hyphen _ istenen kısa çizgi 
+ hard page break _ istenen sayfa sonu 
+ hard sector _ fiziksel kesim 
+ hard space _ istenen boşluk 
+ hard stop _ anında durdurmak 
+ hardware _ donanım 
+ hardware check _ donanım aksaklığı 
+ hardware requirements _ donanım gereksinimleri 
+ hardwired _ fiziksel bağlantılı 
+ head _ kafa 
+ head crash _ kafa arızası 
+ header _ sayfa başlığı 
+ header label _ önetiket 
+ heading _ başlık 
+ headphone _ kulaklık 
+ headphone jack _ kulaklık çıkışı 
+ heat _ ısı 
+ heat sink _ ısı alıcı 
+ height _ yükseklik 
+ help _ yardım 
+ help desk _ yardım masası 
+ help for HELP _ yardım kullanımı 
+ help index _ yardım dizini 
+ heterogeneous computer network _ türdeş olmayan bilgisayarlar ağı 
+ heuristic _ buluşsal 
+ heuristics _ buluşsal yöntemler 
+ hexadecimal numbering system _ onaltılı sayı sistemi 
+ hidden _ gizli 
+ hidden file _ gizli kütük 
+ hide _ gizlemek 
+ hierarchical _ sıradüzensel 
+ hierarchy _ sıradüzen 
+ high _ yüksek 
+ high density _ yüksek yoğunluklu 
+ high end _ üst uç 
+ high-level language _ üst düzey dil 
+ highlight (to) _ vurgulamak 
+ high performance file system _ yüksek başarımlı kütük sistemi 
+ high resolution _ yüksek çözünürlük 
+ highway _ anayol 
+ hint _ ipucu 
+ history file _ geçmiş kütüğü 
+ history log _ geçmiş günlüğü 
+ hold _ tutmak 
+ hold down (re:mouse button or key) _ basılı tutmak 
+ hole _ delik 
+ home directory _ ana dizin 
+ homogeneous computer network _ türdeş bilgisayarlar ağı 
+ horizontal _ yatay 
+ host computer _ anasistem 
+ hot key _ geçiş tuşu 
+ hotline _ yardım hattı 
+ hot link _ sıcak bağ 
+ hour glass _ kum saati 
+ housekeeping _ toparlama 
+ hub _ göbek 
+ hue _ renk özü 
+ hypertext _ yardımlı metin 
+ hyphen _ kısa çizgi 
+ hyphenate _ sözcük bölmek 
+ ID number _ kimlik numarası 
+ I/O _ G/Ç (bkz. Giriş/Çıkış) 
+ icon _ simge 
+ identical, same _ özdeş 
+ identification _ kimlik 
+ identifier _ tanıtıcı 
+ identity _ kimlik 
+ identity _ özdeşlik 
+ idle _ boş duran 
+ idle loop _ işlevsiz döngü 
+ ignore _ yoksaymak 
+ illegal _ geçersiz 
+ image _ görüntü 
+ image processing _ görüntü işlem 
+ imaginary _ sanal 
+ immediate data _ anlık veri 
+ impact _ vuruş 
+ impact printer _ vuruşlu yazıcı 
+ impedance _ özdirenç 
+ imperative _ zorunlu 
+ implement(to) _ gerçekleştirmek 
+ implicit _ örtülü 
+ implied _ örtük 
+ important _ önemli 
+ import (noun) _ içeri aktarım 
+ import (verb) _ içeri aktarmak 
+ improved _ iyileştirilmiş 
+ inactive _ etkin olmayan 
+ in-basket _ gelen sepeti 
+ inbound _ gelen 
+ inbox _ gelen kutusu 
+ inch _ parmak 
+ include _ içermek 
+ inclusive _ içeren 
+ incoming _ gelen 
+ increase _ artırmak 
+ increment _ artırma 
+ increment _ artma miktarı 
+ incremental backup _ artımlı yedekleme 
+ indent _ girinti 
+ indent _ girintili yazmak 
+ indentation _ girintili yazma 
+ indented _ girintili yazılmış 
+ indented list _ girintili liste 
+ indented paragraph _ girintili paragraf 
+ independent _ bağımsız 
+ index _ dizin 
+ indicate _ göstermek 
+ indicator _ gösterge 
+ indirect _ dolaylı 
+ indirect ddress _ dolaylı adres 
+ indoor _ yapı içi 
+ inference _ çıkarsama 
+ infinite _ sonsuz 
+ info _ bilgi 
+ informatics _ bilişim 
+ information _ bilgi 
+ informational database _ bilgilendirici veri tabanı 
+ information frame _ bilgi iletim birimi 
+ information service _ bilişim hizmeti 
+ information technology _ bilişim teknolojisi 
+ infrared _ kızılötesi 
+ inherent _ içsel 
+ inherit _ kalıt almak 
+ inheritance _ kalıt 
+ initial _ başlangıç 
+ initial _ ilk 
+ initialize _ sıfırlamak 
+ initialize _ başlangıç durumuna getirmek 
+ initialize _ ilklendirmek 
+ initials _ baş harfler (bir ismin) 
+ initiate _ başlatmak 
+ ink jet printer _ mürekkep püskürtmeli yazıcı 
+ inoperable time _ işletim dışı süre 
+ input _ giriş 
+ input _ girdi 
+ input device _ giriş aygıtı 
+ input/output _ giriş/çıkış 
+ inquiry _ sorgu 
+ insert _ araya eklemek 
+ insert (disket) _ takmak (disket) 
+ insertion point _ ekleme noktası (araya) 
+ inside _ iç 
+ install _ kurmak 
+ install _ yüklemek 
+ installation _ kuruluş 
+ instruction _ komut 
+ instruction _ yönerge 
+ instruction set _ komut kümesi 
+ instrument _ araç 
+ insufficient _ yetersiz 
+ integer _ tamsayı 
+ integrate _ tümlemek 
+ integrated _ tümleşik 
+ integrated circuit _ tümleşik devre 
+ integrated modem _ yerleşik modem 
+ integrity _ bütünlük 
+ intelligent terminal _ programlanır uçbirim 
+ intensity _ yoğunluk 
+ interaction _ etkileşim 
+ interactive _ etkileşimli 
+ intercept _ kesişmek 
+ interchange _ değişim (arasında) 
+ interface _ arabirim 
+ interference _ girişim 
+ intermediate _ orta 
+ intermediate _ ara 
+ internal _ iç 
+ interoperability _ birlikte işlerlik 
+ interpret _ yorumlamak 
+ interpreter _ yorumlayıcı 
+ interprocess _ süreçler arası 
+ interrupt _ kesmek 
+ interrupt _ kesme 
+ interrupt handler _ kesme işleyici 
+ interrupt switch _ kesme anahtarı 
+ intersection _ arakesit 
+ intersection _ kesişim 
+ intersystem communication _ sistemler arası iletişim 
+ interval _ aralık 
+ intervention _ araya girme 
+ intervention required check _ işlem gerektiren hata 
+ intrasystem communication _ sistem içi iletişim 
+ intrinsic _ iç 
+ introduction _ giriş 
+ in use light _ kullanımda ışığı 
+ invalid _ geçersiz 
+ inventory _ stok 
+ inverse, reverse _ ters 
+ invert _ evirme 
+ invisible _ görünmeyen 
+ invoke _ çağırmak 
+ irrational number _ oransız sayı 
+ irrecoverable error _ kurtarılamaz hata 
+ isolate _ yalıtmak 
+ issue _ sorun 
+ issue _ yayın 
+ issue a command _ komut vermek 
+ italic _ italik 
+ item _ öğe 
+ iterate _ yinelemek 
+ iteration _ yineleme 
+ jack _ fiş 
+ jam _ sıkışmak 
+ job _ iş 
+ job description _ iş tanımlaması 
+ join _ birleştirmek 
+ joint _ birleşik 
+ journal _ günlük 
+ joy stick _ oyun çubuğu 
+ juke box _ optik disk kutusu 
+ jump _ atlamak 
+ junction _ kavşak 
+ justification _ gerekçeleme 
+ justification _ yaslama 
+ justify _ yaslamak 
+ kern _ karakter çiftlerini sıkıştırmak 
+ key _ anahtar 
+ key _ tuş 
+ keyboard _ klavye 
+ keyed sequential access _ anahtar sıralı erişim 
+ key pad _ tuş takımı 
+ keystroke _ tuşa basmak 
+ keyword _ anahtar sözcük 
+ kilobyte(KB) _ kilobyte(KB) 
+ know-how _ yapabilme bilgisi 
+ knowledge based system _ bilgi tabanlı sistem 
+ knowledge system _ bilgi tabanlı sistem 
+ label _ etiket 
+ lag _ gecikme 
+ landscape (page orientation) _ yatay 
+ language _ dil 
+ laptop computer _ dizüstü bilgisayar 
+ laser printer _ lazer yazıcı 
+ lasso _ kement 
+ last _ son 
+ latch _ mandal 
+ latency _ gecikme süresi 
+ launch (to) _ başlatmak 
+ layer _ katman 
+ layout _ yerleşim 
+ leader _ öncü 
+ leader character (tab) _ iz karakteri (sekme) 
+ leading characters _ önce gelen karakterler 
+ leading zero _ öndeki sıfır 
+ leased line _ kiralanmış hat 
+ least significant digit _ en sağdaki basamak 
+ left adjust _ sola yaslamak 
+ left aligned _ sola yaslanmış 
+ left alignment _ sola yaslama 
+ left justify _ sola yaslamak 
+ Legal _ Legal (özel kağıt boyutu:8.5inçx14inç) 
+ legal file name _ geçerli kütük adı 
+ legend _ gösterge 
+ legend _ açıklamalar 
+ length _ uzunluk 
+ letter _ harf 
+ letter _ Letter (özel kağıt boyutu:?inçx?inç) 
+ letter _ mektup 
+ Letterhead _ antet 
+ letter quality _ mektup niteliği 
+ level _ düzey 
+ lever _ kol 
+ library _ kitaplık 
+ license _ lisans 
+ license agreement _ lisans anlaşması 
+ licensed program _ lisanslı program 
+ life cycle _ yaşam döngüsü 
+ light _ ışık 
+ light pen _ ışık kalemi 
+ limit _ sınır 
+ line _ çizgi 
+ line _ geçek 
+ line _ hat 
+ line _ satır 
+ linear _ doğrusal 
+ line feed _ satır besleme 
+ line printer _ satır yazıcı 
+ line spacing _ satır aralığı 
+ lines per inch _ satır/inç 
+ line weight _ çizgi kalınlığı 
+ link _ bağlamak 
+ link _ bağlantı 
+ link _ bağ 
+ linkage _ bağlantı 
+ liquid crystal display _ sıvı kristal görüntü birimi 
+ list _ liste 
+ list _ listelemek 
+ literal _ hazır bilgi 
+ live _ canlı 
+ loader _ yükleyici 
+ local _ yerel 
+ Local Area Network _ yerel ağ 
+ locate _ yerini belirlemek 
+ location _ yer 
+ lock _ kilit 
+ lock _ kilitlemek 
+ log _ günlük 
+ log _ günlük tutmak 
+ log file _ günlük kütüğü 
+ logic _ mantık 
+ logic board _ mantıksal çevrim kartı 
+ log in, login, log on, logon _ oturum açmak 
+ logo _ logo 
+ log off, log out _ oturum kapamak 
+ long dash _ me çizgi 
+ lookup _ arama 
+ loop _ döngü 
+ loosely coupled _ gevşek bağlı 
+ low _ düşük 
+ low density _ düşük yoğunluklu 
+ low end _ alt uç 
+ lowercase _ küçük harf 
+ low-level language _ alt düzey dil 
+ machine _ makine 
+ machine check _ makine arızası 
+ machine code _ makine kodu 
+ machine language _ makine dili 
+ macro _ makro 
+ macroprocessor _ makroişlemci 
+ magenta _ macenta 
+ magnetic _ manyetik 
+ magnification _ büyütme 
+ magnifier _ büyüteç 
+ magnify _ büyütmek 
+ mail _ posta 
+ mail _ postalamak 
+ mailing address _ posta adresi 
+ mailing labels _ posta etiketleri 
+ mail merge _ adres mektup birleştirme 
+ main _ ana 
+ mainboard _ ana çevrim kartı 
+ mainboard _ ana kart 
+ mainframe _ anabilgisayar 
+ main memory _ ana bellek 
+ main storage _ ana bellek 
+ maintenance _ bakım 
+ major _ ana 
+ major _ büyük 
+ majority _ çoğunluk 
+ malfunction _ arıza 
+ management _ yönetim 
+ management information system _ yönetim bilişim sistemi 
+ manager _ yönetmen 
+ mandatory _ zorunlu 
+ manipulate(to) _ işlemek 
+ manual _ el ile 
+ manual _ elkitabı 
+ manual feed _ elle besleme 
+ manual pagebreak _ istenen sayfa sonu 
+ map _ eşlem 
+ map _ eşlemek 
+ map _ harita 
+ margin _ kenar boşluğu 
+ mark _ im 
+ mark _ imlemek 
+ marker _ im 
+ marker _ imleyici 
+ markup language _ biçimleme dili 
+ marquee _ kayar noktalı çerçeve 
+ mask _ maskelemek 
+ mass _ yığın 
+ mass storage _ yığın bellek 
+ master _ ana 
+ master copy _ ana kopya 
+ match _ eşleştirmek 
+ match case _ büyük küçük harfe duyarlı 
+ math coprocessor _ matematik (yardımcı) işlemci(si) 
+ matrix _ dizey 
+ matrix printer, dot matrix printer _ iğneli yazıcı 
+ maximize _ ekranı kaplamak 
+ maximize _ enbüyütme 
+ maximum _ en büyük 
+ maximum _ en çok 
+ maximum _ en yüksek 
+ mean _ ortalama 
+ measurement _ ölçüm 
+ mechanism _ düzenek 
+ media _ ortam 
+ media _ araçlar 
+ medialess _ ortamsız 
+ medium _ orta 
+ medium _ ortam 
+ megabyte (measurement unit) _ megabyte, MB 
+ megahertz _ megahertz 
+ member _ üye 
+ membrane _ zar 
+ membrane keyboard _ dokunma duyarlı klavye 
+ memo _ kısa not 
+ memory _ bellek 
+ memory bank _ bellek yuvası 
+ menu _ menü 
+ menu bar _ menü çubuğu 
+ menu driven _ menülerle çalıştırılan 
+ menu item _ menü öğesi 
+ menu title _ menü başlığı 
+ merge _ birleştirmek 
+ message _ ileti 
+ message handler _ ileti işleyici 
+ method _ yöntem 
+ methodology _ yöntem 
+ methodology _ yöntembilim 
+ Micro Channel Architecture _ Mikro Kanal Mimarisi 
+ microcomputer _ mikrobilgisayar 
+ microprocessor _ mikroişlemci 
+ microwave _ mikrodalga 
+ migrate _ geçmek 
+ migrate _ geçirmek 
+ milestone _ aşama 
+ minicomputer _ minibilgisayar 
+ minimize _ enküçültme 
+ minimize _ simge durumuna küçültmek 
+ minimum _ en az 
+ minimum _ en düşük 
+ minimum _ en küçük 
+ minor _ önemsiz 
+ minor _ küçük 
+ minus _ eksi 
+ mirror image _ ikiz görüntü 
+ mirroring _ ikizleme 
+ mirror printing _ ters baskı 
+ missing _ atlanmış 
+ missing _ eksik 
+ misspelling _ yazım hatası 
+ mixed _ karma 
+ mixed chart _ karma çizim 
+ mnemonic _ anımsatıcı 
+ mode _ kip 
+ model _ model 
+ modem _ modem 
+ modification _ değişiklik 
+ modification level _ değişiklik düzeyi 
+ modify _ değiştirmek 
+ modular _ birimsel 
+ modular programming _ birimsel programlama 
+ modulate _ kiplemek 
+ modulation _ kipleme 
+ modulator _ kipleyici 
+ module _ birim 
+ monitor _ görüntü birimi 
+ monitor _ izlemek 
+ mono _ tek 
+ monochrome _ tekrenkli 
+ monospaced font _ eşaralıklı yazıyüzü 
+ most significant digit _ en soldaki basamak 
+ mount _ bağlamak 
+ mount _ takmak 
+ mouse _ fare 
+ mouse button _ fare düğmesi 
+ mouse pad _ fare altlığı 
+ mouse pointer _ fare imleci 
+ move _ taşımak 
+ movie _ film 
+ multimedia _ çoklu ortam 
+ multinational character set _ çok uluslu karakter kümesi 
+ multiple _ çoklu 
+ multiple inheritance _ çoktan türeme 
+ multiplex _ çoklamak 
+ multiplexer _ çoklayıcı 
+ multiplexing _ çoklama 
+ multiplicand _ çarpılan 
+ multiplier _ çarpan 
+ multiply _ çarpmak 
+ multiprocessing _ çoklu işlem 
+ multiprogramming _ çoklu programlama 
+ multitasking _ çokgörevli 
+ multitasking _ çoklu görev 
+ multithreading _ çoklu kullanım 
+ multiuser _ çok kullanıcılı 
+ Musical Instruments Digital Interface _ Müzik Gereçleri Sayısal Arabirimi 
+ mutual _ karşılıklı 
+ mutually exclusive _ birbirini dışlayan 
+ name _ ad 
+ naming convention _ adlandırma kuralları 
+ national _ ulusal 
+ national language character set _ ulusal dil karakter kümesi 
+ national language support _ ulusal dil desteği 
+ native _ yerel 
+ native language _ anadil 
+ natural _ doğal 
+ navigation _ dolaşma 
+ near-letter quality _ mektup niteliğine yakın 
+ negate _ olumsuzlamak 
+ negative _ eksi 
+ negative indentation _ ters girinti 
+ nest _ yuva 
+ nest _ yuvalamak 
+ network _ ağ 
+ network administration _ ağ yönetimi 
+ network administrator _ ağ yöneticisi 
+ networking _ ağ oluşturma 
+ network management _ ağ yönetimi 
+ network manager _ ağ yöneticisi 
+ network topology _ ağ topolojisi (ilingesi) 
+ new _ yeni 
+ new line _ yeni satır 
+ next _ sonraki 
+ nibble (measurement unit) _ yarım byte 
+ nickname _ takma ad 
+ node _ düğüm 
+ node id _ düğüm tanıtıcısı 
+ noise _ gürültü 
+ non-breaking hyphen _ bölünemez kısa çizgi 
+ non-breaking space _ bölünemez boşluk 
+ nonbreak space _ bölünemez boşluk 
+ nondisplay _ görüntülenmez 
+ none _ hiçbiri 
+ nonescaping key, dead key _ konum atlatmayan tuş 
+ nonimpact _ vuruşsuz 
+ non-linear _ doğrusal olmayan 
+ non-printing characters _ basılamaz karakterler 
+ nonresident _ yerleşik olmayan 
+ nonswitched line _ aktarmasız hat 
+ nonuniform _ birörnek olmayan 
+ nonvolatile _ kalıcı 
+ normal _ olağan 
+ notation _ gösterim 
+ notch _ çentik 
+ note _ not 
+ notebook computer _ defter bilgisayar 
+ notice _ bildirmek 
+ notice (n) _ bildirim 
+ notify _ bildirmek 
+ nucleus _ çekirdek 
+ null _ boş 
+ null _ anlamsız 
+ null character _ sıfır (onaltılı sayı sisteminde) 
+ null modem _ kukla modem 
+ null set _ boş küme 
+ number _ sayı 
+ numeral _ sayıt 
+ numerator (re: fractions) _ pay (re:kesirler) 
+ numeric _ sayısal 
+ numeric(al) _ sayısal 
+ numeric keypad _ sayısal tuş takımı 
+ object _ nesne 
+ object-based _ nesne tabanlı 
+ object code _ amaç program 
+ Object Linking and Embedding _ Nesne Bağlama ve Katıştırma 
+ object oriented _ nesneye dayalı 
+ object-oriented analysis _ nesneye dayalı çözümleme 
+ object-oriented design _ nesneye dayalı tasarım 
+ object-oriented programming _ nesneye dayalı programlama 
+ object-oriented testing _ nesneye dayalı sınama 
+ object program _ amaç program 
+ octal numbering system _ sekizli sayı sistemi 
+ odd _ tek 
+ off _ kapalı 
+ office _ ofis 
+ office automation _ ofis özdevinimi 
+ off-line, offline _ çevrimdışı 
+ offset _ göreli konum 
+ offset _ ofset (baskı) 
+ OK _ Tamam 
+ omit _ atlamak 
+ on _ açık 
+ on-board _ yerleşik 
+ on-line help _ çevrimiçi yardım 
+ on-line, online _ çevrimiçi 
+ on site _ yerinde 
+ on the fly _ anında 
+ opacity _ ışık geçirmezlik 
+ open _ açmak 
+ open _ açık 
+ Open Architecture _ Açık Mimari 
+ open media framework _ açık ortam çerçevesi 
+ open system _ açık sistem 
+ open systems architecture _ açık sistemler mimarisi 
+ Open Systems Interconnection _ Açık Sistemler Bağlantısı 
+ Open Systems Interconnection Architecture _ Açık Sistemler Bağlantısı Mimarisi 
+ operand _ işlenen 
+ operate _ işletmek 
+ operating system _ işletim sistemi 
+ operation _ işlem 
+ operator _ işleç 
+ operator _ işletmen 
+ opposite _ karşıt 
+ optical _ optik 
+ optical character recognition _ optik karakter tanıma 
+ optical disk _ optik disk 
+ optical disk platter _ optik disk tablası 
+ optical fiber _ optik lif 
+ optimization _ eniyileme 
+ optimum _ en iyi 
+ option _ seçenek 
+ optional _ seçimli 
+ Or _ Ya da 
+ order _ düzenlemek 
+ order _ komut 
+ order (n) _ sipariş 
+ organize _ düzenlemek 
+ orientation _ yönlendirmek 
+ origin _ başlangıç 
+ origin _ köken 
+ original _ özgün 
+ orphan control _ yalnız ilk satır 
+ orphan line _ artık satır 
+ oscillate (v) _ salınmak 
+ oscillation (n) _ salınım 
+ out-basket _ giden sepeti 
+ outbox _ giden kutusu 
+ outdoor _ yapı dışı 
+ outgoing _ giden 
+ outlet _ çıkış noktası 
+ outline _ çerçeve 
+ outline _ ana çizgiler 
+ outlined font _ dış çizgili yazıyüzü 
+ outline (font) _ dış çizgi 
+ outlook _ görünüm 
+ out-of-memory _ yetersiz bellek 
+ output _ çıktı 
+ output _ çıkış 
+ output device _ çıkış aygıtı 
+ output file _ çıkış kütüğü 
+ Output Mode _ Çıktı Kipi 
+ output queue _ çıktı kuyruğu 
+ output tray _ çıkış tepsisi 
+ Outside Margin _ Dış Kenar Boşluğu 
+ overflow _ taşma 
+ overhead _ ek yük 
+ overhead projector _ tepegöz 
+ overlap _ örtüşmek 
+ overlay _ yerpaylaşmak 
+ Overlay Chart _ Yardımcı Grafik... 
+ overlay program _ yerpaylaşan program 
+ override _ geçersiz kılmak (eskisini) 
+ overstrike, strike over _ üstüne basmak 
+ overview _ gözden geçirmek 
+ overwrite _ üstüne yazmak 
+ owner _ sahip 
+ Owners Guide _ Kullanıcı Kılavuzu 
+ pace _ ilerleme hızı 
+ pacing _ hız denetimi 
+ pack _ sıkıştırmak 
+ pack _ paketlemek 
+ package _ paket 
+ packed field _ paketlenmiş alan 
+ packet switching network _ paket anahtarlamalı ağ 
+ pad _ doldurmak 
+ paddle _ denetim kolu 
+ page _ sayfa 
+ page break _ sayfa sonu 
+ Paged Memory Management Unit _ Sayfalanmış Bellek Yönetimi Birimi 
+ page down _ sonraki sayfa 
+ page layout _ sayfa düzeni 
+ page number _ sayfa numarası 
+ page printer _ sayfa yazıcı 
+ Page Setup _ Sayfa Düzeni 
+ page up _ önceki sayfa 
+ paginate _ sayfalandırmak 
+ paging _ sayfalama 
+ paint _ boyamak 
+ paint box _ boya kutusu 
+ paired _ eşli 
+ palette _ palet 
+ palmtop computer _ avuçiçi bilgisayar 
+ Pane _ pencere gözü 
+ panel _ pano 
+ panel _ panel 
+ panning _ gezdirme 
+ Paper _ Kağıt 
+ paper guide _ kağıt kılavuzu 
+ paper jam _ kağıt sıkışması 
+ paper registration _ kağıt ayarlama 
+ paper release _ kağıdı bırakma 
+ paragraph _ paragraf 
+ Paragraph Mark _ Paragraf İmi 
+ parallel _ koşut 
+ parameter _ değiştirge 
+ Parent directory _ üst dizin 
+ parent element _ üstöğe 
+ parenthesis _ ayraç 
+ parity _ eşlik 
+ parity bit _ eşlik biti 
+ parse _ ayrıştırmak 
+ partial _ bölümsel 
+ partial _ kısmi 
+ partition _ bölümlemek 
+ partner _ ortak 
+ pass _ geçmek 
+ passive _ edilgen 
+ pass-through _ düzgeçiş 
+ password _ parola 
+ paste _ yapıştırmak 
+ patch _ yamamak 
+ path _ yol 
+ pattern _ desen 
+ pattern _ örüntü 
+ pause _ duraklamak 
+ peak _ doruk 
+ peer _ eş 
+ peer to peer _ eşler arası 
+ pending _ beklemede 
+ penetration _ yaygınlık 
+ percent _ yüzde 
+ perforated _ delikli 
+ perform _ gerçekleştirmek 
+ performance _ başarım 
+ period _ nokta 
+ period _ dönem 
+ peripheral _ çevrebirimi 
+ peripheral _ çevresel 
+ permanent _ kalıcı 
+ permit _ izin 
+ personal computer _ kişisel bilgisayar 
+ phase _ evre 
+ photoconductor _ fotoiletken 
+ photorealism _ fotogerçekçilik 
+ photorealistic _ fotogerçekçi 
+ phrase _ tümcecik 
+ physical _ fiziksel 
+ pica _ pika 
+ picker _ seçici 
+ picker _ toplayıcı 
+ picture _ görüntü 
+ picture _ resim 
+ picture element _ görüntü öğesi 
+ pie chart _ dairesel çizim 
+ pin _ bacak 
+ pin _ iğne 
+ pipeline _ ardışık düzen 
+ piping(dos) _ yöneltme 
+ piracy _ korsanlık 
+ pitch _ karakter sıklığı 
+ place holder _ yer tutucu 
+ Plain text _ düz metin 
+ platform _ düzlem 
+ plot _ çizmek 
+ plotter _ çizici 
+ plug _ fiş 
+ plug and go _ tak ve kullan 
+ plug and play _ tak ve kullan 
+ plug-compatible _ tümüyle uyumlu 
+ plug-in (software) _ uyumlu ek (yazılım) 
+ plural _ çoğul 
+ plus sign _ artı imi 
+ PM (12 saatlik zaman biçimi) _ ÖS (Öğleden Sonra) 
+ pocket _ cep 
+ Pocket guide(booklet) _ Cep kılavuzu 
+ point _ göstermek 
+ point _ nokta 
+ pointer _ gösterge 
+ pointer _ imleç 
+ point (measure) _ punto 
+ Point Of Sale _ satış noktası 
+ polar _ kutuplu 
+ polar _ kutupsal 
+ polarize _ kutuplamak 
+ poll _ yoklamak 
+ pool _ havuz 
+ pop up menu _ açılır menü 
+ pop up message _ beliren ileti 
+ pop up window _ beliren pencere 
+ port _ kapı 
+ portability _ taşınırlık 
+ portable computer _ taşınır bilgisayar 
+ portrait (page orientation) _ düşey 
+ position _ konum 
+ Positioning _ Konumlandırma 
+ positive _ artı 
+ positive _ olumlu 
+ posterization _ gri sayısını azaltma 
+ postmortem _ işlem sonrası 
+ postpone _ ertelemek 
+ PostScript_ _ PostScript_ 
+ power _ güç 
+ power cord _ güç kablosu 
+ power light _ güç ışığı 
+ power off _ kapamak 
+ power on _ açmak 
+ power-on indicator _ açık göstergesi 
+ Power On Self Test _ otomatik sınama 
+ power socket _ priz 
+ powers (re: math function) _ üst 
+ power strip _ anahtarlı uzatma kablosu 
+ power supply _ güç kaynağı 
+ power switch _ güç anahtarı 
+ power typing _ serbest yazma 
+ pragmatics _ kullanımbilim 
+ pre- _ ön- 
+ precedence _ öncelik 
+ precision _ duyarlık 
+ precompile _ ön derleme 
+ predefine _ önceden tanımlamak 
+ predict _ öngörmek 
+ preface _ önsöz 
+ Preferences _ Yeğlenenler 
+ preliminary checklist _ ön denetim listesi 
+ preparation _ hazırlık 
+ prepress _ baskı öncesi 
+ preprocessor _ önişlemci 
+ preselected choice _ vurgulu seçenek 
+ presentation _ gösteriliş 
+ presentation _ sunu 
+ presentation manager _ Sunu Yöneticisi 
+ preset _ önceden belirlenmiş 
+ press _ basmak 
+ Preview _ Önizleme 
+ Previous _ Önceki 
+ price _ eder 
+ primary _ birincil 
+ prime number _ asal sayı 
+ primitive object _ ilkel nesne 
+ print _ yazmak 
+ print _ yazdırmak 
+ printer _ yazıcı 
+ printer driver _ yazıcı sürücüsü 
+ Printer Settings _ Yazıcı ayarları 
+ Printer Setup _ Yazıcı ayarları 
+ printer writer _ yazdırma programı 
+ print head _ yazıcı kafası 
+ Print Manager _ Yazdırma Yöneticisi 
+ Print Merge _ Birleştirerek Yazdırma 
+ printout _ çıktı (yazılı) 
+ print queue _ yazıcı kuyruğu 
+ Print Screen key _ Ekran Yaz tuşu 
+ print server _ yazdırma sunucusu 
+ print spooler _ yazdırma kuyruklayıcısı 
+ print wheel _ yazdırma çarkı 
+ priority _ öncelik 
+ privacy _ kişisel gizlilik 
+ privacy lock _ erişim kilidi 
+ privilege _ ayrıcalık 
+ problem _ sorun 
+ problem-oriented language _ sorun yönelimli dil 
+ procedural language _ yordamsal dil 
+ procedure _ yordam 
+ procedure-oriented language _ yordam yönelimli dil 
+ process _ işlem 
+ process _ süreç 
+ process control _ süreç denetimi 
+ processing _ işlem 
+ processing _ işleme 
+ processor _ işlemci 
+ processor unit _ işlem birimi 
+ production _ üretim 
+ productive _ üretken 
+ productivity _ üretkenlik 
+ profile _ belgi 
+ program _ program 
+ program _ programlamak 
+ program-described data _ programda tanımlanan veri 
+ program-described file _ programda tanımlanan kütük 
+ program generator _ program üreteci 
+ Program linking _ Program bağlama 
+ programmable read-only memory _ programlanır salt okunur bellek 
+ Program Manager _ Program Yöneticisi 
+ program temporary fix _ geçici program düzeltmesi 
+ progressive _ aşamalı 
+ project _ proje 
+ project _ tasarı 
+ projection _ izdüşüm 
+ prologue _ öndeyiş 
+ promote(to) _ yükseltmek 
+ prompt _ bilgi istemi 
+ prompt _ istemde bulunmak 
+ Proofing a document _ Belge doğruluğunu sağlamak 
+ propagation _ yayılma 
+ properties _ özellikler 
+ proportional _ orantılı 
+ proportional font _ orantılı yazıyüzü 
+ protect _ korumak 
+ protocol _ iletişim kuralları 
+ prototype _ ön ürün 
+ pseudo- _ sözde- 
+ public _ genel 
+ public _ kamu 
+ publication _ yayın 
+ publish _ yayınlamak 
+ Publisher _ Yayıncı 
+ publishing _ yayıncılık 
+ pull down menu _ çekme menü 
+ pulse _ vurum 
+ punch _ delgi 
+ punctuation _ noktalama 
+ purge _ temizlemek 
+ purpose _ amaç 
+ pushbutton dialing _ tuşlu çevirme 
+ Puzzle _ Çözmece 
+ quad _ dörtlü 
+ quadrant _ dörtlük 
+ qualifier _ niteleyici 
+ qualify _ nitelemek 
+ quality _ nitelik 
+ Quality Assurance _ Nitelik Güvencesi 
+ Quality Control _ Nitelik Denetimi 
+ quantify _ nicelemek 
+ quantity _ miktar 
+ quantity _ nicelik 
+ query _ sorgu 
+ queue _ kuyruk 
+ Queued Printing _ kuyruklanmış yazdırma 
+ quick _ hızlı 
+ quiesce _ susturmak 
+ quiet _ sessiz 
+ quit _ bitirmek 
+ quotation mark _ tırnak imi 
+ quotient _ bölüm 
+ rack _ raf 
+ rack-mounted _ raf yapısında 
+ radiation _ ışıma 
+ radio button _ radyo düğmesi 
+ ragged edge _ düzensiz kenar 
+ raise (to) _ yükseltmek 
+ random _ rasgele 
+ random access _ rasgele erişim 
+ random-access memory(RAM) _ rasgele erişimli bellek 
+ range _ erim 
+ raster _ ızgara 
+ raster scan _ ızgara tarama 
+ rate _ hız 
+ rate, ratio _ oran 
+ rational number _ oranlı sayı 
+ raw _ ham 
+ re- _ yeniden 
+ read _ okumak 
+ Read Only _ salt okunur 
+ Read Only Memory _ Salt Okunur Bellek 
+ ready _ hazır 
+ real _ gerçek 
+ real number _ gerçek sayı 
+ rearrange _ yeniden düzenlemek 
+ Reassign _ Yeniden atamak 
+ reboot _ sistemi yeniden yüklemek 
+ recall _ geri çağırmak 
+ receipt _ alındı 
+ receive _ almak 
+ receiver _ alıcı 
+ recent _ en son 
+ receptacle _ yuva 
+ recognition _ tanıma 
+ record (noun) _ tutanak 
+ record (verb) _ tutanak yazmak 
+ recover _ kurtarmak 
+ recoverable _ kurtarılır 
+ recovery _ kurtarma 
+ recursion _ özyineleme 
+ recursive _ özyineli 
+ recycle _ yeniden çevrime sokmak 
+ reduce _ küçültmek 
+ Reduced Instruction Set Computer _ İndirgenmiş Komut Takımı Bilgisayarı 
+ redundancy _ artıklık 
+ redundancy check _ artıklık denetimi 
+ reel _ makara 
+ reengineering _ yeniden yapılama 
+ refer _ bakmak 
+ refer _ başvurmak 
+ reference _ başvuru 
+ reference _ ilgi 
+ reflect _ yansıtmak 
+ refresh _ yenilemek 
+ refresh rate _ yenileme hızı 
+ regenerate _ yeniden üretmek 
+ region _ bölge 
+ register _ yazmak 
+ register _ yazmaç 
+ registered trademark _ tescilli ticari marka 
+ reiterate _ yinelemek 
+ reject _ geri çevirmek 
+ relation _ ilişki 
+ relational _ ilişkisel 
+ relational database _ ilişkisel veritabanı 
+ relational operator _ ilişkisel işleç 
+ relative _ göreli 
+ relay _ anahtarlamak 
+ release _ bırakmak (özgür) 
+ release _ yayım 
+ reliability _ güvenilirlik 
+ relocate _ yerdeğiştirmek 
+ remainder _ kalan 
+ remark _ açıklama 
+ reminder _ anımsatıcı 
+ remote _ uzak 
+ remote job entry _ uzaktan iş girişi 
+ remote power off _ uzaktan kapama 
+ remote power on _ uzaktan açma 
+ remove _ çıkarmak 
+ remove _ kaldırmak 
+ Rename _ yeniden adlandırmak 
+ reorder _ yeniden düzenlemek 
+ repaginate _ yeniden sayfalamak 
+ repair _ onarım 
+ repeat _ yinelemek 
+ repeater _ yineleyici 
+ replace _ yerine koymak 
+ replace mode _ üstüne yazma kipi(sözcük işlem) 
+ reply, response _ yanıt 
+ report _ rapor 
+ repository _ havuz 
+ representation _ gösterim 
+ request _ istek 
+ required hyphen _ istenen kısa çizgi 
+ required pagebreak _ istenen sayfa sonu 
+ required parameter _ gereken değiştirge 
+ requirement _ gereksinim 
+ requirement specification _ gereksinim belirtimleri 
+ reseller, dealer _ satıcı 
+ reserve _ ayırmak 
+ reserved word _ özel amaçlı sözcük 
+ reset _ sıfırlamak 
+ reset _ ilk duruma getirmek 
+ resident _ yerleşik 
+ Resize _ Yeniden Boyutlandırmak 
+ resolution _ çözünürlük 
+ resolve _ çözmek 
+ resource, source _ kaynak 
+ response time _ yanıt süresi 
+ restart _ yeniden başlatmak 
+ restore _ geri yüklemek 
+ restore button _ önceki boyuta getirme düğmesi 
+ restrict _ sınırlamak 
+ result _ sonuç 
+ resume _ sürdür 
+ retail _ perakende 
+ retention period _ saklama süresi 
+ retrieve _ erişmek 
+ retry _ yeniden denemek 
+ return _ dönmek 
+ return code _ dönüş kodu 
+ reusable _ yeniden kullanılır 
+ reverse engineering _ tersine mühendislik 
+ reverse image _ ters görüntü 
+ reverse video _ ters görüntü 
+ revert _ dönmek 
+ review _ gözden geçirmek 
+ Revisable-Form Text _ Değiştirilebilir Biçimli Metin 
+ revise _ gözden geçirmek 
+ revision bar _ değişiklik çubuğu 
+ revision symbol _ değişiklik simgesi 
+ rewind _ geri sarmak 
+ ribbon _ şerit 
+ Rich Text Format _ zengin metin biçimi 
+ right adjust _ sağa ayarlamak 
+ right align _ sağa yaslamak 
+ Right alignment _ Sağa yaslama 
+ Right indent _ Sağdan girinti 
+ right justify _ sağa yaslamak 
+ rise _ yükselmek 
+ risk assesment _ risk değerlendirmesi 
+ Roadmap _ Yol haritası 
+ robot _ robot 
+ robotics _ robotbilim 
+ Roman numerals _ Roma sayıları 
+ root directory _ kök dizin 
+ Rotate _ Döndürmek 
+ round _ yuvarlamak 
+ router _ yöneltici 
+ routine _ yordam 
+ row _ dizeç 
+ royalty _ telif hakkı 
+ rule _ kural 
+ ruler _ cetvel 
+ run _ çalıştırmak 
+ running foot(ing) _ yinelenen altlık 
+ running heading _ yinelenen başlık 
+ run-time environment _ çalıştırma ortamı 
+ run-time module _ çalıştırma birimi 
+ run-time version _ çalıştırma sürümü 
+ sample, example _ örnek 
+ Sampler _ Örnekleyici 
+ sampling _ örnekleme 
+ satellite _ uydu 
+ saturation _ doyma 
+ save _ saklamak 
+ save as _ yeni adla saklamak 
+ scalability _ ölçeklenirlik 
+ scalar _ sayıl 
+ scale (n) _ ölçek 
+ scale (v) _ ölçeklemek 
+ scaling _ ölçekleme 
+ scaling factor _ ölçekleme katsayısı 
+ scan _ taramak 
+ scanner _ tarayıcı 
+ Scatter _ Serpme 
+ schedule _ zaman çizelgesi 
+ scheduling _ zamanlama 
+ scope _ kapsam 
+ scrap file _ karalama kütüğü 
+ Scratch File _ Geçici kütük 
+ screen _ ekran 
+ Screen Saver _ Ekran Koruyucu 
+ screen shot _ ekran resmi 
+ script _ betik 
+ scroll _ kaydırmak 
+ scroll bar _ kaydırma çubuğu 
+ scroll box _ kaydırma kutusu 
+ scroll by the windowful _ pencere dolusu kaydır 
+ search _ aramak 
+ search and replace _ bul ve değiştir 
+ Search direction _ Arama yönü 
+ search path _ arama yolu 
+ search word _ aranan sözcük 
+ secondary _ ikincil 
+ section _ bölüm 
+ Section break _ Bölüm sonu 
+ Section Heading _ Bölüm Başlığı 
+ Section Mark _ Bölüm imi 
+ Section Property _ Bölüm Özelliği 
+ Section Start _ Bölüm Başlangıcı 
+ Section Title _ Bölüm Başlığı 
+ sector _ kesim 
+ security _ güvenlik 
+ security violation _ güvenliği bozma 
+ seek _ aramak 
+ segment _ kesim 
+ segmentation _ kesimleme 
+ seize _ ele geçirmek 
+ select _ seçmek 
+ Select All _ Tümünü Seç 
+ selected _ seçilmiş 
+ selection _ seçim 
+ selective _ seçmeli 
+ self check _ öz sağlama 
+ Self explanatory _ öz açıklamalı 
+ self service machine _ öz hizmet makinesi 
+ self test _ öz sınama 
+ semantics _ anlambilim 
+ semi- _ yarı 
+ semiconductor _ yarıiletken 
+ Seminar _ Seminer 
+ send _ göndermek 
+ Send to back _ arkaya göndermek 
+ sense _ algılamak 
+ sensitivity _ duyarlık 
+ sensor _ algılayıcı 
+ sentence _ tümce 
+ separate _ ayırmak 
+ separate _ ayrı 
+ separator _ ayırıcı 
+ sequence _ sıra 
+ sequencer _ ardışımlayıcı 
+ sequential _ sıralı 
+ sequential access _ ardışık erişim 
+ serial _ dizisel 
+ Serial communication _ dizisel iletişim 
+ serial data _ dizisel veri 
+ serial device _ dizisel aygıt 
+ Serial Driver _ dizisel sürücü 
+ Serial interface _ dizisel arabirim 
+ serial mouse _ dizisel bağlantılı fare 
+ serial number _ dizisel numara 
+ serial port _ dizisel kapı 
+ serial printer _ dizisel yazıcı 
+ serial processing _ dizisel işlem 
+ Series _ dizi 
+ server _ sunucu 
+ service _ hizmet 
+ service mode _ bakım kipi 
+ session _ oturum 
+ set _ küme 
+ set _ takım 
+ setting _ ayar 
+ setup _ düzenek 
+ set up _ kurmak 
+ setup (v) _ hazırlamak 
+ set (v) _ belirlemek 
+ severity _ önem 
+ severity code _ önem kodu 
+ shade _ gölgelendirmek 
+ Shaded _ Gölgeli 
+ shader _ gölgelendirici 
+ shading _ gölgelendirme 
+ shadow _ gölge 
+ shadowing _ gölgeleme 
+ shape _ şekil 
+ share _ paylaşmak 
+ shear _ kaykılma 
+ sheet _ yaprak 
+ Sheet-feed _ yaprak besleme 
+ shelf _ sergen 
+ shelf life _ sergen yaşam süresi 
+ shell _ kabuk 
+ shift _ ötelemek (kaydırmak) 
+ Shift key _ üst karakter tuşu 
+ short _ kısa 
+ shortcut _ kısayol 
+ shortcut key _ kısa yol tuşu 
+ show _ göstermek 
+ shredder _ kağıt öğütücü 
+ shrink _ küçültmek 
+ sibling element _ kardeş öğe 
+ side _ yan 
+ Sidebars _ Kenar çubukları 
+ Side by Side _ yan yana 
+ sift _ elemek 
+ sight _ görüş 
+ sign _ im 
+ signal _ im 
+ signature _ imza 
+ sign-off _ oturumu kapamak 
+ sign-on _ oturumu açmak 
+ simple _ yalın 
+ simplex _ tekyönlü 
+ simulate _ benzetim yapmak 
+ simulation _ benzetim 
+ simulator _ benzetici 
+ simultaneous _ eşanlı 
+ single _ tek 
+ single precision _ tek duyarlıklı 
+ singular _ tekil 
+ singularity _ tekillik 
+ sink _ alıcı 
+ size _ boyut 
+ size _ büyüklük 
+ skeleton _ çatı 
+ skew _ çarpıklık 
+ skip _ atlamak 
+ slack _ serbestlik 
+ slant _ eğik 
+ slave station, tributary station _ bağımlı uçbirim 
+ sleeping mode, dormant state _ uyku durumu 
+ slice _ dilim 
+ Slide _ saydam 
+ slot _ yuva 
+ slot reader _ yuvalı okuyucu 
+ Slow _ Yavaş 
+ slowdown _ yavaşlamak 
+ slow motion _ ağır çekim 
+ small caps _ küçük büyük harf 
+ smart card _ akıllı kart 
+ smart quotation mark _ akıllı tırnak imi 
+ smart quotes _ akıllı tırnaklar 
+ smooth _ düzgün 
+ sneak current _ sızıntı akım 
+ soft copy _ elektronik kopya 
+ software _ yazılım 
+ software reset _ yeniden başlatmak (yazılımla) 
+ solid _ katı 
+ solid _ kesiksiz 
+ solid state _ katı durum 
+ Some _ Bazı 
+ sort _ sıralamak 
+ sorting criteria _ sıralama ölçütü 
+ sort order _ sıralama düzeni 
+ sort sequence _ sıralama ardışımı 
+ sound _ ses 
+ space _ alan 
+ space _ boşluk 
+ space bar _ ara çubuğu 
+ space character _ boşluk karakteri 
+ spacing _ aralık bırakma 
+ span _ yayılmak 
+ speaker _ hoparlör 
+ speaker _ konuşmacı 
+ specific _ belirli 
+ specification _ belirtim 
+ Specify _ Belirtmek 
+ speech recognition _ konuşma tanıma 
+ speed _ hız 
+ spell checking _ yazım denetimi 
+ spike _ ani voltaj yükselmesi 
+ spike _ depo 
+ spin _ döndürmek 
+ spindle _ mil 
+ splitter _ dallandırıcı (LAN) 
+ spool _ makara 
+ spooler _ bekletici 
+ spooling _ bekletme 
+ spool printing _ bekleterek baskı 
+ spot _ leke 
+ spray _ püskürteç 
+ spray _ püskürtmek 
+ spreadsheet _ Hesap Çizelgesi 
+ sprite graphics _ hareketli grafik 
+ stability _ kararlılık 
+ stack _ yığın 
+ stacker _ yığıcı 
+ stand-alone _ bağımsız 
+ stand-alone _ tek başına 
+ stand-alone modem _ dış modem 
+ standard _ standart 
+ standby _ yedek 
+ standby _ bekleme 
+ star network _ yıldız ağ 
+ star/ring network _ yıldız/halka ağ 
+ start _ başlatmak 
+ start _ başla 
+ Startup disk _ Başlatma disketi 
+ startup screen _ başlangıç ekranı 
+ statement _ deyim 
+ state of the art technology _ en gelişkin teknoloji 
+ state, status _ durum 
+ static _ duruk 
+ Stationary pad _ Kalıcı dosya 
+ Statistics _ sayımlama 
+ Status bar _ Durum çubuğu 
+ step _ adım 
+ Step by step _ Adım adım 
+ Sticky keys _ Yapışkan tuşlar 
+ stop _ durdurmak 
+ stop _ durmak 
+ storage _ bellek 
+ storage _ depolama 
+ storage device _ saklama aygıtı 
+ storage pool _ bellek havuzu 
+ store _ depolamak 
+ stream _ akım 
+ streaming _ duraksız işlem 
+ streaming mode _ duraksız kip 
+ streaming tape drive _ duraksız manyetik bant sürücü 
+ strike out _ çıkartmak 
+ Strikethrough/ Strikethru _ üstü çizgili 
+ string _ dizgi 
+ stripe _ ince şerit 
+ stroke _ vuruş 
+ structure _ yapı 
+ structured _ yapısal 
+ structured analysis _ yapısal çözümleme 
+ structured design _ yapısal tasarım 
+ structured programming _ yapısal programlama 
+ Structured Query Language _ Yapılandırılmış Sorgu Dili 
+ structured walk-through _ yapısal gözden geçirme 
+ stub cable, drop cable _ saplama kablo 
+ style _ biçem 
+ sub- _ alt- 
+ subdirectory _ altdizin 
+ subject _ konu 
+ subject _ özne 
+ Submenu _ Alt menü 
+ submit _ sunmak 
+ subnet _ alt ağ 
+ subroutine _ altprogram 
+ Subscribe _ sürdürüm 
+ Subscribe _ sürdürümcü olmak 
+ Subscriber _ sürdürümcü 
+ subscript _ altsimge 
+ subset _ altküme 
+ substitute _ değiştirmek 
+ substitute _ yedek 
+ substitute _ yerine koymak 
+ subtract _ çıkarmak 
+ suffix _ sonek 
+ Suggestion _ Öneriler 
+ Suggest(to) _ Önermek 
+ sum _ toplamak 
+ summary _ özet 
+ summary report _ özet rapor 
+ superscript _ üstsimge 
+ supersede _ yerini almak 
+ supervisor _ gözetici 
+ Supplemental _ Tamamlayıcı 
+ support _ destek 
+ support _ desteklemek 
+ surface chart _ yüzey çizimi 
+ suspend _ askıya almak 
+ suspended program _ askıdaki program 
+ swap _ getir götür 
+ swap file _ getir götür kütüğü 
+ swap-in _ getirme 
+ swap-out _ götürme 
+ switch _ anahtar 
+ switch _ anahtarlamak 
+ switched line _ anahtarlamalı hat 
+ switcher _ anahtarlayıcı 
+ switching _ anahtarlama 
+ switch off _ kapamak 
+ switch on _ açmak 
+ syllable _ hece 
+ syllable hyphen _ hece ayırma çizgisi 
+ symbol _ simge 
+ symmetric _ bakışımlı 
+ synchronous _ anuyumlu 
+ synergic _ birlikte çalışan 
+ synergy _ birliktelik 
+ Synonym _ eşanlamlı 
+ syntax _ sözdizim 
+ syntax error _ sözdizimi hatası 
+ synthesis _ bireşim 
+ synthesizer _ bireştirici 
+ system _ sistem 
+ system analysis _ sistem çözümleme 
+ system analyst _ sistem çözümleyici 
+ system board _ sistem kartı 
+ system integration _ sistem bütünleştirme 
+ system prompt _ sistem komut istemi 
+ Systems Application Architecture(SAA) _ Sistem Uygulama Mimarisi 
+ tab _ sekme 
+ Tab Delimited _ sekmeyle ayrılmış 
+ Tab Dialog _ Etiketli iletişim kutusu 
+ table _ çizelge 
+ Table cell _ Tablo gözesi 
+ Table of Contents _ içindekiler 
+ tablet _ tablet 
+ tabloid _ tabloid 
+ tab marker _ tab imleyici 
+ Tab Position _ Sekme konumu 
+ tab ruler _ tab cetveli 
+ Tab stop _ sekme durağı 
+ tabulate _ çizelgelemek 
+ tag _ biçim imi 
+ tag _ yönlendirme imi 
+ Tagged Image File Format file(TIFF) _ TIFF 
+ tailor _ uyarlamak 
+ tape _ manyetik bant 
+ Tape backup device _ manyetik bant yedekleme aygıtı 
+ tape deck _ manyetik kart birimi 
+ tape mark _ manyetik bant imi 
+ tape reel _ bant makarası 
+ target _ hedef 
+ tariff _ tarife 
+ task _ görev 
+ task force _ çalışma kolu 
+ Task list _ Görev listesi 
+ technical _ teknik 
+ telecommunication _ uziletişim 
+ teleconferencing _ uziletişimli toplantı 
+ teleprocessing _ uzişlem 
+ teleprocessing network _ uzişlem ağı 
+ template _ şablon 
+ temporary _ geçici 
+ tensile _ gerilme 
+ tentative _ geçici 
+ term _ terim 
+ terminal _ uçbirim 
+ terminal emulation _ uçbirim öykünmesi 
+ terminate _ sonlandırmak 
+ terminate and stay resident _ bitince yerleşik kalan 
+ Terminator _ Sonlandırıcı 
+ test _ sınamak 
+ text _ metin 
+ text editor _ metin düzenleyici 
+ texture(graphics) _ doku 
+ texture map _ doku eşlemi 
+ theory _ kuram 
+ thermal _ ısıl 
+ Thesaurus _ Eşanlamlılar 
+ thick _ kalın 
+ Thin _ İnce 
+ third party _ üçüncü parti 
+ This disk is damaged _ Bu disk hasarlı 
+ thousands separator _ binlik basamak ayırıcı 
+ Thread _ iş parçacığı 
+ threshold _ eşik 
+ throughput _ üretilen iş 
+ tick _ im 
+ tick _ imlemek 
+ tie line _ özel bağlantı numarası 
+ tightly coupled _ sıkı bağlı 
+ tile _ döşe 
+ time _ saat 
+ time _ zaman 
+ time format _ zaman biçimi 
+ time frame, time slice _ zaman dilimi 
+ time interval _ zaman aralığı 
+ time out, timeout _ zaman aşımı 
+ timer _ süre ölçer 
+ time sharing _ zaman paylaşımı 
+ time stamp _ zaman damgası 
+ Time Zone _ Saat dilimi 
+ tip _ ipucu 
+ tip _ fiş ucu 
+ title _ başlık 
+ title bar _ başlık çubuğu 
+ Title Page _ Başlık sayfası 
+ toggle button _ iki konumlu düğme 
+ Toggle keys _ geçiş tuşları 
+ token file _ alıntı kütüğü 
+ token ring network _ simgeli halka ağı 
+ tone _ ses 
+ tone _ koyuluk 
+ tone _ ton 
+ tone dialing _ tuşlu arama 
+ toner _ karartıcı 
+ tool _ araç 
+ Toolbar _ Araç çubuğu 
+ Tool Box _ Araç Kutusu 
+ toolkit _ araç takımı 
+ Tool palette _ Araç paleti 
+ topdown programming _ yukarıdan aşağıya programlama 
+ topic _ konu 
+ top margin _ üst kenar boşluğu 
+ Top of Form(TOF) _ Form başı 
+ Top of page _ Sayfa başı 
+ topology _ ilinge 
+ total, sum _ toplam 
+ touch _ dokunmak 
+ touch screen _ dokunma duyarlı ekran 
+ touch sensitive _ dokunma duyarlı 
+ trace _ iz 
+ trace _ izlemek 
+ trace log _ izleme günlüğü 
+ track _ iz 
+ track _ izlemek 
+ track ball/trackball _ İztopu 
+ tracking _ izleme 
+ tractor _ çekici 
+ trademark _ ticari marka 
+ trade secrets _ ticari sırlar 
+ trail _ iz 
+ trail _ izlemek 
+ trailer _ artbilgi 
+ trailer label _ artetiket 
+ Training _ Eğitim 
+ transaction _ hareket 
+ transaction driven _ harekete dayalı 
+ transaction file _ hareket kütüğü 
+ transceiver _ alıcı verici 
+ transcription machine _ yazıya dönüştürme makinesi 
+ transfer _ aktarım 
+ transfer _ aktarmak 
+ transfer rate _ aktarım hızı 
+ transform _ dönüştürmek 
+ transform _ dönüşüm 
+ transient area _ geçici program alanı 
+ transistor _ transistor 
+ transition _ geçiş 
+ translate _ çevirmek 
+ translator _ çevirmen 
+ transmission _ iletim 
+ transmit _ iletmek 
+ transparent _ saydam 
+ transport _ taşımak 
+ trap _ yakalamak 
+ Trash _ Çöp Sepeti 
+ tray _ tepsi 
+ tree network _ ağaç ağ 
+ tree search _ ağaç yapısında arama 
+ trigger _ tetiklemek 
+ trim _ kırpmak 
+ trivial _ önemsiz 
+ TroubleShooting _ sorun giderme 
+ TrueType _ TrueType 
+ truncate _ kesmek 
+ trunk _ telefon hattı 
+ trunk cable(ESCON) _ ana kablo 
+ tune _ ayar 
+ tuner _ ayarlayıcı 
+ turnaround time _ dönüş süresi 
+ turn-key _ anahtar teslimi 
+ turn off _ kapamak 
+ turn on _ açmak 
+ turnover _ devir 
+ turnover _ devir hızı 
+ tutorial _ eğitmen 
+ twin _ ikiz 
+ twinaxial _ ikizeksenli 
+ Two-headed arrow _ Çift başlı ok 
+ Type _ tür 
+ type face, typeface _ yazıyüzü ailesi 
+ typematic key _ yinelemeli tuş 
+ typeset _ karakter dizmek 
+ Typesetter _ Karakter dizicisi 
+ type (to) _ yazmak 
+ typewriter _ yazımakinesi 
+ UI(User Interface) _ Kullanıcı arabirimi 
+ ultraviolet _ morötesi 
+ Unable _ olanaksız 
+ unary _ birli 
+ Unassign(to) _ Atamayı kaldırmak 
+ unattended _ gözetimsiz 
+ unattended operation _ gözetimsiz işlem 
+ unattended operation _ gözetimsiz işletim 
+ unavailable _ kullanılamaz 
+ unbalanced _ dengelenmemiş 
+ unbind _ bağlantı çözmek 
+ unblock _ öbek çözmek 
+ uncheck(to) _ onayı kaldır 
+ unconditional _ koşulsuz 
+ underline _ altını çizmek 
+ underline _ altı çizili, 
+ underscore _ altını çizmek 
+ underscore _ altçizgi 
+ undo _ geri almak 
+ unformatted _ biçimlenmemiş 
+ UNINDENT _ GİRİNTİSİZ 
+ uniform _ birörnek 
+ union(SQL) _ bileşim 
+ unipolar _ tek kutuplu 
+ unique _ benzersiz 
+ unit _ birim 
+ Unit of measurement _ ölçü birimi 
+ universal _ evrensel 
+ Unknown _ Bilinmeyen 
+ unlink _ bağ çözmek 
+ unload tape _ bandı boşa almak 
+ unlock(to) _ kilidi açmak 
+ unmapped _ eşlenmemiş 
+ unmarked _ imlenmemiş 
+ unmount _ çıkarmak (devreden) 
+ unnamed _ adsız 
+ unnested _ iç içe olmayan 
+ unnumbered _ numarasız 
+ unordered _ sırasız 
+ unpack _ paket çözmek 
+ unrecoverable _ kurtarılamaz 
+ UNSPIKE(Keyname) _ Depoyu boşaltmak 
+ untitled _ adsız 
+ unwind _ makaradan çıkarmak 
+ Up _ Yukarı 
+ update _ güncellemek 
+ upgrade _ yükseltme 
+ upgradeability _ büyürlük 
+ Upgrade kit _ yükseltme paketi 
+ upload _ yüklemek (yukarı) 
+ uppercase _ büyük harf 
+ Upside down _ Baş aşağı 
+ upsizing _ büyütme 
+ upstream _ yukarı akım 
+ up-time _ çalışabilirlik süresi 
+ up-to-date _ güncel 
+ upward compatibility _ yukarıya doğru uyumluluk 
+ usability _ kullanılırlık 
+ usability test _ kolay kullanım sınaması 
+ usable _ kullanılır 
+ user _ kullanıcı 
+ user account _ kullanıcı hesabı 
+ user exit _ kullanıcı çıkışı 
+ user friendly/user-friendly _ kullanışlı 
+ user group _ kullanıcı grubu 
+ user id _ kullanıcı kimliği 
+ user interaction _ kullanıcı etkileşimi 
+ user profile _ kullanıcı belgisi 
+ User s Guide _ Kullanıcı Kılavuzu 
+ User s Reference _ Başvuru Kitabı 
+ utility (program) _ Yardımcı (program) 
+ vaccine program _ aşı programı 
+ Valid _ Geçerli 
+ validate _ geçerliğini denetlemek 
+ validation check _ geçerlik denetimi 
+ value _ değer 
+ variable _ değişken 
+ vary off _ kullanılmaz kılmak 
+ vary on _ kullanılır kılmak 
+ vector _ yöney 
+ vector graphic _ yöneysel grafik 
+ vectorial _ yöneysel 
+ vector symbol set(VSS) _ yöneysel simge kümesi 
+ vendor _ sağlayıcı 
+ Venn diagram _ Venn çizimi 
+ verification _ doğrulama 
+ verify _ sağlamak (doğruluğunu) 
+ versatile _ çok yönlü 
+ version _ sürüm 
+ version _ uyarlama 
+ vertical _ düşey 
+ vertical redundancy check _ düşey hata denetimi 
+ video _ görüntü 
+ video card _ görüntü kartı 
+ videoconferencing _ görüntülü toplantı 
+ Video Graphics Adapter _ Video Grafik Bağdaştırıcı 
+ Video Graphics Array _ Video Grafik Dizisi 
+ video memory _ görüntü belleği 
+ video monitor _ görüntü monitörü 
+ Video screen _ Görüntü ekranı 
+ video tape _ görüntü şeridi 
+ view _ görünüm 
+ view _ görüntüleme 
+ viewpoint _ bakış açısı 
+ virtual _ sanal 
+ virtual memory _ sanal bellek 
+ virus _ virüs 
+ vision _ görüş 
+ vision _ uzgörüş 
+ visual _ görsel 
+ vocabulary _ söz varlığı 
+ voice _ ses 
+ voice-grade channel _ ses kanalı 
+ voice recognition _ ses tanıma 
+ voice synthesizer _ ses bireşimcisi 
+ void _ geçersiz 
+ volatility _ oynaklık 
+ volume _ birim 
+ volume _ cilt 
+ volume _ oylum 
+ volume _ ses düzeyi 
+ volume label _ birim etiketi 
+ wafer _ yonga plakası 
+ wait _ beklemek 
+ wanding _ kalemle okuma 
+ wand (reader) _ okuma kalemi 
+ warm start _ sıcak başlatma 
+ warning _ uyarı 
+ Warning beep _ uyarı sesi 
+ warning message _ uyarı iletisi 
+ wave _ dalga 
+ wavelength _ dalga boyu 
+ way _ yol 
+ Weekday _ iş günü 
+ wet _ ıslak 
+ Wheel _ Teker 
+ Whole _ Bütün 
+ Wide _ geniş 
+ wide area network _ geniş iletişim ağı 
+ widen(to) _ genişletmek 
+ widow control _ yalnız son satır 
+ widow line _ yalnız satır 
+ width _ en 
+ width _ genişlik 
+ wildcard character _ genel arama karakteri 
+ window _ pencere 
+ wire _ tel 
+ wireless _ telsiz 
+ word _ sözcük 
+ word processing _ sözcük işlem 
+ word wrap _ sözcük kaydırma 
+ work _ iş 
+ work _ çalışmak 
+ work breakdown structure _ iş dökümü yapısı 
+ Work file _ Çalışma kütüğü 
+ working directory _ yürürlükteki dizin çalışma 
+ worksheet _ İşlem Tablosu 
+ worksheet _ taslak 
+ Workspace _ Çalışma alanı 
+ workstation _ iş istasyonu 
+ worm(write-once-read-many) _ WORM 
+ wraparound _ sarım 
+ write _ yazmak 
+ write access _ yazma erişimi 
+ write access _ yazmak için 
+ write enable notch _ yazılabilir çentiği 
+ write protected _ yazma korumalı 
+ write protect notch _ yazmaya karşı koruma çentiği 
+ write protect tab _ yazmaya karşı koruma anahtarı 
+ Year _ Yıl 
+ zero index carrier return _ aynı satırda satırbaşı 
+ Zip Code _ Posta kodu 
+ zone _ bölge 
+ zoom in _ büyütmek 
+ zoom in _ yaklaştırmak 
+ zoom out _ küçültmek 
+ zoom out _ uzaklaştırmak 
+ zoom (to) _ büyütmek 
+ zoom(to) _ Yakınlaştırmak 
+ Access _ Depolanmış olduğu yerden bir bilgiye, (data) veya bir cihaza (bir disket okuyucusu gibi) girişi sağlamak, okumak veya yazmak. 
+ Access Mechanism _ (Erişim Mekanizması) Bir veya birden fazla yazma ve okuma kafasını, istenilen yazma ve okuma konumuna getiren mekanizma. Bu mekanizma, yazma ve okuma kafaları sabit olan sistemlerde veri ortamını hareket ettirmek için kullanılır. 
+ Access Privileges _ Dosyalarda değişiklik yapmak ve erişmek için imtiyaz. 
+ Access time _ Belleği okumak için gerekli süre. 
+ Account _ İnternete bağlanmak için, internet servis sağlayıcılarından aldığınız şifreli kullanıcı hesabı. 
+ Accuracy _ Hatadan uzaklık derecesi. Accuracy, Precesion ile karıştırılır. Perecision, herhangi bir ölçme işleminde hassasiyet için kullanılır. 
+ ACTV _ Klasik televizyonlardan biraz daha iyi resim kalitesi olan HDTV sistemine geçiş olarak kabul edilen TV yayın sistemi. 
+ AD _ (Administrative Domain) (Yönetsel Alan) 
+ AD/DA Çevirici _ Analog ses işaretlerini dijitale yani sayısal işaretlere çeviren ya da tersi işlemi aynı şekilde hazırlayan devrelerdir. 
+ Adapter _ (Adaptör) Direkt olarak birbirlerine uyum sağlamayan iki konnektörün veya cihazın bağlanmasını sağlayan bir aracı cihaz. 
+ Adaptör _ Uygunlaştırıcı, çevirici, güçkaynağı. 
+ ADC _ (Analog Digital Convertor) Analog sinyalleri karşılığı olan dijital sinyallere dönüştüren bir cihaz. 
+ Address _ Verinin saklandığı bellek bölgesi. 
+ Address _ Bir kaydı, bölümü veya bilginin saklı olduğu kısmı ifade eden isim, etiket veya rakamdır. İnternet'te kullanılan üç tip adres vardır. Bunlar e-posta adresi; IP ya da internet adresi; ve donanım ya da MAC adresidir. 
+ Address _ (Adres) Bir sistem ya da ağdaki bir cihazda veya diğer veri kaynaklarında bulunan bir dosyanın yeri için ayrılmış özel kod. Bir kullanıcının yerini belirten dizi. 
+ Address resolution _ Alfasayısal bir internet adresine karşılık gelen sayısal fiziksel adrese çevirme işlemi. 
+ Administrative Domain _ (Yönetsel Alan) Tek yönetim birimi tarafından idare edilen ana sistemler, yönelticiler, ve birbirine bağlı iletişim ağlarının bütünü. 
+ Aerial _ Anten 
+ A-F _ (Audio Frequency) (Ses Frekansı) 
+ AF _ (Auto-Focus) Kameralarda netliğin otomatik olarak sağlanmasıdır. 
+ AGP _ (Accelerated Graphics Port) Süper hızlı 3D görüntülere olanak veren gelişmiş grafik kart arayüzüdür. 
+ Ağ _ (Network) Bilgisayar ağı değişik yerlerdeki bilgisayar sistemlerini birbirine bağlayan bir veri iletişim sistemidir. Bir ağ, WAN ve LAN'ların değişik birleşimlerinden oluşabilir. Yerel Alan Ağı (Local Area Network), Geniş Alan Ağı (Wide Area Network), ağl 
+ AIX _ IBM tarafından geliştirilen UNIX tabanlı işletim sistemi. 
+ Alfa kanalları _ Photoshop'da, dokümanı oluşturan kanalların haricindeki her yeni kanala verilen isim. Seçili alan, Save Selection ile kaydedildiğinde bir alfa kanalı oluşur. Ayrıca Channels paletinde New Channel ile oluşturulan her yeni kanal, aynı zamanda alfa kanalıdır 
+ Alias _ Takma ad. Uzun ve hatırlaması zor bir ismin yerine kullanılan genelde kısa ve hatırlaması kolay isimler. 
+ Aliasing _ Bilgisayar grafik şekillerinin kenarlarında bulunan, bazin jaggies diye de adlandırılan bir efekt. 
+ Alphanumeric _ Alfabetik ve nümerik karakterlerden oluşmuş kelime. Rakam, kelime ve özel semboller ihtiva eden karakter seti. 
+ Anakart _ (Main Board, Mother Board) Bilgisayarın bazını oluşturan diğer birimlerin çalışmasını sağlayan en önemli elektronik devredir. Bilgisayarın iskeleti gibidir. Bütün aygıtları birbirine bağlar ve aralarında iletişim kurulmasını sağlar. 
+ Analitik _ Elektronik devrelerin matematiksel yolla çözümlenmesi. 
+ Analog _ İşlemden geçirilen yada yeniden orijinal bir görüntü veya sesi temsil eden bir elektrik sinyalinin varyasyonu. 
+ Analog Monitor _ Analog bir sinyal kullanan ve birincil renkleri sonsuz sayıda gölgeler ya da gri bir skala halinde gösteren bir ünite. Voltajı devamlı değişir. 
+ Anchor _ HTML dosyalarında kullanılan "anchor" aktif döküman içinde başka bir bölgeye gitmek veya bambaşka bir sayfaya dallanmak için kullanılır. (Genellikle altı çizili mavi bir metin şeklindedir.) 
+ Animated _ Web sayfalarında bulunan hareketlendirilmiş resim, yazı ya da ikonlar. 
+ Anonymous FTP _ (Anonim FTP) Kullanıcıların kullanıcı adı ve şifre belirtmeden internet üzerindeki herhangi bir yerdeki dokümanları, dosyaları, programları ve bunun gibi bir çok arşivlenmiş veriyi bilgisayarlarına aktarmalarına izin verir. Ağ üzerindeki bir kullanıcı "an 
+ ANSI _ (Amerikan Ulusal Standart Enstitüsü) Bu organizasyon bilgisayar ve iletişim gibi bir çok alanda ABD standartlarını belirlemektedir. Bu organizasyon tarafından onaylanan standartlar ANSI standartları olarak anılmaktadır. (Örneğin ANSI C. ANSI tarafından on 
+ Antialias _ Bilgisayarlardaki her resim piksellerden oluştuğu için, eğik kenarlarda genellikle çirkin sivri uçlu merdiven basamakları oluşur. Antialias bu kenarları güzelleştirmek için kullanılan bir metottur. Bu esnada kenarlar biraz silinmesine rağmen, göze sübjekt 
+ AOL _ (America On Line) 
+ Applet _ Bağlanılan internet adresinde hazır olarak bulunan, Java dilinde yazılmış programların derleniş biçimi. 
+ Appletalk _ Apple bilgisayar ürünleri ve diğer bilgisayarlar arasında iletişimi sağlamak amacıyla geliştirilmiş bir iletişim protokolüdür. 
+ Application _ Doğrudan kullanıcı için bir işlevi yerine getiren program. FTP, mail ve telnet kullanıcı programları iletişim ağı uygulamalarına örnek oluştururlar. 
+ Arayüz _ Bilgisayarda bir yazılımı kullanabilmeniz için oluşturulan menüler, butonlar ve grafik ortamı. 
+ Archie _ İnternet üzerinde genel kullanıma açık anonymous FTP dosyalarını aramaya olanak veren bir araştırma aracı. FTP sitelerinden, istediğiniz dosyaları bulabilmeniz için gerekli olan bir veritabanı araştırma aygıtıdır. Archie'yi kullanarak istediğiniz dosyayı, 
+ ARPANET _ (Advanced Research Projects Agency Network) (İleri Araştırma Projeleri Ajansı Bilgisayar Ağı) İnternet ağı konusunda ilk çalışmalar yapılırken o ağa verilen ad. Bugünkü internetin temeli. 
+ ASCII _ (American Standard Codes for Information Interchange) Tüm dünyada çok yaygın olarak kullanılan Latin harflerini tanımlamaya yarayan 8 bitlik bilgisayar kodları standardına verilen addır. Bu standart sayesinde, her tür bilgisayar kolayca metin alışverişi y 
+ Aspect Ratio _ Bilgisayarlı grafik işlemlerinde, bir çerçevenin veya bir görüntünün yatay ölçülerinin, dikey ölçülerine göre oranı. Bu oranın korunması veya kontrol edilmesi, bir görüntünün sağlanması veya baskıya geçirilmesi için önemlidir. 
+ Assemble Editing _ Video görüntü sekansları pleybek bir VCR'den bir VCR alıcısına, edit control cihazından, pre-roll veya yumuşak edit sağlayan diğer imkanlardan faydalanmaksızın direkt olarak geçirilmesi. edit olarak da bilinir. 
+ Assembler _ Makine dilinde program üreterek bilgisayar tarafından doğrudan işletilebilmesini sağlayan bilgisayar programıdır. 
+ Assembly Language _ (Assembler Dili) 
+ ATM _ (Asynchronous Transfer Mode) Bir paket anahtarlama teknolojisi. ATM, verileri byte büyüklüğünde hücrelere ayırır ve aynı zamanda 53 hücrelik paketler halinde iletir. 
+ Attachment _ (Eklenmiş dosya) Normal e-maillere dosya ekleyerek gönderme işlemidir. Eklenmiş dosya kullanımı, mail programlarının bir özelliğidir. 
+ Attribute _ Nitelik anlamına gelir. HTML sayfalarında kullanılan TAG 'ların aldığı parametrelerdir. Her bir parametre kontrole yeni bir özellik ekler. Bazı parametreler değer alır bazıları ise olduğu gibi kullanılır. 
+ Audio Mixing _ Mic-Mikser veya diğer bir ses miks cihazı kullanılarak değişik kaynaklardan bir audio trak yaratılması. Mic-Mikser veya diğer bir ses miks cihazı kullanılarak değişik bir audio direkt olarak orijinalinin üstüne kaydedilir. 
+ Audio Track _ Audio sinyallerini taşıyan video teybin bir bölümü. 
+ Audiospace _ (Audio alan) Sesin özel bir etki yapabilmesi için çeşitlendirilmesi. 
+ AUP _ (Kabul Edilebilir Kullanım Politikaları) Birçok transit iletişim ağı üzerlerinden geçecek bilgilerin içeriğini kısıtlamaktadır. En çok bilinen örnek NSFNET'in (National Science Foundation) ticari kullanıma izin vermeyen kabul edilebilir kullanım politikal 
+ Authentication _ (Doğrulama) 
+ Authorware _ Çok medyalı gösteriler yaratmak için kullanılanı ortaya çıkaran ve dahil edilmesi gereken video ve audio elemanlarının belirten geliştirilmiş yazılım programları. 
+ AutoCad _ Çizim ve tasarım programı. 
+ Autorec Sensor _ Ses kaydını en doğru seviyesinde gerçekleştiren algılayıcı. Bu düğmeye basıldığında müzik kaynağı 7 saniye kadar incelenir ve en doğru kayıt seviyesi belirlenir. 
+ Aux _ Yardımcı elemanlar; müzik setine TV, compact disk, video ya da bir başka müzik kaynağının bağlanabildiği soket. 
+ A/V _ (Audio/Video) (Ses/Görüntü) 
+ AVC _ (Otomatik Volüm Kontrolü) (Volüm alçak frekans sinyalinin büyüklüğü) 
+ AVI _ (Audio Video Interleave) Microsoft Video 'nun Windows standartlı dosya uzantısıdır. 
+ AWK _ Unix'in özelliklerini de taşıyan oldukça güçlü bir "yığın dilidir." Awk, Unix kabuğunun dosya işleme arabirimlerine, "C" benzeri yapısal programlama gibi bir çok ilave getirir. 
+ Axis _ Uzunluğu ölçümü veya konumların tespiti için başvurulan sabit bir hat. 
+ Backbone _ (Omurga) Bilgisayar ağlarındaki çok yüksek kapasiteli hat ya da seri bağlantı yollarına verilen addır. Omurgalar, şehirleri, ülkeleri ya da kıtaları internet üzerinde birbirine bağlar. 
+ Background _ Görüntünün arka planı, fon, zemin. 
+ Backup _ Bir dosya, veri yada vb. ikinci güvenli kopyasıdır. 
+ Bandwidth _ (Bant genişliği) Bir şebeke üzerinden gönderilecek sinyalin en düşük ve en yüksek frekansları arasındaki farka verilen addır. Ayrıca veri haberleşmesinde şebekeden akabilecek maksimum veri hızını belirtmek için de kullanılır. Bps ölçü birimi, saniyede tra 
+ Barkovizyon _ Video dahil, bilgisayardan aldığı tüm sinyalleri perdeye yansıtabilen bir projeksiyon sistemidir. Görüntü kalitesi LCD'lere oranla daha yüksektir. Sunum büyük bir salonda geniş bir kitleye verilecekse kullanılır. Tasarımın içinde video yer alıyorsa ve büy 
+ BASIC _ İlk defa DARMOUNTH kolejinde geliştirilen en basit bilgisayar programlama dili. 
+ Battery pack _ (Power pack) 
+ Baud _ Bilgi işleme hızı birimi. Bir saniyede gelen bilgi sinyallerinin değeri baud olarak hızı verir. Tipik baud değerleri 110, 300, 1.200, 2.400, 4.800, 9.600, 14.400, 28.800, 36.600. 
+ Baud Rate _ Bilgisayar kontrollü sistemlerde seri hatlar üzerindeki bilgi akış hızı birimi. 
+ BBS _ (İlan Tahtası Sistemleri) (Bilgisayarlı Bilgi Servisi) Kullanıcıların mesaj bırakabildikleri elektronik bülten panosu. Modem aracılığıyla bağlanılarak bilgi alışverişinde bulunulan on-line sistemlerin genel adı. Bazı BBS'ler üyelik üzerine kurulmuşlardır. 
+ Beta _ Bilgisayar dünyasındaki programların geliştirilme ve test aşamasında olduklarını belirten sıfat. 
+ Binary _ 10 tabanlı verinin 2 sayısını taban olarak alan sayı sistemi. Binary sistemde sayılar yalnızca 0 ve 1 rakamlarından oluşur. 
+ Binary file _ (*.BIN) Makina koduna dönüştürülmüş dosya. Bir kaynak dosyanın, bir yüksek düzeyli dil derleyicisi (PMA, COBOL, FTN, PRG gibi) tarafından makine koduna dönüştürülmüş biçimi. Bu tip dosyalar, yükleyicinin giriş formatına uygun olarak düzenlenirler. Makine  
+ Binary system _ 2 tabanına göre sayı sistemi veya ikili sayı sistemi. 
+ Bit _ İletilebilen en küçük veri miktarıdır. Bilgisayar bir ve sıfırlardan oluşur, ve bu her "1" ve "0" bilgisayarda 1 bitlik veri alanına eşittir. 1 Bit = 8 Byte; 1024 Byte = 1 KB; 1024 KB = 1 MB 
+ Bitmap _ Bilgisayar ekranında bir resmi görüntülemek için gereken tüm renk bilgilerinin verildiği resim formatlarına verilen genel ad. Piksellerden (nokta) oluşan resim biçimidir. 
+ Bios _ (Basic Input Output System) Bilgisayar ilk açıldığında anakart ve üzerindeki kartları tanıyan ve bunlar hakkında işlemciye bilgi veren küçük programcık. Anakart üzerindeki ROM adındaki silinmeyen hafıza üzerinde bulunur. 
+ Blend _ (Geçişme) Bir renkten diğerine, bir efektten diğerine, bir şekilden bir başka şekle vb. çeşitli geçiş metotlarıdır. 
+ Blur _ Netliğin kaybolması. Gözleri bozuk olan bir insanın, gözlüksüz baktığında görebileceği ortam. 
+ BMP _ Grafik formatı. Windows Paint öğesi üzerinden ulaşılabilen dosya uzantısı. 
+ BNC _ Sürgülü video fiş ve priz sistemi. 
+ BODY _ HTML sayfalarında kullanılır. HTML sayfalarını oluşturan kodları barındıran "Başlık" ile "Son" arasındaki bölümdür. 
+ Bookmark _ İstenilen internet adresinin saklanması. 
+ Booster _ (Güçlendirici) Televizyon sinyalini güçlendirmek için ve görüntü ve sesin daha kaliteli alınabilmesi için kullanılan araç. 
+ Boot _ Sistemin istenilen seviyeden işleme başlamasını sağlayan makine prosedürü. İlk birkaç talimat, bir giriş cihazından gelir ve bunlarla sistemin tamamının yüklenebilmesi sağlanır. 
+ Bounce _ (Geri dönme) Elektronik postanın, gönderilen adrese ulaşamadan geri gelmesidir. 
+ Bps _ (Bits per Second) (Saniyedeki Bit Sayısı) Veri aktarma hızını ölçme birimi. Bir saniyede geçen bit miktarına verilen ad. 8 bit, 1 byte eder. 
+ Broadcast _ Radyo ve TV yayınları. 
+ Browser _ (Tarayıcı) İnternet adreslerini bulup, onlara ulaşmamızı sağlayan program. 
+ Bug _ Bir program üzerinde yazım hatasından kaynaklanan sistem açığı, hata. 
+ Built-in _ Cihazın içine yerleştirilmiş olan sistem veya başka bir cihaz. 
+ Bus hızı _ Anakart üzerindeki işlem akış hızı. İşlemci yüksek hızlarda çalışsa da anakartın yavaşlığı hızı etkiler. 
+ Byte _ Sekiz data biti ve bir parti bitten meydana gelen bir alfabetik veya özel karakterdir. Genelde ASCII kodludur. 
+ CA/CG _ (Computer Animation Computer Graphics) 
+ Cache _ Her türlü işlemi hızlandırmaya yarayan özel bir hafızadır. 
+ CAD _ Grafik işlerinin mimari ve mühendislik sistemleri için çizim ve planların bilgisayarda üretilmesi. 
+ CADD _ (Bilgisayar destekli Taslak ve Dizayn üretimi) 
+ CAM _ (Bilgisayar Destekli Üretim) 
+ Camcorder _ (Camera & Recorder) 
+ CAND _ (Bilgisayar Destekli Taslak ve Dizayn üretimi) 
+ Carbon Copy _ (CC) Elektronik postanın kopyasının ilgili kişilere gönderilmesidir. 
+ CAV _  (Constant Angular Velocity) CD 'lerdeki dataya ulaşmak için kullanılan tekniklerden biridir. CLV (Constant Linear Velocity) 'den farkı CD üzerindeki datanın okunurken CD hızının sabit olmasıdır. 
+ CD-I _ (Compact Disc-Interactive) Optik CD üzerinde video, ses ve data saklamak için Philips ve Sony tarafından ortak geliştirilen yazılım ve donanım standardıdır. 552 mb 'ı destekler. Bildiğimiz CD-ROM 'lardan farklı olarak CD-I 'ların üzerlerinde hesaplama yap 
+ CD-R _ (Compact Disk Recordable) Boş halde bulunan ve 650-700 MB bilgi taşıyabilen yazılabilir CD'lerdir. 
+ CD-ROM _ (Compact Disc Read Only Memory) Üzerinde 650-700 MB bilgi taşıyabilen mobil veri depolama birimleridir. 
+ CD-ROM/XA _ (CD-ROM/eXtended Architecture) Sony, Phillips ve Microsoft tarafından geliştirilen, tek CD 'ye müzik ve datanın karışım yapılması sistemidir. 
+ CD-RW _ (Compact Disk ReWritable) CD-R 'dan farkı silinip tekrar yazılabilir olmasıdır, fiyatı da ona göre biraz yüksektir. 
+ Cell _ Bir animasyon içindeki tek bir çizim veya çerçeve. 
+ Cell Animation _ Bir görüntünün ufak kısımlarının animasyonu. 
+ CGA _ (Color Graphics Adapter) IBM PC'leri ve eş değerde cihazlar için konulan ilk video interface standardı. 320x200 çözünürlükte 4 renk gösterebilir. 
+ CGI _ (Common Gateway Interface) Web sayfaları üzerinden bir başka yazılımla ilişki kurup sonucu yansıtan yazılımların genel adıdır. CGI sayesinde Web'te bir yazılımla bağlantı kurulup sonuç Web sayfasına iletilir. Örnek: web sitelerinde bulunan ziyaretçi defte 
+ Channel _ (Kanal) Bir ağdaki iki yer arasında, belirli iletim hızına sahip bir iletişim hattı. 
+ Character _ (Karakter) Bilgisayar tarafından yazılıp okunabilen ve depolanan herhangi bir tek alfabetik, nümerik, noktalama veya değer işaretlerinden biri. 
+ Chat _ Gerçek zamanlı görüşmeyi tanımlamak için kullanılan bir terimdir. 
+ Checksum _ Bir veri paketinin içeriğinden yararlanarak hesaplanan değer. Bu değer paketle beraber aktarılır, alıcı sistem aldığı verilerden yararlanarak bu değeri yeniden hesaplar ve paketle gelen değerler karşılaştırır. İki değer aynıysa alıcı veriyi hatasız olarak 
+ Chip _ İnce kesilmiş silisyum dilimi. 
+ Chipset _ Anakart üzerinde bulunan ve veri akışını kontrol eden işlemcilere ve markalarına verilen ad. 
+ Chroma _ Video sinyalinde ölçülen, hue'lerin miktarları ve izafi parlaklıkları. Bu sinyal olmaksızın alınan video görüntüsü siyah-beyaz olurdu. 
+ Chromakey _ Video görüntülerini ikinci bir video kaynağındaki seçilmiş bir renk üzerine bir özel efekt yaratıcı sistemi veya bilgisayar kullanarak geçirmek. 
+ Client _ (Alıcı) Bir ağ servisini kullanan kullanıcı veya kullanıcıya hizmet eden program. 
+ Clipart _ Web sitenizde veya dokümanlarınızda kullanabileceğiniz resim koleksiyonlarıdır. 
+ CLV _ (Constant Linear Velocity) Birçok CD-ROM çalıcıların kullandığı metottur. CD 'nin dönüş hızı, datanın CD merkezine olan uzaklığına göre değişir. Eğer okunan kısım CD merkezine yakınsa CD hızlı döner uzaksa tam tersi olur. Buna alternatif olan CAV (Constan 
+ CMS _ (Color Management System) (Renk Yönetim Sistemi) Ekranların RGB, ofset baskı tekniğinin CMYK olmasından dolayı meydana gelen renk kayıplarını gidermek için kullanılan renk yönetim programları. EfiColor, KPCMS gibi. 
+ CMYK _ (Cyan, Magenta, Yellow, Black) Baş harflerini aldığı renklerden oluşan ve ofset baskı tekniğinde kullanılan renk dünyası. CMYK'da renkler birleştikçe (üst üste geldikçe) koyulaşır. Bu yüzden Subractive Colour (Çıkarılan Renkler) olarak isimlendirilir. 
+ COBOL _ Komplike iş uygulamaları ile ilgili program yazmaya uygun bilgisayar programlama dili. COBOL, US savunma bakanlığı kuruluşu olan CODASYL ile çeşitli bilgisayar imalatçıları ve bilgi işlem cihazları kullanıcıları tarafından geliştirilmiştir. 
+ Code _ (kod) Uygun tabloya göre bilgilerin sınıflandırılması. 
+ Command _ (Komut) Bilgisayara başlamasını, durmasını veya devam etmesini söyleyen bir pals, sinyal, kelime veya harf dizisi. 
+ Compiler _ (Derleyici) Herhangi bir programlama dili ile yazılmış bir bilgisayar programını, bilgisayarın kendi diline çeviren program. 
+ Configuration _ (Konfigürasyon) Bir bilgisayar sisteminin dizaynı. Cihazların birbirine uyumunu sağlayan aranjman işlemi. 
+ Congestion _ (Tıkanıklık) Veri iletişim ağının kapasitesinden fazla yüklenmesi sonucu oluşan durum. 
+ Contrast _ Bir görüntünün beyaz bölgelerinin siyah bölgelere oranının farkı. 
+ Contrast Ratio _ Bir görüntünün mümkün olan en parlak bölgesinin, mümkün olan en karanlık bölgesine olan parlaklık oranı. 
+ Cookie _ Browser tarafından kullanıcıya gönderilen ve kullanıcının harddiskine yerleşen küçük dosyacık. Bu dosya ziyaret edilen site hakkında tarih, kullanıcı adı, ziyaret saati gibi bilgileri içerir. Aynı sitenin bir sonraki ziyaretinde kontrol edilir. 
+ Coprocessor _ Mikroişlemci ile birlikte çalıştırılan ve mikro işlemcinin özel bazı hesaplamalarını daha hızlı yapabilmesini sağlayan mikroişlemci cihazı. 
+ CPU _ (Central Processing Unit) (Processor) (Merkezi İşlem Birimi) (İşlemci) Bilgisayarın kalbidir. Bilgisayarda işlemleri yapmaktadır. Bir sistemin kalite ölçütlerinden biri de işlemcinin hızıdır (Mhz cinsinden). Bir bilgisayarın işlemcisi ne kadar hızlıysa si 
+ Cracker _ (Sistem kırıcı) Yetkisi olmayan, bilgisayar sistemlerine girmeye çalışan kişilere verilen isimdir. Bu kişiler bilgisayar hastalarının (hackers) tersine kötü niyetlidir ve kırdıkları sistemlerden bir çok menfaat elde ederler. 
+ Cursor _ İmleç. Bilgisayar ekranında göz kırpan çizgi veya kutu. Bir sonraki data girişinin nereye yapılacağını gösteren işaret. 
+ CWIS _ (Campus Wide Information System) (Kampüs Çapında Bilgi Sistemi) Kampüs çapında bilgi sistemleri bilgi ve hizmetleri iletişim ağları ve etkileşimli bilgisayar uygulamalarıyla kampüstekilere sunar. Genel kapsamı telefon ve adres rehberi, takvimler, ilan tah 
+ Cyberspace _ (Siberuzay) Bilgisayarlardan oluşan ve toplumun bu bilgisayarların etrafında oluştuğu bir dünyayı ifade eden terim ünlü bilim kurgu yazarı William Gibson ‘un Neuromancer adlı kitabında geçer. Network bilgisayarlarının bulunduğu dünyayı tanımlar. Bilgisaya 
+ Data _ Manyetik ortamda her türlü bilgiye verilen addır. 
+ Database _ Çok güçlü arama kapasitesi sağlayan verilerin sınıflandırılmasına ve depolanmasına olanak veren yapı. 
+ Defragmenter _ (Birleştirici) Veriler yapısal olarak sabit diske karmaşık yazılır. Bu karmaşıklık bir süre sonra bilgisayarda performans düşüklüğü yaratır. Bu performans düşüklüğünü engellemek için disk birleştiriciler (Disc Defragmenterlar) kullanılır. 
+ Diagnose _ Teşhis etmek. Diagnostic yazılımları, bilgisayarlarda meydana gelebilecek problemlerin teşhisi için kullanılır. Bu programlar çok çeşitlidir. Sadece donanımı veya sadece yazılımı kontrol eden programlar mevcuttur. Örneğin “Scandisk” harddiski kontrol eden 
+ Dial up _ İletişim kurulacak noktanın telefon hattı üzerinden aranmasıyla kurulan veri haberleşme metodudur. 
+ DIMM _ (Dual Inline Memory Modules) Yeni model anakartlar üzerinde 12 ns altında erişim hızı sağlayan 168 pinlik RAM modelleridir. 
+ Directory _ Dizin. Depolama bölümü için her dosyaya ait adı, yeri, boyutu, yazılım veya son düzeltme tarihini veren tablo. 
+ DNS _ (Domain Name System) (Alan İsmi Sistemi) İnternete bağlı birimleri (host) gruplandırmaya yarayan adlandırma sistemidir. Böylece tüm adresler bir grup altında tanımlanmış olur. (edu.tr gibi). 
+ Domain Name _ Bir internet bölgesini tanımlayan ve benzeri olmayan bir adrestir. Adres her zaman birbirinden noktayla ayrılmış olan iki veya daha fazla parçadan oluşur. 
+ DOS _ (Disc Operating System) Windows çıkmadan önceki standart işletim sistemiydi. Komutlarla yönetilir, dosyaların sabit diske nasıl kopyalanacağını ayarlardı. 
+ DOS _ (Denial of Service) Bir hizmetin organize olmuş büyük bir grup tarafından hizmetin verildiği server 'a aşırı yüklenerek bu hizmetin durdurulmasıdır. 
+ Doskey _ Komut isteminde girilen komutları tekrar kullanmaya yarayan bir kısayol komutudur. Yukarı ok tuşunu kullanarak bilgisayarı açtıktan sonra girdiğiniz komutları yeniden çağırabilirsiniz. 
+ Download _ Bir bilgisayara başka bir ortamdan bilgi aktarma işi. İnternetten dosya kaydetme işlemine de verilen addır. 
+ DPI _ (Dots per Inch) Uzunluk birimi olan inç ölçüsü cinsinden bir inç karede bulunan nokta miktarı. (1 inç 2.54 cm) Resimlerin çözünürlüğünü, dolaylı olarak ta kalitesini ölçmeye yarayan bir birimdir. 1 inçte ne kadar çok nokta varsa resim o kadar kalitelidir. 
+ Driver _ İki ayrı anlamda kullanılabilir. İlki bilgisayara bağlı olan disket, harddisk veya CD-ROM sürücüsü. Diğeri bir bilgisayar parçasının bilgisayara tanıtılması için kullanılan ve parça üreticisi tarafından sağlanan küçük programcıktır. 
+ DTD _ Document Type Definition ‘ın kısaltmasıdır. 
+ DVD _ (Digital Versatile/Video Disc) (Dijital Çok yönlü Disk) Fiziksel olarak CD ile aynı boyutlarda olan ancak çift katlı ve çift taraflı olan disktir. Tamamına 17 gb veri depolanabilen DVD ‘ler, MPEG-2 kalitesinde film seyredilmesine imkan tanıyor. 
+ DVI _ (Digital Video Interactive) Bilgisayarı, hareketli video görüntülerini televizyonda olduğu gibi yükleyebilir ve oynatabilir hale getiren General Electric tarafından geliştirilen teknolojidir. 
+ E-Commerce _ İnternette ürün satışını tanımlayan terim. 
+ EDO _ (Extended Data Output) Eski model Pentium anakartlar üzerinde yer alan, 72 pinlik 60 ns hıza sahip RAM tipi. 
+ Elektronik Para _ (e-para, e-cash) Bir bilgisayar kullanıcısının sabit diskinde kendi adına kayıtlı bulunan ve internet üzerinden yaptığı alışverişlerde harcayabileceği paradır. Harcama yapıldıkça, harcanan miktar toplamdan düşülür. 
+ E-Mail _ (Elektronik Posta, e-posta) Posta işlemlerinin bilgisayar ortamında yapılmasıdır. Bilgisayar iletişiminin temel taşlarından biridir. Kullanılış şekli mektup göndermeye benzediği için E-mail (elektronik posta) adı verilmiştir. (ramazanmercan@yahoo.com gibi 
+ Encryption _ İnternet üzerinde transfer edilen bilgilerin, üçüncü şahıslar tarafından okunmasını engellemek amacıyla şifrelenmesidir. 
+ Ethernet _ İnternetin yüzlerce katı hızındaki yerel ağdır. 
+ Exploit _ İşletim sistemlerin çok kullanıcılı sistemlerde kullanılmaya başlamasıyla birlikte sistemlerde kullanıcıların yetkisi de söz konusu olmuştur. Kişisel işletim sistemlerinde (örneğin DOS) sistemi aynı anda tek kullanıcı kullandığı için bütün dosyalara erişe 
+ Extension _ Uzantı. Dosya adından sonra yazılan üç karaktere kadar ek. Extension, dosya adının belirleyicisi veya ayırıcısı olarak görev yapar. Dosya adından (.) ile ayrılır. .DOS, .AVI, .WRI, .BAS vb. 
+ Extract _ Sıkıştırılmış bir dosyayı açmak veya genişletmek. Winzip veya diğer sıkıştırma programları, dosyayı açmak için bu terimi kullanır. 
+ FAQ _ (Frequently Asked Question) (Sıkça Sorulan Sorular) İnternet üzerinde belli bir konu hakkında sıkça sorulan soruların yanıtlandığı sayfaların adıdır. 
+ Favorites _ İnternet Explorer ‘da kullanılan sevilen sitelerin, bilgisayarda tekrar kullanımı için kısayol oluşturmasıdır. 
+ Feed _ Bilgi beslemesidir. 
+ File Extention _ Windows işletim sisteminde dosya adının sonuna nokta ile beraber eklenen eklerdir. Örneğin ".doc" Word dokümanları, ".txt" Notepad dosyaları ".xls" Excel dosyaları için kullanılır. Bu ekler Windows işletim sistemine dosyanın hangi program ile işleneceğini 
+ Finger _ Diğer internet bölgelerindeki kişileri bulmak için kullanılan bir yazılım aracıdır. Bazen kişisel olmayan bilgilere erişebilmek için de kullanılır. 
+ Firewall _ (Güvenlik Sistemleri) (Güvenlik Duvarı) İnternet üzerinden bağlanan kişilerin bir sisteme girişini kısıtlayan, yasaklayan bir bilgisayar ve üzerindeki yazılıma verilen addır. Bu sistem sayesinde özel bilgiler başkalarından saklanabilir ve kişisel güvenlik 
+ Flame _ Belli bir konuda, kapasiteyi aşmış elektronik posta ya da Usenet mesajlarına verilen addır. 
+ Font _ Şekilleri ve büyüklükleri daha önceden belirlenmiş karakter koleksiyonudur. 
+ Format _ Dilimizde biçim denilen bu sözcük aynı zamanda bilgilerinizi depoladığınız bir sabit sürücüdeki bilgilerin silinerek sıfırdan kullanılması anlamına da geliyor. 
+ FPU _ (Floating Point Unit) (Kayan Nokta Ünitesi) CPU üzerinde bulunan ve çok hassas işlemlerin yapılmasında görev alan ünite. 
+ Frame Relay _ Verilerin çok yüksek hızlarda dijital ağlar üzerinden iletilmesini sağlayan bir teknolojidir. 
+ Freeware _ Bedelsiz dağıtılan ve kullanılan yazılımlara verilen addır. 
+ FSP _ (File Send Protocol) FTP ‘ye alternatif olarak geliştirilen bir protokoldür. FTP ‘ye olan en büyük üstünlüğü, yarıda kalan bir dosya transferi işlemine kaldığı yerden daha sonra devam edebilmesidir. 
+ FTP _ (File Transfer Protocol) İnternete bağlı bir bilgisayardan diğerine dosya aktarımı yapmak için geliştirilen bir internet protokolü ve bu işi yapan uygulama programlarıdır. 
+ FYI _ (For Your Information) (Bilginize Sunulur) 
+ Gamut _ Tarayıcıların, film çıkış cihazlarının vb. kabul ettiği renk sınırlama, tanıma limiti. 
+ Gateway _ İki değişik protokol kullanan bilgisayar ağları arasında veri transferine olanak tanıyan sistemin adıdır. Yani teknik olarak aynı türden olmayan iki protokol'ün anlaşmasını sağlayan donanım yada yazılım anlamına gelir. Örneğin Compuserve'ün kendi mesaj fo 
+ GIF _ (Graphics Interchange Format) Grafik dosyalarını sıkıştırmak amacıyla Compuserve tarafından yaratılmış bir grafik formatıdır. Web dokümanlarında sık sık kullanılır. 
+ Gopher _ İnternet üzerindeki bilgilere hiyerarşik menüler halinde erişimi sağlayan dağıtılmış bilgi hizmetidir. (İnternet üzerinde hypertext kullanmadan değişik menülerdeki materyallere ulaşmayı sağlar.) Gopher kullanıcının bir kullanıcı programı (client) kullanar 
+ Graphics Card _ Bilgisayarın ekranını kontrol eden devredir. 
+ Guest _ konumdur.Kullanıcının kayıt zorunluluğu bulunan bir sitede sınırlı biçimde gezebildiği 
+ Hacker _ Bilgisayar ağlarına, açıklarını kullanarak izinsiz girip, var olan programları bozmaktan zevk alan kişilere verilen isimdir. Bu terim bazen yanlışlıkla cracker yerine kullanılır. 
+ Hard Disc _ Yüksek kapasiteli veri depolama araçlarıdır. Bilgisayarın içinde sabit bir şekilde bulunurlar. Giga byte boyutunda bilgi depolayabilirler ve bu büyüklükteki verilerle baş edebilmek için çok büyük hızlarda dönerler. Dönüş hızları genelde 7200 devir/dk dır. 
+ Hardware _ (Donanım) Bilgisayar sisteminin sahip olduğu cihazların tümü. 
+ Hit _ Web sayfasına bir kez ulaşılmasıdır. Hit sayısı, o sayfaya, belirtilen süre içinde kaç kez ulaşıldığını gösterir. 
+ Home Page _ Bir sitenin ana sayfasıdır. (Bir web sitesinin ziyaret edilen ilk sayfasıdır.) 
+ Host _ İletişim ana sistemi. Kullanıcıların diğer iletişim ana sistemleriyle haberleşmesini sağlayan bilgisayar. Kişiler haberleşmeyi elektronik posta, telnet ve FTP gibi programlar vasıtasıyla yaparlar. 
+ HPC _ (Handheld Personal Computer) Microsoft tarafından ortaya atılan Windows CE nin çalıştığı bilgisayarlardır. 
+ HTML _ (Hyper Text Markup Language) Web sayfaları yaratmak için kullanılan programlama dilidir. 
+ HTML Editor _ Web sayfaları hazırlamak için kullanılan yazılımdır. 
+ HTTP _ (Hyper Text Transfer Protocol) Web sayfalarının transfer edilmesine ve okunabilmesine imkan veren protokolün adıdır. 
+ Hyperlink _ Üst-bağ anlamında kullanılır. 
+ Hypertext _ Üst-metin anlamında kullanılır. Dokümanları biçimlendirmek, resim eklemek, bağlantılar yaratmak için kullanılan metottur. Bir sayfadan diğerine geçmek için kullanılan linklerdir. 
+ Icon _ (İkon) Yazılımlarda ya da internette karşılaşılan küçük resimler. 
+ Ide _ Harddisklerin bilgi transfer etmekte kullandıkları protokol ve veri yolu adıdır. 
+ Identification _ Program kullanırken veya internette gezinirken kullanıcının kendini tanıtmasıdır. 
+ Inbox _ Elektronik postaların geldiği dizine verilen addır. 
+ Inline image _ Satır içi resimdir. 
+ Install _ Herhangi bir yazılımın bilgisayara yüklenmesidir. 
+ Interactive _ Eş zamanlı etkileşimdir. 
+ Interface _ (Arabirim) Bilgisayarın bir bölümünden başka bir bilgisayara veya harici bir cihaza (printer, monitör veya modem gibi) bilgi iletişiminin kanalize edildiği yerdir. 
+ Internet _ (International Network) (Uluslararası Ağ) Dünya çapında milyonlarca bilgisayarın birbirlerine bağlanmasıyla oluşturulmuş bir ağdır. Birçok bilgisayar sisteminin, TCP/IP protokolü sayesinde birbirine bağlanmasıyla ortaya çıkan, dünya çapında yaygınlaşmış v 
+ Internet Explorer _ Şu anda en popüler browserdır. Microsoft tarafından geliştirilmiştir. 
+ Intranet _ Bir kuruluşun bilgisayarlarını kendi içinde birbirine bağlayan, çoğunlukla TCP/IP tabanlı bir ağdır. Böylece yerel ağlar (LAN) ve geniş ağlan (WAN) birbirine bağlanabilir. Temel oluşturulma amaçları, kuruluş bünyesindeki bilgileri ve bilgi işlem kapasites 
+ IP _ (Internet Protocol) Bir internet protokolüdür. IP numarası ise internette kullanılan bir çeşit adreslemedir. Siz internete bağlandığınız andan itibaren size bir IP numarası atanır. Hangi IP numarasını kullandığınızı bilmenize gerek yoktur. 32 bit bir numa 
+ IRC _ (Internet Relay Chat) (Birleşik Hizmetler Veri Şebekesi) Birçok kişinin aynı anda etkileşimli mesajlarla haberleşebildiği, sohbet edebildiği bir platform ve bunu sağlayan programlardır. Türkçeye sohbet olarak çevirebiliriz. İnternet kullanıcılarının aynı  
+ ISA _ (Industry Standard) Anakartlar üzerinde 16 bitlik veri akışının yapılabildiği kapılardır. Modem, ses kartı vb bileşenlerin anakarta dolayısıyla bilgisayara bağlanmasını sağlayan yuvalardır. Daha yüksek performanslı PCI slotlar ISA nın yerini almıştır. 
+ ISDN _ (Integrated Services Digital Network) Özellikle normal telefon hatları üzerinden yüksek hızda entegre ses (analog) ve veri (dijital) aktarılmasını sağlayan bir dizi iletişim protokolüdür. İnternete yüksek hızda bağlantı kurulmasına olanak veren hatlardır. 
+ ISO _ International Standarts Organization ‘ın kısaltmasıdır. 
+ ISOC _ (Internet Society) Tüm dünyada interneti yönlendiren organizasyondur. 
+ ISP _ (Internet Service Provider) (İnternet Servis Sağlayıcısı) Bilgisayar kullanıcılarını internete bağlayan şirket ya da kurumlardır. 
+ İşlemci _ (CPU Central Processing Unit) (Processor) (Merkezi İşlem Birimi) Bilgisayarın kalbidir. Bilgisayarda işlemleri yapmaktadır. Bir sistemin kalite ölçütlerinden biri de işlemcinin hızıdır (Mhz cinsinden). Bir bilgisayarın işlemcisi ne kadar hızlıysa sistemde 
+ Jamming _ Bir işletim sistemini istenmeyen sinyallerle kasten bozma. 
+ Java _ Sun Microsystems tarafından yaratılan, web sayfalarındaki interaktifliği sağlayan sistemin adıdır. İşletim sistemlerinin web uygulamalarını çalıştırmalarında kullanılan ortak bilgisayar dilidir. 
+ JPEG _ (Joint Photographic Experts Group) Bir tür sıkıştırılmış grafik formatıdır. Böylece resimler değişik yöntemlerle daha az yer kaplayarak saklanabilirler. 
+ Kartuş _ Mürekkep püskürtmeli yazıcıların mürekkeplerini içeren ufak kutucuktur. 
+ KBPS _ (Kilo Bits Per Second) Modem hızını ölçmek için kullanılan bir birimdir. 1 Kilobit = 1000 Bit 
+ Kernel _ İşletim sisteminin kalbi olan çekirdek program yapısıdır. 
+ Kilobyte _ Hafıza kapasitesini gösteren bir ölçü birimidir. 1 kilobyte 1024 byte ‘a eşittir. 
+ Kiosk _ Kiosk bir PC ve dokunmatik ekrandan oluşan bir sistemdir. Kullanıcı klavye ve fare kullanmadığı gibi bilgisayar da görebileceği zarar ve estetik nedenlerden ötürü bir kutu içinde saklanır. Küçük bir yazıcı ekiyle kioskların yazılı materyal verebilen mekan 
+ Knowbot _ Deneme safhasında bir rehber hizmetidir. Beyaz Sayfalar (white pages) gibi. 
+ Konfigürasyon _ (Configuration) Bir bilgisayarı oluşturan parçaların tümü ya da programların ayarlarının tümü. 
+ L2 Cache _ İşlemcinin içindeki ön belleğe ek olarak anakart üzerinde bulunan, hızlı hafıza modüllerinden oluşan ön bellektir. 
+ LAN _ (Local Area Network) Telefon hattına girmeden, bilgisayarlararası veri şebekesi. 
+ Launch _ Bir programın ikonuna basarak onu çalıştırma işlemidir. 
+ LCD _ (Liquid Crystal Display) Notebooklarda veya desktop bilgisayarlarda kullanılan bir çeşit monitördür. 
+ Leased Line _ İki site arasında bağlantı sağlayan kiralık hatlar. 
+ Link _ İnternette gezilen sayfaların içerisinden bir diğer sayfaya veya siteye verilebilen yönlendirmedir. 
+ Live _ “Canlı Yayın” kavramının internet üzerindeki karşılığıyla aynıdır. Uygun programlarla internet üzerinden çeşitli yayınlar canlı olarak izlenebilir. 
+ Lurker _ Bir tartışmaya, sohbete ya da diğer gruplardaki tartışmalara katılmak yerine, yalnızca izleyen kişilere verilen addır. Yeni girilen bir tartışma grubunda bir süre 'lurker' olmak, tartışmanın gelişme yönü ve içeriğini anlamak açısından önerilmektedir. 
+ Mail _ İnternet üzerinde yazışmalarda mektup olarak tanımlanabilecek dosyalardır. 
+ Mailing List _ Kişilerin belli bir konudaki görüşlerini elektronik posta aracılığıyla grup üyelerine dağıtmalarıdır. İki çeşit 'mailing list' vardır: Birincisinde, her kullanıcı, grup üyelerinin adreslerine sahiptir ve 'to' bölümüne herkesin adresini yazarak mesajını gö 
+ Main Board _ (Anakart, Mother Board) Bilgisayarın bazını oluşturan diğer birimlerin çalışmasını sağlayan en önemli elektronik devredir. Bilgisayarın iskeleti gibidir. Bütün aygıtları birbirine bağlar ve aralarında iletişim kurulmasını sağlar. 
+ Map _ Web sayfasındaki bir resmin bir noktasından, resmin o noktasıyla ya da çağrıştırdığı konuyla ilgili başka alanlara linkler verilmesi. Bir resmin 'map' edilmiş olduğunu, internet yazılımının (browser) üzerinde fare ile dolaştığınızda sol alt köşede beliren 
+ Markup Language _ İnternet üzerinde dokümanlara biçim kazandırmak üzere hazırlanmış mark-up karakterlerini deşifre eden dile denir. Bilgisayara okunan dosyanın ekranda nasıl biçim alması gerektiğini anlatır. HTML web sayfaları hazırlamak için geliştirilmiş bir mark-up dild 
+ MBR _ (Master Boot Record) Bilgisayar açıldığında yürütülen küçük bir programdır. Harddiskin ilk sektöründe bulunur. DOS ve Windows sistemlerinde FDISK/MBR komutu ile MBR oluşturabilirsiniz. 
+ Megabyte (MB) _ Veri saklama büyüklüğüdür. Bu büyüklükteki veriye kabaca 1 milyon karakter veya 180.000 kelime büyüklüğünde bir veri diyebiliriz. 
+ MIDI _ (Musical Instrument Digital Interface) Bilgisayar ile müzikal enstrüman arasındaki bağdır. Örneğin bir keyboard'u bilgisayara MIDI üzerinden bağlarız. 
+ MIME _ (Multipurpose Internet Mail Extensions) (Çok Amaçlı İnternet Posta Uzantıları) İnternet e-postasının grafik, ses, fax gibi metin olmayan bilgileri de gönderebilen genişletilmiş halidir. 
+ Mirror _ Bir internet kaynağının değişik bir adreste de aynen barındırılmasıdır. Çok kullanılan bir adrese alternatif olarak kurulan, asıl adreste sunulan tüm dosyaların kopyalarının bulunduğu ve sık sık yenilenen sitelere verilen addır. Mirror site yaratılmasının 
+ MMX _ (Multimedia Extensions) Intel firması tarafından geliştirilmiş eski bir teknolojidir. Eski Pentium işlemciler üzerinde bulunan ve o zamana göre gelişen uygulamaların daha hızlı çalışmasını sağlayan hızlandırıcı koddur. İşlemcinin multimedia uygulamalarınd 
+ Modem _ Modülatör - Demodülatör 'ün kısa yazılışıdır. Bilgisayardan gelen sinyalleri analog sinyal haline yani ses sinyaline dönüştürerek telefon hattı üzerinden nakledilebilmesini mümkün kılar veya bu yolla gelen sinyalleri bilgisayarın kullanabileceği hale dönü 
+ Mother Board _ (Anakart, Main Board) Bilgisayarın bazını oluşturan diğer birimlerin çalışmasını sağlayan en önemli elektronik devredir. Bilgisayarın iskeleti gibidir. Bütün aygıtları birbirine bağlar ve aralarında iletişim kurulmasını sağlar. 
+ MPEG _ (Moving Picture Experts Group) 
+ Multitasking _ Birden çok görevliliktir. Bilgisayarların bir işi yaparken başka bir görevi de aynı zaman içinde tamamlaması anlamında kullanılır. Bilgisayar multitasking ‘i olmayan DOS ‘ta disket formatlarken başka bir görev gerçekleştiremez. Windows ‘ta ise aynı anda b 
+ Netiket _ İnternet üzerinde kullanılması gereken genel ahlak kurallarıdır. 
+ Netiquette _ İnternet görgü kuralları. (bakınız ISOC) 
+ Network _ (Ağ) Bilgisayar ağı değişik yerlerdeki bilgisayar sistemlerini birbirine bağlayan bir veri iletişim sistemidir. Bir ağ WAN ve LAN'ların değişik birleşimlerinden oluşabilir. Yerel Alan Ağı (Local Area Network), Geniş Alan Ağı (Wide Area Network), ağlararas 
+ News Group _ İnternet üzerinde yapılan açık tartışma ya da haber gruplarına verilen addır. Belirli bir konuda o konu ile ilgili kişilerin bir ortamda toplanarak bilgilerini paylaşmasıdır. E-mail ‘den en önemli farkı, postalanan mesajların ilgili haber grubundaki tüm k 
+ News Server _ Haber gruplarına ev sahipliği yapan sunuculara verilen addır. 
+ NFS _ (Network File System) Bilgisayarlarda kullanılan programların network makinelerinde kullanılmasını sağlar. 
+ NiCad _ Ağır, ucuz ve basit yapıda yeniden şarj edilebilir bir tür pildir. 
+ Nick Name _ Sohbet alanlarında kullanılan takma addır. 
+ NiMH _ (Nickel Metal Hydrid) NiCad 'e göre daha karmaşık yapıda yeniden şarj edilebilir bir tür pildir. İki şarj arası zaman NiCad 'e göre daha fazladır. 
+ NNI _ (Network-to-Network Interface) (Ağ-Ağ Arabirimi) Frame Relay Servisi veren ağlar arasındaki bağlantıları tanımlar. Bu tanım Frame Relay Servisinin dünya çapında verilmesine olanak sağlar. Frame Relay yüksek hız ihtiyacından dolayı öncelikle LAN-WAN-LAN ba 
+ NNTP _ Network News Transfer Protocol ‘un kısaltmasıdır. Tartışma grupları protokolüne verilen addır. 
+ Notebook _ Taşınabilir bilgisayarlardır. Desktop bilgisayarlardaki bir çok özelliğe sahiptirler. Genellikle LCD ekranlıdırlar ve kabaca A4 büyüklüğündedirler. 
+ OCR _ (Optik Karekter Tanıma) Yazılı veya basılı karakterlerin makine tarafından ve foto-elektrik transuderlerden gelen girdilere dayanarak tanıması. 
+ OEM _ (Original Equipment Manufacturer) (Orijinal Donanım İmalatçısı) Yanlış oluşturulan ve yanlış kullanılan bir terimdir. OEM 'ler bilgisayarları parça halinde satın alarak, kendi isimleri ile isteğe göre satış yaparlar. Terimde geçtiği gibi imalatçı değiller 
+ Offline _ Aktif sisteme bağlı olmama durumudur. 
+ Off Topic _  Tartışma grubunun konusu dışında mesaj yazmak anlamına gelir. 
+ Online _ Aktif sisteme bağlı olma durumudur. 
+ Online Service _ Abonelerine özel elektronik posta, tartışma ve sohbet grupları, bilgi bankaları hizmetleri sunan ve genellikle internete bağlanma olanağı veren ticari bilgisayar ağlarının genel adıdır. 
+ Operating System _ (İşletim Sistemi) PC'nin değişik bölümlerindeki hareketleri kontrol eden, kullanıcı ile bilgisayar arasında köprü görevi gören yazılımlardır. Eskiden DOS işletim sistemi olarak kullanılırken günümüzde Windows 98, Windows 2000, Windows Me, Windows XP ve bu 
+ Overclock _ Bilgisayarın anakart üzerindeki ayarlarının değiştirilerek hızlandırılmasıdır. 
+ Overload _ Aşırı yüklenme. 
+ Parallel Port _ Bilgisayarın arkasında bilgisayarı yazıcıya bağlayan sokettir. Verileri 8 tane paralel kablo üzerinden yazıcıya gönderir. 
+ Partition _ Harddiskte yer alan, herbiri farklı harfe sahip sürücülere verilen addır. Bir harddisk birden çok sürücü gibi görünebilir. 
+ PC _ (Personal Computer) (Kişisel Bilgisayar) 
+ PC Cart _ Kart şeklindeki aygıtlardır. Bunlara ses kartını, modemi örnek verebiliriz. 
+ PCI _ Anakart üzerinde 64 bitlik veri akışının yapılabildiği kapılardır. Bir çeşit veri yoludur. ISA ya benzer ancak ondan daha gelişmiştir. 
+ PDA _ (Personal Digital Assistant) Küçük, elektronik ajandalara verilen isimdir. 
+ PEM _ Privacy Enhanced Mail ‘ın kısaltmasıdır. 
+ PENTIUM _ Intel firması tarafından geliştirilen yüksek performanslı bir tür işlemcidir. Eski 80486 'ların yerini almıştır ve tüm 80x86 'larla uyumludur. Şu anda Pentium IV 'ler gündemdedir. 
+ PGP _ Pretty Good Privacy ‘nin kısaltmasıdır. 
+ PIF _ (Program InFormation) Windows işletim sisteminin Windows ile uyumlu olmayan programları nasıl çalıştıracağı hakkında bilgi içeren pif uzantılı dosyalardır. 
+ Pixel _ Bir resmin en küçük parçasıdır. Resimler piksellerden meydana gelmektedir. Resimlerin çözünürlüğü, kalitesi yatay ve düşey olarak bulunan piksel sayılarıyla ölçülür. 
+ Plug In _ Bazı programlara daha sonra özellik eklenmesi için kullanılan küçük program yamalarıdır. 
+ PNG _ Gif formatından daha küçük, JPEG ‘den daha büyük yeni bir grafik formatıdır. 
+ POP _ (Point of Presence) Bir bilgisayar ağına erişim için bağlantı kurulacak en yakın nokta ya da telefon numarasıdır. 
+ POP _ (Post Office Protocol) (Posta Ofisi Protokolü) Tek kullanıcı sistemlerin bağlandıkları hizmet birimlerinden posta mesajı alışverişi yapabilmelerini sağlayan protokoldür. POP, POP2 ve POP3 diye üç uyarlaması vardır. Sonraki uyarlamalar önceliklerle uyumlu  
+ POP3 _ (Post Office Protokol version 3) Bir E-Mail hesabına gelen elektronik postaların toplandığı server. Bir E-Mail hesabına sahip kimse maillerini okumak için önce maillerini POP3 server'ından indirmek zorundadır. 
+ Port _ Diğer çevre birim elemanları ile haberleşmeyi sağlamak için kullanılan giriş-çıkış bağlantı noktası (kanalı)'dır. Seri veya paralel olurlar. 
+ Port Address _ TCP/IP tabanlı uygulamalar hattın diğer ucundaki bilgisayarla konuşmak için belirli bir port adresi kullanırlar. Port adresi, içinde verilerin nereden alınıp nereye verileceğini kesin olarak saptayan bir mekanizma barındırır. 
+ Postmaster _ Bir ağ üzerindeki e-posta problemleri ile ilgilenen personeldir. 
+ Power Supply _ Güç kaynağı anlamına gelir. Bilgisayarın kasasının arka kısmında bulunur. 
+ PPP _ (Point to Point Protocol) (Noktalar Arası Protokol) Seri bir hat üzerinden (örneğin bir telefon hattı) iki noktayı birbirine bağlama işlemini tanımlar. 
+ Preferences _ Özellikler anlamına gelir. 
+ Processor _ (CPU Central Processing Unit) (Merkezi İşlem Birimi) (İşlemci) Bilgisayarın kalbidir. Bilgisayarda işlemleri yapmaktadır. Bir sistemin kalite ölçütlerinden biri de işlemcinin hızıdır (Mhz cinsinden). Bir bilgisayarın işlemcisi ne kadar hızlıysa sistemde o 
+ Protocol _ Taraflarca kabul edilmiş haberleşme yöntemidir. 
+ Proxy Servisleri _ İnternet üzerindeki yerel bir ağ (ya da internet erişimi olan bir bilgisayar) ile dış dünya arasındaki ilişkiyi sağlayan bir yardımcı geçiş sistemidir. 
+ Push Teknolojisi _ İnternet üzerinde bilginin isteğe bağlı olarak kullanıcıya yönlendirme teknolojisi. 
+ Queue (Mail) _ İnternete bağlantı sağlandığında gönderilecek elektronik postaların listesi. 
+ Quick Time _ Apple Computer tarafından geliştirilen video ve animasyon sistemidir. Macintosh işletim sistemlerinde oluşturuldu ve video ve animasyon içeren birçok Mac uygulamalarında kullanıldı. 
+ RDS _ (Radio Data Service) (Elkitabını Oku) Bu kısaltma internette genelde birisi çok basit ya da genel bir soru sorduğu zaman kullanılır. 
+ RAM _ (Random Access Memory) Bilgisayarlarda yazılımların çalışmak için kullandıkları geçici hafızadır. Günümüzde MB boyutunda ölçülür. Bilgisayardan güç kesildiğinde RAM de boşalır. 
+ Rar _ Dosya sıkıştırmakta kullanılan bir formattır. 
+ Realtime _ Gerçek zaman, Bire bir anlamına gelir. 
+ Recovery _ Bilgisayar terminolojisinde bilgisayarların sorun yaşaması durumunda önemli bilgilerin kurtarılması anlamında kullanılır. Bilgisayarlar donanımsal veya virüsler gibi yazılımlar sonucunda çalışmaz duruma gelebilir. Önemli bilgilerin bilgisayarı geçici bir  
+ Registry _ Windows ‘ta kullanılan her türlü programın ve Windows ‘un çalışmasıyla ilgili tüm bilgilerin saklandığı dosyadır. 
+ Router _ Birden fazla ağ arasındaki bağlantıyı sağlayan, özel amaçlı bir bilgisayar veya yazılımdır. Router ‘lar, üzerlerinden geçmekte olan verilerin hedef adreslerine bakarak hangi yöne gönderileceklerine karar verir. 
+ Scandisk _ Sabit diskteki hataları bulmaya yarayan bir yazılımdır. Windows işletim sistemleri ile birlikte gelmektedir. 
+ Scanner _ (Tarayıcı) Herhangi bir materyal üzerinde bulunan (kağıt, karton vb.) resimlerin dijitalleştirilerek bilgisayar ortamına geçirilmesini sağlayan aygıttır. Daha sonra bu resimler üzerinde değişik oynamalar yapılabilir. Günümüzde bilgisayar teknolojisi fotoğ 
+ Screen Saver _ Ekran koruyucu yazılımdır. Eğer Windows işletim sistemi kurulu bir bilgisayarda belli bir süre bilgisayara bir veri aktarımı yapılmazsa bu tür programlar devreye girer ve ekrana daha önceden belirtilen aksiyonları gönderirler. Ancak bu programın çalışması 
+ Script _ Basit ve kısa yazılımdır. Yaptığınız işleri otomatik hale dönüştüren, kullanıcıların da yazabilecekleri yazılımlardır. 
+ Scroll / Scroll Bar _ Eğer bir metin bir pencereye sığmazsa metnin tümünü görmek için pencerenin yanında bulunan oklara basılır. Böylece bir pencereye sığmayan metinlerde tamamen izlenebilirler. 
+ SCSI _ (Small Computer System Interface) Çevresel aygıtları (Örneğin sabit disk veya scanner) bilgisayara bağlamak için kullanılan yüksek hızlı paralel arayüz standardıdır. Macintosh bilgisayarların da kullandığı bu standartta, saniyede 30 mb ‘ye kadar bilgi tra 
+ Search Engine _ İnternet üzerinde aranan bir bilgiyi bulmaya olanak veren indeks yazılımlarıdır. Bu yazılımlar, çeşitli konularda elde edilen bilgileri veri tabanlarında saklar ve araştırma yapılacak konuyla ilgili ölçütleri esas alarak, bu bilgileri kullanıcıya sunarlar 
+ Self Extractor _ Sıkıştırılmış bir dosyanın, açıcı programa ihtiyaç duymadan açılmasını sağlayan modüldür. Genişletme modülü sıkışmış dosyanın en başına yerleşir ve çalıştırıldığında dosyayı genişletir. 
+ Serial Port _ Bilgisayarın arkasında bulunan, modem veya palmtopları bilgisayara bağlamak için kullanılan bir çeşit porttur. 
+ Server _ (Sunucu) Bilgisayarların birbirine bağlanması için oluşturulmuş bir programın çalıştığı bir ya da birkaç bilgisayardır. 
+ SGML _ Standard Generalized Markup Language ‘in kısaltmasıdır. 
+ Shareware _ Belli bir süre ücretsiz denenebilen, bu sürenin bitiminde kullanmaya devam edilmesi halinde, ücrete tabi olan yazılımlara verilen addır. BBS ‘ler veya internet üzerinden dağıtılan ve genelde bir programın tanıtılması ve yaygınlaştırılması için kullanılan, 
+ Shell _ (Kabuk) Bir kullanıcının işletim sistemi aracılığıyla diğer programları yönlendirdiği arabirimdir. 
+ Shortcut _ Bir programı hızlı bir şekilde, o programın nerde olduğunu aramadan çalıştırmaya yarayan kısa yollardır. 
+ Signature _ İmza anlamına gelir. Elektronik postaların sonunda bulunan ve yazar hakkında bilgi veren satırların adıdır. İmzalarda, elektronik posta adresi dışında, telefon numarası vb. adresler yazılmaz. Bununla birlikte, klavye işaretleriyle çizilmiş resimlere rastl 
+ Silicon _ Çip yapımında en yaygın kullanılan yarı iletken maddedir. 
+ Silicon Valley _ (Silikon Vadisi) San Francisco 'nun güney bölgesinde yoğun bir şekilde bilgisayar şirketlerinin bulunması sebebiyle o bölgeye verilen takma addır. 
+ SIMD _ (Single Instruction Multiple Data) Yeni nesil uygulamalarda çokça rastlanan döngüleri yüzde 90 hızıyla hızlandıran, hızlandırıcı koddur. 
+ SIMM _ (Single Inline Memory Modules) DIMM RAM ‘lerden farklı voltajda çalışan 168 pinlik RAM modelidir. 
+ SIMM Slots _ (Single Inline Memory Module Slots) Bilgisayara ekstra hafıza (RAM) takılarak hafızanın büyütülmesini sağlar. 
+ Simulations _ Gerçek hayatı taklit eden oyunlardır. En popüler oyunları uçak simülasyonlarıdır. 
+ Site _ İnternette yer alan sayfalar grubudur. İngilizce ‘de “sayt” diye, Türkçe ‘de ise “site” diye okunur. 
+ SLIP _ (Serial Line Internet Protocol) Dial up internet bağlantısı sağlamaya yarayan internet modem protokolüdür. 
+ Smartdrv _ Sabit diskinizin hızını artırmak için kullanılır. 
+ Smiley _ İnternette sözcükleri duygularla dile getirmek yerine, klavyeyi kullanarak yapılan şekillerle iletme yoluna verilen addır. 
+ SMTP _ (Simple Mail Transfer Protocol) Elektronik postaları dağıtmak için kullanılan standart protokoldür. 
+ Snail Mail _ Salyangoz posta anlamına gelir. Alıcıya ulaşma hızının elektronik postaya göre daha düşük olması nedeniyle, normal posta servisine verilen addır. 
+ Sniff _ Bir çoğunuzun bildiği gibi iki bilgisayarı birbirine bağlamada kullanılan en popüler yol ethernet 'tir. İki bilgisayar arasındaki bilgi alışverişini yakalamaya ise Sniff denir. 
+ Software _ Her türlü yazılıma verilen addır. 
+ Software Application _ Donanıma nasıl çalışması veya ne yapması gerektiğini söyleyen program veya program gruplarıdır. İşletim sistemleri, kelime işlemciler, oyunlar... 
+ Spam _ Süprüntü, kalitesiz (yabancılar buna junk diyor) maillere spam mail denir. Örneğin posta kutunuza gelen sizin için gereksiz bir ürünün tanıtımı spam maildir. 
+ Spamming _ Bir mesajın birçok tartışma grubuna dağıtılması anlamına gelir. Hiç hoş karşılanmayan bir davranıştır. 
+ Spider _ (Örümcek) Web tarama servislerinin veritabanlarını büyütmek için bıkmadan, usanmadan yeni web sayfaları ve onlara ait bağlantıları bulan programlara "örümcek" ismi verilir. 
+ SPOOF _ Çeşitli yöntemlerle ve çeşitli nedenlerle kullanıcı IP 'sinin saklanmasıdır. Spoof yaparak kullanılan IP sahtedir. 
+ Strategy Game _ Strateji oyunları bir çok amaçla beraber birden fazla karakter ve element içerirler. Örneğin askerler, tanklar ve uçaklarla kazandığınız bir savaş oyunu strateji oyunudur. 
+ Subscribe _ İnternet üzerinde belirli sitelere ya da listelere kayıt olma işlemine verilen addır. 
+ Surfing _ World Wide Web 'te internet sayfalarını dolaşan kişilerin yaptığı eylem için kullanılan bir deyimdir. 
+ Surround Stereo _ Sesin üç boyutlu olarak derinlik kazandırılmasına verilen addır. Müzik setlerinden sonra ses kartlarında ses kartlarında da bulunmaktadır. 
+ Swap File _ Bilgisayarın virtual (sanal) bellek veya RAM için kullandığı harddiskin bir bölümüdür. 
+ Tab _ Birden fazla farklı ayarın bir eleman için bir arada toplanması ile oluşan ayarlar grubudur. Türkçe 'ye etiket olarak çevirebiliriz. Her etiket kendi içinde bir ayarı oluşturmaktadır. Bu etiketler birleşir ve o elementin tüm ayarlarını içerirler. 
+ Tag _ Etiket anlamında kullanılır. HTML'de dokümana biçim vermek için kullanılan etiketlerdir. Kaynak içinde kolayca fark edilirler çünkü her zaman "<" ve ">" işaretleri arasına yazılırlar. 
+ TAR _ Tape Archive ‘in kısaltmasıdır. 
+ Task Bar _ (Görev Çubuğu) Windows işletim sisteminde alt tarafta bulunur. Start (Başlat) butonuyla beraber o anda çalışan programların listesini gösterir. Görev çubuğu aracılığıyla programlar arasında dolaşabilirsiniz. 
+ TCP/IP _ (Transmission Control Protocol/Internet Protocol) İnternete bağlı bir bilgisayardan diğerine veri transferi yapmak için kullanılan protokoldür. Değişik tipteki bilgisayarların haberleşmesine imkan tanıyan bilgisayar ağı protokolüdür. Standart internet pro 
+ Telnet _ İnternet ağı üzerindeki bir makineye uzaktan bağlanmak için geliştirilen bir TCP/IP protokolü ve bu işi yapan programlardır. Bir host bilgisayara bağlanma imkanı sağlayan terminal emülasyon protokolüdür. 
+ Terabyte _ Tera. Bir Terabyte = Bin Gigabyte. Birkaç sene sonraki yeni hardisk standardı diyebiliriz. (1.1012 byte). 
+ TIFF _ (Tagged Image File Format) Grafik resim dosyalarını saklamak için kullanılan bir dosya formatıdır. 
+ TIGA _ (Texas Instruments Graphics Architecture) Yüksek çözünürlüklü grafik türü. (1,024 x 768, 256 renk) 
+ Toner _ Temel olarak lazer yazıcılar içinde bulunan fotokopi makinesinin içindekine benzer bir tür mürekkeptir. Ancak bu mürekkep toz halinedir. 
+ Toolbar _ Genellikle yazılımların üst kısımlarında bulunan, çubuk biçimindeki menülerdir. 
+ Touch Pad _ Palmtop bilgisayarlar üzerinde bulunan ve bu bilgisayarlarda fare görevini yapan dokunmaya hassas aygıtlardır. 
+ Track _ (Sektör) Hareketli depolama aygıtlarından olan drive, disket veya teyp kartuşunda sürücü kafasının ulaşabildiği özel bir bölüm. 
+ Trojan _ Bilgisayarınızda arka planda çalışan ve zamanı geldiğinde aktif hale gelerek sisteminize zarar veren yazılımdır. 
+ TWAIN _ (Technology Without An Important Name) Scanner ve diğer bazı aygıtların bilgisayarla iletişimini sağlayan bir standarttır. 
+ UDP _ (User Datagram Protocol) İnternet protokollerinden biridir. 
+ Undo _ Yapılan bir hatayı önlemek için yapılan son hareketi geri alan program özelliğidir. Bir çok programda bu özellik bulunmaktadır. 
+ Uninstall _ Install edilen herhangi bir yazılımın sistemden silinmesidir. 
+ Upgrade _ Bilgisayarların zaman içerisinde güncelliğini yitiren parça veya programlarının, yeni ve güncel sürümleriyle değiştirilme işlemidir. Bilgisayarın herhangi bir parçasını veya tümünü yenisiyle değiştirmeye veya eklemeler yapmaya verilen addır. Örneğin bilgi 
+ URC _ Uniform Resource Characteristics ‘in kısaltmasıdır. 
+ URI _ Uniform Resource Identifier ‘ın kısaltmasıdır. 
+ URL _ (Universal Resource Locator) Web site adreslerini belirtmek için kullanılan addır. Web browserlar içinden bir web servisine ya da bazı internet servislerine yönlendirme yapabilen bir komut formatıdır. İnternet üzerindeki kaynaklara bağlanmayı sağlayan adr 
+ URN _ Uniform Resource Names ‘in kısaltmasıdır. 
+ USB _ (Universal Serial Bus) Çevresel cihazları (örneğin scanner, printer) bilgisayara bağlamak için kullanılan yeni bir standarttır. 
+ Usenet _ İnternet üzerinde kullanıcıların belirli konularda düşüncelerini yazabildikleri tartışma gruplarına verilen addır. 
+ Username _ Kullanıcıların bir internet hesabına giriş yaparken kendilerini tanıtmaları için kullandıkları kullanıcı adıdır. 
+ Utility _ Bilgisayarlarda işletim sistemi tarafından yapılamayan bir takım işlerin, kullanıcı tarafından yapılmasını sağlayan, kullanımı kolay programlardır. 
+ Uudecode _ Uuencode dönüştürme yönteminin tersidir. 
+ Uuencode _ Bilgisayar dosyalarını, elektronik posta ya da Usenet 'le göndermek için ASCII karakterlerine dönüştürme yöntemi. 
+ VAR _ (Value Added Reseller) OEM ile eş anlamlıdır. 
+ Virtual Memory _ Bulunandan fazla sistem belleğine ihtiyaç duyulduğunda RAM gibi davranan harddisk üzerinde bulunan alanlardır. 
+ Virüs _ Zarar vermek amacıyla kendini programlara kopyalayan, bu programlarla ilişki kuran, sistemdeki diğer programlara da yamanarak yayılan ve sistemi çökertebilen küçük programcıklardır. 
+ Visit _ Ziyaret anlamına gelir. 
+ VRML _ (Virtual Reality Modelling Language) (Sanal Gerçeklik Modelleme Dili) İnternet üzerinde üçboyutlu ortam yaratmaya imkan veren yazılım dili. 
+ WAIS _ (Wide Area Information Servers) (Geniş Alan Bilgi Sistemi) İnternet üzerinde basit ve doğal bir dilde sorgulama girişlerini tanıyan, bilgilere hızlı erişim için indeksler kullanan, önceki aramaların sonuçlarının sonraki aramaları etkilememesini sağlayan b 
+ WAN _ (Wide Area Network) Şehirler, ülkeler ya da kıtalar arasında oluşmuş bilgisayar ağlarının genel adıdır. MSN, Superonline, IBM Global Network gibi. 
+ WAV _ (Wave File) Windows'un ses yüklemek, kaydetmek için kullandığı ses formatıdır. 
+ WEB _ İnternetin web browser kullanılarak web sayfalarının gezildiği bölümüdür. 
+ Web Browser _ İnternet üzerinde dolaşmaya ve bilgi transferi yapmaya imkan veren kullanıcı yazılımlarının genel adıdır. 
+ Webmaster _ Bir web sitesinin editörlüğünü üstlenen kişiye webmaster adı verilir. Webmaster 'ın görevi, web sitesinin tasarımını yapmak ve çarpıcılığını korumaktır. Günümüzde bu işi tek bir kişinin yapması çok zordur. Bunun için genelde bir web sitesini birden çok ki 
+ Web Sayfası _ (Web Site) Bir web servisinin tek seferde ekrana getirdiği bir html sayfasıdır. Bu sayfalarda, hem grafik/resim bilgileri, hem normal text, hem ses, hem de başka web sayfalarına linkler olabilir. (http://www.geocities.com/ramazanmercan/ gibi...) 
+ Whisper _ Sohbet sırasında bir kişiye özel mesaj gönderilmesidir. 
+ Wizard _ Türkçe karşılığı sihirbazdır ve bir görevin tamamlanması için kullanılan bir çeşit adım adım yardım programıdır. 
+ Word Processor _ Yazı dokümanları yaratmak ve düzenlemek için kullanılan programlardır. 
+ WORM _ (Write Once, Read Many) 600 mb 'tan 3 gb 'a kadar kayıt edilebilen optik disk teknolojisidir. Diskin okunabilmesi için kayıt eden cihaz türünde bir cihaza ihtiyaç duyulduğundan dolayı pek yaygınca kullanılamayan bir teknolojidir. 
+ WWW _ (World Wide Web) (Dünya Çapında Ağ) 
+ Yahoo _ (Yet Another Hierarchical Officious Oracle) David Filo ve Jerry Yang tarafından 1994 yılında Stanford Üniversitesi 'nde başlanılan arama motoru. 
+ Zip _ Dosya sıkıştırma formatıdır. İnternette yapılan dosya transferinin büyük bir bölümü zip formatındadır. Dosyalar Winzip gibi arşivleme programı kullanılarak ya da Windows XP içinde standart özellik olan yöntemle sıkıştırılmış dosyaya, zip formatına dönüştü 
+ Zip Drive _ Omega firması tarafından dizayn edilen yüksek kapasiteli disk sürücülerdir. Cep boyutunda 100 MB ve 250 MB kapasiteli disk sürücülerdir. 

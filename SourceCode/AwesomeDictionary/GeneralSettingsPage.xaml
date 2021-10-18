@@ -1,0 +1,90 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="AwesomeDictionary.GeneralSettingsPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:controls="clr-namespace:Microsoft.Live.Controls;assembly=Microsoft.Live.Controls"
+    mc:Ignorable="d"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait"  Orientation="Portrait"
+    shell:SystemTray.IsVisible="True" Loaded="PhoneApplicationPage_Loaded" BackKeyPress="PhoneApplicationPage_BackKeyPress">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <!--Pivot Control-->
+        <phone:Pivot Name="pvGeneralSettings" Title="General Settings" FontSize="35">
+            <!--Pivot item one-->
+            <phone:PivotItem Name="piLanguage" Header="Language" FontSize="35">
+                <StackPanel Name="spLanguage">
+                    <TextBox Name="lblLanguage" TextWrapping="Wrap" FontSize="20" Text="Language" IsReadOnly="True"></TextBox>
+                    <Button Name="btnLanguage" Content="Select" Click="btnLanguage_Click"></Button>
+                </StackPanel>
+            </phone:PivotItem>
+
+            <!--Pivot item two-->
+            <phone:PivotItem Name="piDictionaryInstall" Header="Dictionaries" FontSize="35">
+                <ScrollViewer Name="svDictionary">
+                    <StackPanel Name="spDictionaryInstall">
+                        <CheckBox Name="cbOxford" >
+                            <TextBlock Name="txtOxford" TextWrapping="Wrap"></TextBlock>
+                        </CheckBox>
+                        <CheckBox Name="cbEnglishVol1" >
+                            <TextBlock Name="txtEnglishVol1" TextWrapping="Wrap"></TextBlock>
+                        </CheckBox>
+                        <CheckBox Name="cbEnglishVol2" >
+                            <TextBlock Name="txtEnglishVol2" TextWrapping="Wrap"></TextBlock>
+                        </CheckBox>
+                        <CheckBox Name="cbGerman" >
+                            <TextBlock Name="txtGerman" TextWrapping="Wrap"></TextBlock>
+                        </CheckBox>
+                        <CheckBox Name="cbBuyukLugat" >
+                            <TextBlock Name="txtBuyukLugat" TextWrapping="Wrap"></TextBlock>
+                        </CheckBox>
+                        <CheckBox Name="cbRisaleNur" >
+                            <TextBlock Name="txtRisaleNur" TextWrapping="Wrap"></TextBlock>
+                        </CheckBox>
+                        <CheckBox Name="cbWordMeaning" >
+                            <TextBlock Name="txtWordMeaning" TextWrapping="Wrap"></TextBlock>
+                        </CheckBox>
+                        <CheckBox Name="cbComputer" >
+                            <TextBlock Name="txtComputer" TextWrapping="Wrap"></TextBlock>
+                        </CheckBox>
+                        <ProgressBar Name="pbInstall" Height="30" Minimum="0"></ProgressBar>
+                        <TextBox Name="txtInstalling" IsReadOnly="True" BorderBrush="Transparent" TextWrapping="Wrap" Height="72" FontSize="25" Text="Syncronizing..."></TextBox>
+                        <Button x:Name="btnInstall" Content="Install" Click="btnInstall_Click"/>
+                        <Button x:Name="btnUninstall" Content="Uninstall" Click="btnUninstall_Click"/>
+
+                    </StackPanel>
+                </ScrollViewer>
+            </phone:PivotItem>
+
+            <!--Pivot item three-->
+            <phone:PivotItem Name="piBackground" Header="Background">
+                <StackPanel Name="spBackgroundColor">
+                    <TextBox Name="lblBackgroundColor" FontSize="20" Text="Background Color" IsReadOnly="True" FontFamily="Segoe WP" TextWrapping="Wrap"></TextBox>
+                    <Button Name="btnBackgroundColor" Content="Select" Click="btnBackgroundColor_Click"></Button>
+                    <TextBox Name="lblBackgroundImage" FontSize="20" Text="Background Image" IsReadOnly="True" FontFamily="Segoe WP" TextWrapping="Wrap"></TextBox>
+                    <Button Name="btnBackgroundImage" Content="Select" Click="btnBackgroundImage_Click"></Button>
+                    <Button Name="btnRemoveBackgroundImage" Content="Select" Click="btnRemoveBackgroundImage_Click"></Button>
+                    <TextBox Name="txtSpace" IsEnabled="False"></TextBox>
+                    <Button Name="btnResetSettings" Content="Select" Click="btnResetSettings_Click"></Button>
+                </StackPanel>
+            </phone:PivotItem>
+
+            <phone:PivotItem Name="piFont" Header="Font" FontSize="35">
+                <StackPanel Name="spFont">
+                    <TextBox Name="lblFontFamily" TextWrapping="Wrap" Text="Font Family" FontSize="20"  IsReadOnly="True"></TextBox>
+                    <Button Name="btnFontFamily" Content="Select" Click="btnFontFamily_Click"></Button>
+                    <TextBox Name="lblFontSize" TextWrapping="Wrap" Text="Font Size" FontSize="20" IsReadOnly="True"></TextBox>
+                    <Button Name="btnFontSize" Content="Select" Click="btnFontSize_Click"></Button>
+                </StackPanel>
+            </phone:PivotItem>
+        </phone:Pivot>
+    </Grid>
+
+</phone:PhoneApplicationPage>

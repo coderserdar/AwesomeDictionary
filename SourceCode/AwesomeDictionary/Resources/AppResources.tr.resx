@@ -1,0 +1,392 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ResourceFlowDirection" xml:space="preserve">
+    <value>LeftToRight</value>
+    <comment>Controls the FlowDirection for all elements in the RootFrame. Set to the traditional direction of this resource file's language</comment>
+  </data>
+  <data name="ResourceLanguage" xml:space="preserve">
+    <value>tr</value>
+    <comment>Controls the Language and ensures that the font for all elements in the RootFrame aligns with the app's language. Set to the language code of this resource file's language.</comment>
+  </data>
+  <data name="About" xml:space="preserve">
+    <value>Hakkında</value>
+  </data>
+  <data name="AboutAwesomeDictionary" xml:space="preserve">
+    <value>Awesome Dictionary Hakkında</value>
+  </data>
+  <data name="AboutTheApp" xml:space="preserve">
+    <value>Uygulama Hakkında</value>
+  </data>
+  <data name="AboutTheAppText" xml:space="preserve">
+    <value>Merhaba. Yeni bir uygulama ile karşınızdyım. Windows Phone için yazılmış olan pek çok sözlük uygulamasını inceledim ve sizler için basit ancak dolu içerikli bir uygulama geliştirmeye çalıştım. Uygulamayı kullanıp, değerlendirip, istek ve önerilerinizi coderserdar@outlook.com adresine gönderirseniz çok sevinirim. İyi günler ve iyi kullanmalar. CoderSerdar</value>
+  </data>
+  <data name="Black" xml:space="preserve">
+    <value>Siyah</value>
+  </data>
+  <data name="Blue" xml:space="preserve">
+    <value>Mavi</value>
+  </data>
+  <data name="Brown" xml:space="preserve">
+    <value>Kahverengi</value>
+  </data>
+  <data name="ContactWithUs" xml:space="preserve">
+    <value>İletişime Geç</value>
+  </data>
+  <data name="English" xml:space="preserve">
+    <value>İngilizce</value>
+  </data>
+  <data name="ExitApp" xml:space="preserve">
+    <value>Uygulamadan Çık</value>
+  </data>
+  <data name="ExitAppQuestion" xml:space="preserve">
+    <value>Uygulamadan Çıkmak İstediğinize Emin Misiniz?</value>
+  </data>
+  <data name="German" xml:space="preserve">
+    <value>Almanca</value>
+  </data>
+  <data name="Gray" xml:space="preserve">
+    <value>Gri</value>
+  </data>
+  <data name="Green" xml:space="preserve">
+    <value>Yeşil</value>
+  </data>
+  <data name="Orange" xml:space="preserve">
+    <value>Turuncu</value>
+  </data>
+  <data name="Purple" xml:space="preserve">
+    <value>Mor</value>
+  </data>
+  <data name="Rate" xml:space="preserve">
+    <value>Değerlendir</value>
+  </data>
+  <data name="Red" xml:space="preserve">
+    <value>Kırmızı</value>
+  </data>
+  <data name="Search" xml:space="preserve">
+    <value>Arama</value>
+  </data>
+  <data name="SendWithAwesomeDictionaryApp" xml:space="preserve">
+    <value>Awesome Dictionary Uygulaması İle Gönderldi</value>
+  </data>
+  <data name="Settings" xml:space="preserve">
+    <value>Ayarlar</value>
+  </data>
+  <data name="Statistics" xml:space="preserve">
+    <value>İstatistikler</value>
+  </data>
+  <data name="Turkish" xml:space="preserve">
+    <value>Türkçe</value>
+  </data>
+  <data name="Yellow" xml:space="preserve">
+    <value>Sarı</value>
+  </data>
+  <data name="Background" xml:space="preserve">
+    <value>Arka Plan</value>
+  </data>
+  <data name="BackgroundColor" xml:space="preserve">
+    <value>Arka Plan Rengi</value>
+  </data>
+  <data name="BackgroundColorChangedSuccessfully" xml:space="preserve">
+    <value>Arka Plan Rengi Başarıyla Değiştirildi</value>
+  </data>
+  <data name="BackgroundImage" xml:space="preserve">
+    <value>Arka Plan Resmi</value>
+  </data>
+  <data name="BackgroundImageChangedSuccessfully" xml:space="preserve">
+    <value>Arka Plan Resmi Başarıyla Değiştirildi</value>
+  </data>
+  <data name="BackgroundImageRemovedSuccessfully" xml:space="preserve">
+    <value>Arka Plan Resmi Başarıyla Kaldırıldı</value>
+  </data>
+  <data name="BackgroundSettingsResetSuccessfully" xml:space="preserve">
+    <value>Arka Plan Ayarları Başarıyla Sıfırlandı</value>
+  </data>
+  <data name="DictionaryInstall" xml:space="preserve">
+    <value>Sözlük Yükle</value>
+  </data>
+  <data name="FavouriteNameCount" xml:space="preserve">
+    <value>Favori Kelime Sayısı</value>
+  </data>
+  <data name="Font" xml:space="preserve">
+    <value>Yazı Tipi</value>
+  </data>
+  <data name="FontFamily" xml:space="preserve">
+    <value>Yazı Tipi Ailesi</value>
+  </data>
+  <data name="FontFamilyChangedSuccessfully" xml:space="preserve">
+    <value>Yazı Tipi Ailesi Başarıyla Değiştirildi</value>
+  </data>
+  <data name="FontSize" xml:space="preserve">
+    <value>Yazı Tipi Boyutu</value>
+  </data>
+  <data name="FontSizeChangedSuccessfully" xml:space="preserve">
+    <value>Yazı Tipi Boyutu Başarıyla Değiştirildi</value>
+  </data>
+  <data name="GeneralSettings" xml:space="preserve">
+    <value>Genel Ayarlar</value>
+  </data>
+  <data name="Install" xml:space="preserve">
+    <value>Yükle</value>
+  </data>
+  <data name="Language" xml:space="preserve">
+    <value>Dil</value>
+  </data>
+  <data name="LanguageWarning" xml:space="preserve">
+    <value>Dil Ayarlarının Etkili Olması İçin Uygulamayı Baştan Başlatmanız Gerekebilir</value>
+  </data>
+  <data name="RemoveBackgroundImage" xml:space="preserve">
+    <value>Arka Plan Resmini Kaldır</value>
+  </data>
+  <data name="ResetSettings" xml:space="preserve">
+    <value>Ayarları Sıfırla</value>
+  </data>
+  <data name="Select" xml:space="preserve">
+    <value>Seçiniz</value>
+  </data>
+  <data name="SelectBackgroundColor" xml:space="preserve">
+    <value>Arka Plan Rengi Seçiniz</value>
+  </data>
+  <data name="Selected" xml:space="preserve">
+    <value>Seçilen</value>
+  </data>
+  <data name="SelectFontFamily" xml:space="preserve">
+    <value>Yazı Tipi Ailesi Seçiniz</value>
+  </data>
+  <data name="SelectFontSize" xml:space="preserve">
+    <value>Yazı Tipi Boyutu Seçiniz</value>
+  </data>
+  <data name="SelectLanguage" xml:space="preserve">
+    <value>Dil Seçiniz</value>
+  </data>
+  <data name="Synchronizing" xml:space="preserve">
+    <value>Eşzamanlanıyor</value>
+  </data>
+  <data name="TotalNameCount" xml:space="preserve">
+    <value>Toplam Kelime Sayısı</value>
+  </data>
+  <data name="AddToFavourites" xml:space="preserve">
+    <value>Favorilere Ekle</value>
+  </data>
+  <data name="Cancel" xml:space="preserve">
+    <value>İptal</value>
+  </data>
+  <data name="Meaning" xml:space="preserve">
+    <value>Anlam</value>
+  </data>
+  <data name="Ok" xml:space="preserve">
+    <value>Tamam</value>
+  </data>
+  <data name="RemoveFromFavourite" xml:space="preserve">
+    <value>Favorilerden Çıkar</value>
+  </data>
+  <data name="RemoveFromFavouriteQuestion" xml:space="preserve">
+    <value>Kelimeyi Favorierden Çıkarıyorsunuz. Emin Misiniz?</value>
+  </data>
+  <data name="RemoveFromFavourites" xml:space="preserve">
+    <value>Favorilerden Çıkar</value>
+  </data>
+  <data name="SendWithEmail" xml:space="preserve">
+    <value>E-Posta İle Gönder</value>
+  </data>
+  <data name="SendWithSMS" xml:space="preserve">
+    <value>SMS İle Gönder</value>
+  </data>
+  <data name="Share" xml:space="preserve">
+    <value>Paylaş</value>
+  </data>
+  <data name="Word" xml:space="preserve">
+    <value>Kelime</value>
+  </data>
+  <data name="WordAddedFavouriteSuccessfully" xml:space="preserve">
+    <value>Kelime, Favorilere Başarıyla Eklendi</value>
+  </data>
+  <data name="WordAlreadyFavourite" xml:space="preserve">
+    <value>Kelime Zaten Favorilerde</value>
+  </data>
+  <data name="WordAndMeaning" xml:space="preserve">
+    <value>Kelime ve Anlamı</value>
+  </data>
+  <data name="WordRemovedFavouriteSuccessfully" xml:space="preserve">
+    <value>Kelime, Favorilerden Başarıyla Çıkarıldı</value>
+  </data>
+  <data name="MyFavourites" xml:space="preserve">
+    <value>Favorilerim</value>
+  </data>
+  <data name="RandomWords" xml:space="preserve">
+    <value>Rastgele 10 Kelime</value>
+  </data>
+  <data name="Installing" xml:space="preserve">
+    <value>Yükleniyor</value>
+  </data>
+  <data name="AtLeastOneDictionary" xml:space="preserve">
+    <value>En Az Bir Sözlük Seçmelisiniz</value>
+  </data>
+  <data name="BuyukLugat" xml:space="preserve">
+    <value>Büyük Lugat (Türkçe-&gt;Türkçe)</value>
+  </data>
+  <data name="ComputerDictionary" xml:space="preserve">
+    <value>Bilişim Sözlüğü (İngilizce-&gt;Türkçe)</value>
+  </data>
+  <data name="DictionariesInstalledSuccessfully" xml:space="preserve">
+    <value>Sözlükler Başarıyla Yüklendi</value>
+  </data>
+  <data name="EnglishTurkishVol1" xml:space="preserve">
+    <value>İngilizce-&gt;Türkçe Sözlük Vol. 1</value>
+  </data>
+  <data name="EnglishTurkishVol2" xml:space="preserve">
+    <value>İngilizce-&gt;Türkçe Sözlük Vol. 2</value>
+  </data>
+  <data name="GermanTurkish" xml:space="preserve">
+    <value>Almanca-&gt;Türkçe Sözlük</value>
+  </data>
+  <data name="OxfordDictionary" xml:space="preserve">
+    <value>Oxford Sözlük (İngilizce-&gt;İngilizce)</value>
+  </data>
+  <data name="RisaleNur" xml:space="preserve">
+    <value>Risale Nur Sözlüğü (Türkçe-&gt;Türkçe)</value>
+  </data>
+  <data name="WordMeaning" xml:space="preserve">
+    <value>Kelime Anlamları Sözlüğü</value>
+  </data>
+  <data name="SearchCompleted" xml:space="preserve">
+    <value>Arama Tamamlandı</value>
+  </data>
+  <data name="SearchInMeanings" xml:space="preserve">
+    <value>Kelime Anlamlarından Ara</value>
+  </data>
+  <data name="SearchResults" xml:space="preserve">
+    <value>Arama Sonuçları</value>
+  </data>
+  <data name="SearchTrimFault" xml:space="preserve">
+    <value>Arama Alanı Boş Bırakılamaz</value>
+  </data>
+  <data name="SystemFault" xml:space="preserve">
+    <value>Sistemde Bir Hata Oluştu. Daha Sonra Tekrar Deneyin</value>
+  </data>
+  <data name="DictionariesUninstalledSuccessfully" xml:space="preserve">
+    <value>Sözlükler Başarıyla Kaldırıldı</value>
+  </data>
+  <data name="Source" xml:space="preserve">
+    <value>Kaynak</value>
+  </data>
+  <data name="Uninstall" xml:space="preserve">
+    <value>Kaldır</value>
+  </data>
+</root>

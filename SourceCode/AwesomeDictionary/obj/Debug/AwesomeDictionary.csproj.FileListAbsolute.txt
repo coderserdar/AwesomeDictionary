@@ -1,0 +1,92 @@
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\Bin\Debug\Assets\ApplicationIcon.png
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\Bin\Debug\AppManifest.xaml
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\Bin\Debug\Properties\WMAppManifest.xml
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\obj\Debug\App.g.cs
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\obj\Debug\AwesomeDictionary.Resources.AppResources.resources
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\obj\Debug\AwesomeDictionary.csproj.GenerateResource.Cache
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\obj\Debug\XapCacheFile.xml
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\obj\Debug\Awesome Dictionary.g.resources
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\Bin\Debug\Awesome Dictionary.dll
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\Bin\Debug\Awesome Dictionary.pdb
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\Bin\Debug\AwesomeDictionary.xap
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\Bin\Debug\JeffWilcox.PhoneThemeManager.dll
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\Bin\Debug\JeffWilcox.PhoneThemeManager.pdb
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\Bin\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\Bin\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\Bin\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\Bin\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\Bin\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\Bin\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\Bin\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\Bin\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\Bin\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\Bin\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\Bin\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\Bin\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\Bin\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\Bin\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\Bin\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\Bin\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\Bin\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\Bin\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\Bin\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\Bin\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\Bin\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\Bin\Debug\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\Bin\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\Bin\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\Bin\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\Bin\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\Bin\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\obj\Debug\Awesome Dictionary.dll
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\obj\Debug\Awesome Dictionary.pdb
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\obj\Debug\MainPage.g.cs
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\obj\Debug\AboutPage.g.cs
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\Bin\Debug\Microsoft.Phone.Controls.dll
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\obj\Debug\GeneralSettingsPage.g.cs
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\obj\Debug\LanguageSettingsPage.g.cs
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\obj\Debug\BackgroundColorSettingsPage.g.cs
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\obj\Debug\FontSizeSettingsPage.g.cs
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\obj\Debug\FontFamilySettingsPage.g.cs
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\obj\Debug\StatisticsPage.g.cs
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\obj\Debug\NameDetailPage.g.cs
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\obj\Debug\SearchPage.g.cs
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\Bin\Debug\de\Awesome Dictionary.resources.dll
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\Bin\Debug\tr\Awesome Dictionary.resources.dll
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\obj\Debug\AwesomeDictionary.Resources.AppResources.de.resources
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\obj\Debug\AwesomeDictionary.Resources.AppResources.tr.resources
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\obj\Debug\de\Awesome Dictionary.resources.dll
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\obj\Debug\tr\Awesome Dictionary.resources.dll
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\obj\Debug\AwesomeDictionary.csprojResolveAssemblyReference.cache
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\Bin\Debug\en\Awesome Dictionary.resources.dll
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\obj\Debug\AwesomeDictionary.Resources.AppResources.en.resources
+D:\KodServer\VisualStudioProjeleri\AwesomeDictionary\AwesomeDictionary\obj\Debug\en\Awesome Dictionary.resources.dll
