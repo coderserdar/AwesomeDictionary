@@ -9,6 +9,7 @@ In this app you can;
  - You can see random 10 words to increase your vocabulary skills
  - Add a word to your *favourites*
  - Search a word in multi dictionaries
+ - Send a word and meaning by E-Mail or SMS
  - Gather statistical info about names
  - And the other functionalities like
 	 - *Change application's background color*
