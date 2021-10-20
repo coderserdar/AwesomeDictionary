@@ -10,6 +10,7 @@ In this app you can;
  - Add a word to your *favourites*
  - Search a word in multi dictionaries
  - Send a word and meaning by E-Mail or SMS
+ - Set application language (Application supports **Turkish**, **English**, **German**, **French**, **Italian**, **Chinese**, **Arabic**, **Persian**, **Russian**, **Spanish**, **Portuguese**, **Sanskrit**, **Thai**)
  - Gather statistical info about names
  - And the other functionalities like
 	 - *Change application's background color*
