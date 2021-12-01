@@ -1,5 +1,7 @@
 # Awesome Dictionary
 
+![GitHub stars](https://img.shields.io/github/stars/coderserdar/AwesomeDictionary?style=social) ![GitHub forks](https://img.shields.io/github/forks/coderserdar/AwesomeDictionary?style=social) ![GitHub watchers](https://img.shields.io/github/watchers/coderserdar/AwesomeDictionary?style=social) ![GitHub repo size](https://img.shields.io/github/repo-size/coderserdar/AwesomeDictionary?style=plastic) ![GitHub language count](https://img.shields.io/github/languages/count/coderserdar/AwesomeDictionary?style=plastic) ![GitHub top language](https://img.shields.io/github/languages/top/coderserdar/AwesomeDictionary?style=plastic) ![GitHub last commit](https://img.shields.io/github/last-commit/coderserdar/AwesomeDictionary?color=red&style=plastic)
+
 This is a **Windows Phone** app which is used to *load some dictionaries in app* from a database and after that use it without internet connection.
 This app is written in **C#** programming language and in **Visual Studio 2015**. 
 
